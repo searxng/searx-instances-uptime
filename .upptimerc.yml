@@ -1,0 +1,196 @@
+# Change these first
+owner: searxng # Your GitHub organization or username, where this repository lives
+repo: searx-instances-uptime # The name of this repository
+sites:
+  - name: searx.space
+    url: https://searx.space
+  - name: anon.sx
+    url: https://anon.sx
+  - name: asowneryt.cloudns.nz
+    url: https://asowneryt.cloudns.nz
+  - name: darmarit.org
+    url: https://darmarit.org/searx
+  - name: dynabyte.ca
+    url: https://dynabyte.ca
+  - name: etsi.me
+    url: https://etsi.me
+  - name: jsearch.pw
+    url: https://jsearch.pw
+  - name: nibblehole.com
+    url: https://nibblehole.com
+  - name: northboot.xyz
+    url: https://northboot.xyz
+  - name: paulgo.io
+    url: https://paulgo.io
+  - name: procurx.pt
+    url: https://procurx.pt
+  - name: s.zhaocloud.net
+    url: https://s.zhaocloud.net
+  - name: search.antonkling.se
+    url: https://search.antonkling.se
+  - name: search.bus-hit.me
+    url: https://search.bus-hit.me
+  - name: search.chemicals-in-the-water.eu
+    url: https://search.chemicals-in-the-water.eu
+  - name: search.disroot.org
+    url: https://search.disroot.org
+  - name: search.ethibox.fr
+    url: https://search.ethibox.fr
+  - name: search.jpope.org
+    url: https://search.jpope.org
+  - name: search.mdosch.de
+    url: https://search.mdosch.de
+  - name: search.neet.works
+    url: https://search.neet.works
+  - name: search.ononoki.org
+    url: https://search.ononoki.org
+  - name: search.privacyguides.net
+    url: https://search.privacyguides.net
+  - name: search.rabbit-company.com
+    url: https://search.rabbit-company.com
+  - name: search.roombob.cat
+    url: https://search.roombob.cat
+  - name: search.snopyta.org
+    url: https://search.snopyta.org
+  - name: search.stinpriza.org
+    url: https://search.stinpriza.org
+  - name: search.trom.tf
+    url: https://search.trom.tf
+  - name: search.vojkovic.xyz
+    url: https://search.vojkovic.xyz
+  - name: search.zzls.xyz
+    url: https://search.zzls.xyz
+  - name: searx.albony.xyz
+    url: https://searx.albony.xyz
+  - name: searx.bardia.tech
+    url: https://searx.bardia.tech
+  - name: searx.be
+    url: https://searx.be
+  - name: searx.bissisoft.com
+    url: https://searx.bissisoft.com
+  - name: searx.divided-by-zero.eu
+    url: https://searx.divided-by-zero.eu
+  - name: searx.dresden.network
+    url: https://searx.dresden.network
+  - name: searx.ebnar.xyz
+    url: https://searx.ebnar.xyz
+  - name: searx.esmailelbob.xyz
+    url: https://searx.esmailelbob.xyz
+  - name: searx.fmac.xyz
+    url: https://searx.fmac.xyz
+  - name: searx.fossencdi.org
+    url: https://searx.fossencdi.org
+  - name: searx.gnous.eu
+    url: https://searx.gnous.eu
+  - name: searx.gnu.style
+    url: https://searx.gnu.style
+  - name: searx.josie.lol
+    url: https://searx.josie.lol
+  - name: searx.kujonello.cf
+    url: https://searx.kujonello.cf
+  - name: searx.loafland.xyz
+    url: https://searx.loafland.xyz
+  - name: searx.mastodontech.de
+    url: https://searx.mastodontech.de
+  - name: searx.mha.fi
+    url: https://searx.mha.fi
+  - name: searx.mxchange.org
+    url: https://searx.mxchange.org
+  - name: searx.nakhan.net
+    url: https://searx.nakhan.net
+  - name: searx.namejeff.xyz
+    url: https://searx.namejeff.xyz
+  - name: searx.netzspielplatz.de
+    url: https://searx.netzspielplatz.de
+  - name: searx.nixnet.services
+    url: https://searx.nixnet.services
+  - name: searx.openhoofd.nl
+    url: https://searx.openhoofd.nl
+  - name: searx.org
+    url: https://searx.org
+  - name: searx.orion-hub.fr
+    url: https://searx.orion-hub.fr
+  - name: searx.ppeb.me
+    url: https://searx.ppeb.me
+  - name: searx.priv.pw
+    url: https://searx.priv.pw
+  - name: searx.prvcy.eu
+    url: https://searx.prvcy.eu
+  - name: searx.pwoss.org
+    url: https://searx.pwoss.org
+  - name: searx.rasp.fr
+    url: https://searx.rasp.fr
+  - name: searx.ru
+    url: https://searx.ru
+  - name: searx.run
+    url: https://searx.run
+  - name: searx.semipvt.com
+    url: https://searx.semipvt.com
+  - name: searx.sethforprivacy.com
+    url: https://searx.sethforprivacy.com
+  - name: searx.sev.monster
+    url: https://searx.sev.monster
+  - name: searx.solusar.de
+    url: https://searx.solusar.de
+  - name: searx.sp-codes.de
+    url: https://searx.sp-codes.de
+  - name: searx.stuehieyr.com
+    url: https://searx.stuehieyr.com
+  - name: searx.theanonymouse.xyz
+    url: https://searx.theanonymouse.xyz
+  - name: searx.tiekoetter.com
+    url: https://searx.tiekoetter.com
+  - name: searx.tux.land
+    url: https://searx.tux.land
+  - name: searx.tuxcloud.net
+    url: https://searx.tuxcloud.net
+  - name: searx.tyil.nl
+    url: https://searx.tyil.nl
+  - name: searx.webheberg.info
+    url: https://searx.webheberg.info
+  - name: searx.xkek.net
+    url: https://searx.xkek.net
+  - name: searx.xyz
+    url: https://searx.xyz
+  - name: searx.zapashcanon.fr
+    url: https://searx.zapashcanon.fr
+  - name: searxng.zackptg5.com
+    url: https://searxng.zackptg5.com
+  - name: serx.ml
+    url: https://serx.ml
+  - name: spot.ecloud.global
+    url: https://spot.ecloud.global
+  - name: suche.dasnetzundich.de
+    url: https://suche.dasnetzundich.de
+  - name: suche.tromdienste.de
+    url: https://suche.tromdienste.de
+  - name: suche.uferwerk.org
+    url: https://suche.uferwerk.org
+  - name: swag.pw
+    url: https://swag.pw
+  - name: sx.catgirl.cloud
+    url: https://sx.catgirl.cloud
+  - name: timdor.noip.me
+    url: https://timdor.noip.me/searx
+  - name: wtf.roflcopter.fr
+    url: https://wtf.roflcopter.fr/searx
+  - name: www.gruble.de
+    url: https://www.gruble.de
+  - name: www.webrats.xyz
+    url: https://www.webrats.xyz
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: uptime.searxng.org
+  #baseUrl: /searx-instances-uptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: SearXNG and SearX instances
+  introTitle: "Uptime of SearXNG and SearX instances"
+  introMessage: This status page monitors [SearXNG and SearX instances](https://github.com/searxng/searx-instances) for uptime.
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
