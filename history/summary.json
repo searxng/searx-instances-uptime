@@ -322,7 +322,7 @@
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-06-05": 811,
+      "2022-06-05": 825,
       "2022-06-04": 567
     }
   },
@@ -529,19 +529,19 @@
     "url": "https://searx.albony.xyz",
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1013,
-    "timeDay": 1013,
-    "timeWeek": 1013,
-    "timeMonth": 1013,
-    "timeYear": 1013,
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
+    "time": 1033,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-06-05": 1
+      "2022-06-05": 15
     }
   },
   {
@@ -759,7 +759,7 @@
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-06-05": 811,
+      "2022-06-05": 825,
       "2022-06-04": 566
     }
   },
