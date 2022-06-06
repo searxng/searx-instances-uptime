@@ -322,7 +322,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-06": 930,
+      "2022-06-06": 961,
       "2022-06-05": 1440,
       "2022-06-04": 567
     }
@@ -495,18 +495,18 @@
     "icon": "https://favicons.githubusercontent.com/search.vojkovic.xyz",
     "slug": "search-vojkovic-xyz",
     "status": "up",
-    "uptime": "86.15%",
-    "uptimeDay": "72.81%",
-    "uptimeWeek": "86.15%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "86.15%",
+    "uptime": "85.23%",
+    "uptimeDay": "70.68%",
+    "uptimeWeek": "85.23%",
+    "uptimeMonth": "85.23%",
+    "uptimeYear": "85.23%",
     "time": 669,
     "timeDay": 662,
     "timeWeek": 669,
     "timeMonth": 669,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2022-06-06": 392
+      "2022-06-06": 422
     }
   },
   {
@@ -533,18 +533,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
     "status": "up",
-    "uptime": "44.83%",
+    "uptime": "44.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.83%",
-    "uptimeMonth": "44.83%",
-    "uptimeYear": "44.83%",
+    "uptimeWeek": "44.35%",
+    "uptimeMonth": "44.35%",
+    "uptimeYear": "44.35%",
     "time": 1033,
     "timeDay": 1034,
     "timeWeek": 1033,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-06-06": 930,
+      "2022-06-06": 961,
       "2022-06-05": 630
     }
   },
@@ -763,7 +763,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-06-06": 930,
+      "2022-06-06": 961,
       "2022-06-05": 1440,
       "2022-06-04": 566
     }
@@ -971,19 +971,19 @@
     "url": "https://searx.orion-hub.fr",
     "icon": "https://favicons.githubusercontent.com/searx.orion-hub.fr",
     "slug": "searx-orion-hub-fr",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 725,
-    "timeDay": 547,
-    "timeWeek": 725,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 694,
+    "timeDay": 574,
+    "timeWeek": 694,
+    "timeMonth": 694,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2022-06-06": 1
+      "2022-06-06": 32
     }
   },
   {
@@ -1532,18 +1532,18 @@
     "icon": "https://favicons.githubusercontent.com/timdor.noip.me",
     "slug": "timdor-noip-me",
     "status": "up",
-    "uptime": "71.56%",
-    "uptimeDay": "44.16%",
-    "uptimeWeek": "71.56%",
-    "uptimeMonth": "71.56%",
-    "uptimeYear": "71.56%",
+    "uptime": "70.79%",
+    "uptimeDay": "42.04%",
+    "uptimeWeek": "70.79%",
+    "uptimeMonth": "70.79%",
+    "uptimeYear": "70.79%",
     "time": 362,
     "timeDay": 388,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2022-06-06": 804
+      "2022-06-06": 835
     }
   },
   {
