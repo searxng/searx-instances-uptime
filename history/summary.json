@@ -40,17 +40,17 @@
     "url": "https://asowneryt.cloudns.nz",
     "icon": "https://favicons.githubusercontent.com/asowneryt.cloudns.nz",
     "slug": "asowneryt-cloudns-nz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 0,
-    "timeWeek": 1249,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "time": 1114,
+    "timeDay": 844,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {}
   },
   {
@@ -322,7 +322,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-06": 213,
+      "2022-06-06": 433,
       "2022-06-05": 1440,
       "2022-06-04": 567
     }
@@ -531,18 +531,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
     "status": "up",
-    "uptime": "60.07%",
-    "uptimeDay": "41.49%",
-    "uptimeWeek": "60.07%",
-    "uptimeMonth": "60.07%",
-    "uptimeYear": "60.07%",
+    "uptime": "54.40%",
+    "uptimeDay": "26.21%",
+    "uptimeWeek": "54.40%",
+    "uptimeMonth": "54.40%",
+    "uptimeYear": "54.40%",
     "time": 1033,
-    "timeDay": 989,
+    "timeDay": 954,
     "timeWeek": 1033,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-06-06": 213,
+      "2022-06-06": 433,
       "2022-06-05": 630
     }
   },
@@ -761,7 +761,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-06-06": 213,
+      "2022-06-06": 433,
       "2022-06-05": 1440,
       "2022-06-04": 566
     }
@@ -1528,18 +1528,18 @@
     "icon": "https://favicons.githubusercontent.com/timdor.noip.me",
     "slug": "timdor-noip-me",
     "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "93.98%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "95.89%",
+    "uptime": "86.84%",
+    "uptimeDay": "78.72%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "86.84%",
+    "uptimeYear": "86.84%",
     "time": 362,
     "timeDay": 388,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2022-06-06": 87
+      "2022-06-06": 306
     }
   },
   {
