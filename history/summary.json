@@ -322,7 +322,7 @@
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2022-06-06": 123,
+      "2022-06-06": 127,
       "2022-06-05": 1440,
       "2022-06-04": 567
     }
@@ -531,18 +531,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
     "status": "up",
-    "uptime": "62.73%",
-    "uptimeDay": "47.71%",
-    "uptimeWeek": "62.73%",
-    "uptimeMonth": "62.73%",
-    "uptimeYear": "62.73%",
+    "uptime": "62.62%",
+    "uptimeDay": "47.45%",
+    "uptimeWeek": "62.62%",
+    "uptimeMonth": "62.62%",
+    "uptimeYear": "62.62%",
     "time": 1033,
     "timeDay": 989,
     "timeWeek": 1033,
     "timeMonth": 1033,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-06-06": 123,
+      "2022-06-06": 127,
       "2022-06-05": 630
     }
   },
@@ -761,7 +761,7 @@
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-06-06": 123,
+      "2022-06-06": 127,
       "2022-06-05": 1440,
       "2022-06-04": 566
     }
@@ -1527,18 +1527,20 @@
     "url": "https://timdor.noip.me/searx",
     "icon": "https://favicons.githubusercontent.com/timdor.noip.me",
     "slug": "timdor-noip-me",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 310,
     "timeDay": 258,
     "timeWeek": 310,
     "timeMonth": 310,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-06": 1
+    }
   },
   {
     "name": "wtf.roflcopter.fr",
