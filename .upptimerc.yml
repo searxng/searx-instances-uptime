@@ -62,8 +62,6 @@ sites:
     url: https://search.zzls.xyz
   - name: searx.albony.xyz
     url: https://searx.albony.xyz
-  - name: searx.bardia.tech
-    url: https://searx.bardia.tech
   - name: searx.be
     url: https://searx.be
   - name: searx.bissisoft.com
@@ -136,8 +134,6 @@ sites:
     url: https://searx.sp-codes.de
   - name: searx.stuehieyr.com
     url: https://searx.stuehieyr.com
-  - name: searx.theanonymouse.xyz
-    url: https://searx.theanonymouse.xyz
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tux.land
@@ -154,6 +150,8 @@ sites:
     url: https://searx.xyz
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
+  - name: searxng.ir
+    url: https://searxng.ir
   - name: searxng.zackptg5.com
     url: https://searxng.zackptg5.com
   - name: serx.ml
