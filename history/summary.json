@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/search.chemicals-in-the-water.eu",
     "slug": "search-chemicals-in-the-water-eu",
     "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.27%",
-    "uptimeYear": "98.27%",
+    "uptime": "91.13%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "91.13%",
     "time": 556,
     "timeDay": 596,
     "timeWeek": 556,
     "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-06-07": 67
+      "2022-06-07": 371
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-06-07": 535,
+      "2022-06-07": 839,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 567
@@ -497,19 +497,19 @@
     "url": "https://search.vojkovic.xyz",
     "icon": "https://favicons.githubusercontent.com/search.vojkovic.xyz",
     "slug": "search-vojkovic-xyz",
-    "status": "up",
-    "uptime": "62.91%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "62.91%",
-    "uptimeMonth": "62.91%",
-    "uptimeYear": "62.91%",
+    "status": "down",
+    "uptime": "58.34%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "58.34%",
+    "uptimeMonth": "58.34%",
+    "uptimeYear": "58.34%",
     "time": 655,
-    "timeDay": 609,
+    "timeDay": 600,
     "timeWeek": 655,
     "timeMonth": 655,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-06-07": 535,
+      "2022-06-07": 839,
       "2022-06-06": 901
     }
   },
@@ -537,18 +537,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
     "status": "up",
-    "uptime": "32.74%",
+    "uptime": "30.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.74%",
-    "uptimeMonth": "32.74%",
-    "uptimeYear": "32.74%",
+    "uptimeWeek": "30.36%",
+    "uptimeMonth": "30.36%",
+    "uptimeYear": "30.36%",
     "time": 1335,
     "timeDay": 5872,
     "timeWeek": 1335,
     "timeMonth": 1335,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2022-06-07": 535,
+      "2022-06-07": 839,
       "2022-06-06": 1440,
       "2022-06-05": 630
     }
@@ -768,7 +768,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-06-07": 535,
+      "2022-06-07": 839,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 566
@@ -978,18 +978,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.orion-hub.fr",
     "slug": "searx-orion-hub-fr",
     "status": "up",
-    "uptime": "73.00%",
-    "uptimeDay": "27.39%",
-    "uptimeWeek": "73.00%",
-    "uptimeMonth": "73.00%",
-    "uptimeYear": "73.00%",
+    "uptime": "67.69%",
+    "uptimeDay": "6.31%",
+    "uptimeWeek": "67.69%",
+    "uptimeMonth": "67.69%",
+    "uptimeYear": "67.69%",
     "time": 717,
     "timeDay": 706,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2022-06-07": 535,
+      "2022-06-07": 839,
       "2022-06-06": 510
     }
   },
@@ -1539,18 +1539,18 @@
     "icon": "https://favicons.githubusercontent.com/timdor.noip.me",
     "slug": "timdor-noip-me",
     "status": "up",
-    "uptime": "52.25%",
+    "uptime": "48.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.25%",
-    "uptimeMonth": "52.25%",
-    "uptimeYear": "52.25%",
+    "uptimeWeek": "48.45%",
+    "uptimeMonth": "48.45%",
+    "uptimeYear": "48.45%",
     "time": 385,
     "timeDay": 477,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2022-06-07": 536,
+      "2022-06-07": 839,
       "2022-06-06": 1313
     }
   },
