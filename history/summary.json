@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/search.chemicals-in-the-water.eu",
     "slug": "search-chemicals-in-the-water-eu",
     "status": "up",
-    "uptime": "83.21%",
-    "uptimeDay": "46.68%",
-    "uptimeWeek": "83.21%",
-    "uptimeMonth": "83.21%",
-    "uptimeYear": "83.21%",
+    "uptime": "82.06%",
+    "uptimeDay": "42.24%",
+    "uptimeWeek": "82.06%",
+    "uptimeMonth": "82.06%",
+    "uptimeYear": "82.06%",
     "time": 556,
     "timeDay": 596,
     "timeWeek": 556,
     "timeMonth": 556,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-06-07": 768
+      "2022-06-07": 832
     }
   },
   {
@@ -324,7 +324,7 @@
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 567
@@ -498,18 +498,18 @@
     "icon": "https://favicons.githubusercontent.com/search.vojkovic.xyz",
     "slug": "search-vojkovic-xyz",
     "status": "up",
-    "uptime": "53.27%",
+    "uptime": "52.53%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.27%",
-    "uptimeMonth": "53.27%",
-    "uptimeYear": "53.27%",
+    "uptimeWeek": "52.53%",
+    "uptimeMonth": "52.53%",
+    "uptimeYear": "52.53%",
     "time": 648,
     "timeDay": 622,
     "timeWeek": 648,
     "timeMonth": 648,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 901
     }
   },
@@ -537,18 +537,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.albony.xyz",
     "slug": "searx-albony-xyz",
     "status": "up",
-    "uptime": "27.72%",
+    "uptime": "27.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.72%",
-    "uptimeMonth": "27.72%",
-    "uptimeYear": "27.72%",
+    "uptimeWeek": "27.34%",
+    "uptimeMonth": "27.34%",
+    "uptimeYear": "27.34%",
     "time": 1335,
     "timeDay": 5872,
     "timeWeek": 1335,
     "timeMonth": 1335,
     "timeYear": 1335,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 1440,
       "2022-06-05": 630
     }
@@ -750,7 +750,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
       "2022-06-04": 566
@@ -960,18 +960,18 @@
     "icon": "https://favicons.githubusercontent.com/searx.orion-hub.fr",
     "slug": "searx-orion-hub-fr",
     "status": "up",
-    "uptime": "61.81%",
+    "uptime": "60.96%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.81%",
-    "uptimeMonth": "61.81%",
-    "uptimeYear": "61.81%",
+    "uptimeWeek": "60.96%",
+    "uptimeMonth": "60.96%",
+    "uptimeYear": "60.96%",
     "time": 717,
     "timeDay": 810,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 510
     }
   },
@@ -1484,18 +1484,20 @@
     "url": "https://swag.pw",
     "icon": "https://favicons.githubusercontent.com/swag.pw",
     "slug": "swag-pw",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 184,
     "timeDay": 223,
     "timeWeek": 184,
     "timeMonth": 184,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-07": 1
+    }
   },
   {
     "name": "sx.catgirl.cloud",
@@ -1521,18 +1523,18 @@
     "icon": "https://favicons.githubusercontent.com/timdor.noip.me",
     "slug": "timdor-noip-me",
     "status": "up",
-    "uptime": "44.24%",
+    "uptime": "43.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "44.24%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "44.24%",
+    "uptimeWeek": "43.63%",
+    "uptimeMonth": "43.63%",
+    "uptimeYear": "43.63%",
     "time": 385,
     "timeDay": 477,
     "timeWeek": 385,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2022-06-07": 1236,
+      "2022-06-07": 1300,
       "2022-06-06": 1313
     }
   },
