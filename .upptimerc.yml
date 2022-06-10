@@ -50,6 +50,8 @@ sites:
     url: https://search.rabbit-company.com
   - name: search.roombob.cat
     url: https://search.roombob.cat
+  - name: search.sapti.me
+    url: https://search.sapti.me
   - name: search.snopyta.org
     url: https://search.snopyta.org
   - name: search.stinpriza.org
