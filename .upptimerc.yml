@@ -66,6 +66,8 @@ sites:
     url: https://searx.albony.xyz
   - name: searx.be
     url: https://searx.be
+  - name: searx.becomesovran.com
+    url: https://searx.becomesovran.com
   - name: searx.bissisoft.com
     url: https://searx.bissisoft.com
   - name: searx.divided-by-zero.eu
