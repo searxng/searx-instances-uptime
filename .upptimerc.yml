@@ -146,6 +146,8 @@ sites:
     url: https://searx.tyil.nl
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
+  - name: xcxc.ml
+    url: https://xcxc.ml
   - name: searx.xkek.net
     url: https://searx.xkek.net
   - name: searx.xyz
