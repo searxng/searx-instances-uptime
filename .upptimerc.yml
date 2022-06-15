@@ -154,6 +154,8 @@ sites:
     url: https://searx.xyz
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
+  - name: searxng.au
+    url: https://searxng.au/searx
   - name: searxng.ir
     url: https://searxng.ir
   - name: searxng.tordenskjold.de
