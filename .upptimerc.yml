@@ -78,6 +78,8 @@ sites:
     url: https://searx.dresden.network
   - name: searx.ebnar.xyz
     url: https://searx.ebnar.xyz
+  - name: searx.ericaftereric.top
+    url: https://searx.ericaftereric.top
   - name: searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz
   - name: searx.fmac.xyz
@@ -152,6 +154,8 @@ sites:
     url: https://searx.xkek.net
   - name: searx.xyz
     url: https://searx.xyz
+  - name: searx.youshitsune.me
+    url: https://searx.youshitsune.me
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
   - name: searxng.au
