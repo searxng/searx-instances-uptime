@@ -74,6 +74,8 @@ sites:
     url: https://searx.becomesovran.com
   - name: searx.bissisoft.com
     url: https://searx.bissisoft.com
+  - name: searx.chocoflan.net
+    url: https://searx.chocoflan.net
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
   - name: searx.dresden.network
@@ -102,6 +104,8 @@ sites:
     url: https://searx.mastodontech.de
   - name: searx.mha.fi
     url: https://searx.mha.fi
+  - name: searx.mistli.net
+    url: https://searx.mistli.net
   - name: searx.mxchange.org
     url: https://searx.mxchange.org
   - name: searx.nakhan.net
