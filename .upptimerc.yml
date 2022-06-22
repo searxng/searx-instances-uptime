@@ -30,6 +30,8 @@ sites:
     url: https://s.zhaocloud.net
   - name: search.antonkling.se
     url: https://search.antonkling.se
+  - name: search.ashs.club
+    url: https://search.ashs.club
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.chemicals-in-the-water.eu
