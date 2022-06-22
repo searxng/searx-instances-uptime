@@ -1,7 +1,7 @@
 url: https://searxng.tordenskjold.de
-status: up
-code: 200
-responseTime: 834
-lastUpdated: 2022-06-22T15:38:40.082Z
+status: down
+code: 500
+responseTime: 700
+lastUpdated: 2022-06-22T17:33:20.146Z
 startTime: Mon Jun 13 2022 18:41:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
