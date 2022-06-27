@@ -1,7 +1,7 @@
 url: https://searx.albony.xyz
-status: up
-code: 200
-responseTime: 1199
-lastUpdated: 2022-06-27T09:25:14.863Z
+status: down
+code: 502
+responseTime: 1080
+lastUpdated: 2022-06-27T09:42:34.189Z
 startTime: Sat Jun 04 2022 16:22:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
