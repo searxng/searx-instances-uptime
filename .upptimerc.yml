@@ -30,14 +30,10 @@ sites:
     url: https://procurx.pt
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net
-  - name: search.antonkling.se
-    url: https://search.antonkling.se
   - name: search.ashs.club
     url: https://search.ashs.club
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
-  - name: search.chemicals-in-the-water.eu
-    url: https://search.chemicals-in-the-water.eu
   - name: search.disroot.org
     url: https://search.disroot.org
   - name: search.ethibox.fr
@@ -54,8 +50,6 @@ sites:
     url: https://search.privacyguides.net
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
-  - name: search.roombob.cat
-    url: https://search.roombob.cat
   - name: search.sapti.me
     url: https://search.sapti.me
   - name: search.snopyta.org
@@ -68,8 +62,6 @@ sites:
     url: https://search.vojkovic.xyz
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
-  - name: searx.albony.xyz
-    url: https://searx.albony.xyz
   - name: searx.be
     url: https://searx.be
   - name: searx.becomesovran.com
@@ -124,8 +116,6 @@ sites:
     url: https://searx.org
   - name: searx.orion-hub.fr
     url: https://searx.orion-hub.fr
-  - name: searx.ppeb.me
-    url: https://searx.ppeb.me
   - name: searx.priv.pw
     url: https://searx.priv.pw
   - name: searx.prvcy.eu
@@ -144,8 +134,6 @@ sites:
     url: https://searx.sethforprivacy.com
   - name: searx.sev.monster
     url: https://searx.sev.monster
-  - name: searx.solusar.de
-    url: https://searx.solusar.de
   - name: searx.sp-codes.de
     url: https://searx.sp-codes.de
   - name: searx.stuehieyr.com
@@ -158,8 +146,6 @@ sites:
     url: https://searx.tyil.nl
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
-  - name: searx.xkek.net
-    url: https://searx.xkek.net
   - name: searx.xyz
     url: https://searx.xyz
   - name: searx.youshitsune.me
