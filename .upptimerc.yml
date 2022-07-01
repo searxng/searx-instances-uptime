@@ -146,6 +146,8 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searx.tyil.nl
     url: https://searx.tyil.nl
+  - name: searx.vimproved.me
+    url: https://searx.vimproved.me
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
   - name: searx.xyz
