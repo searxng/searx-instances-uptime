@@ -60,6 +60,8 @@ sites:
     url: https://search.snopyta.org
   - name: search.stinpriza.org
     url: https://search.stinpriza.org
+  - name: search.teamriverbubbles.com
+    url: https://search.teamriverbubbles.com
   - name: search.trom.tf
     url: https://search.trom.tf
   - name: search.vojkovic.xyz
