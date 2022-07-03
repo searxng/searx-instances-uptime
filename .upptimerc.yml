@@ -140,6 +140,8 @@ sites:
     url: https://searx.sethforprivacy.com
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.slipfox.xyz
+    url: https://searx.slipfox.xyz/searx
   - name: searx.sp-codes.de
     url: https://searx.sp-codes.de
   - name: searx.stuehieyr.com
