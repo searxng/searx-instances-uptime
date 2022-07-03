@@ -1,7 +1,7 @@
 url: https://searx.org
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2022-07-02T23:13:08.387Z
+status: down
+code: 503
+responseTime: 371
+lastUpdated: 2022-07-03T05:41:03.996Z
 startTime: Sat Jun 04 2022 16:23:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
