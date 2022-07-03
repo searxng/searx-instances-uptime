@@ -6,8 +6,6 @@ sites:
     url: https://searx.space
   - name: anon.sx
     url: https://anon.sx
-  - name: asowneryt.cloudns.nz
-    url: https://asowneryt.cloudns.nz
   - name: darmarit.org
     url: https://darmarit.org/searx
   - name: de.xcxc.ml
