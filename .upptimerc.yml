@@ -34,6 +34,8 @@ sites:
     url: https://s.zhaocloud.net
   - name: search.ashs.club
     url: https://search.ashs.club
+  - name: search.bingowaves.xyz
+    url: https://search.bingowaves.xyz
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.chemicals-in-the-water.eu
@@ -176,6 +178,8 @@ sites:
     url: https://serx.ml
   - name: spot.ecloud.global
     url: https://spot.ecloud.global
+  - name: srx.cosmohub.io
+    url: https://srx.cosmohub.io
   - name: suche.dasnetzundich.de
     url: https://suche.dasnetzundich.de
   - name: suche.tromdienste.de
