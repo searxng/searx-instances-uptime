@@ -30,6 +30,8 @@ sites:
     url: https://paulgo.io
   - name: procurx.pt
     url: https://procurx.pt
+  - name: s.frlt.one
+    url: https://s.frlt.one
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net
   - name: search.ashs.club
