@@ -66,6 +66,8 @@ sites:
     url: https://search.teamriverbubbles.com
   - name: search.trom.tf
     url: https://search.trom.tf
+  - name: search.unlocked.link
+    url: https://search.unlocked.link
   - name: search.vojkovic.xyz
     url: https://search.vojkovic.xyz
   - name: search.zzls.xyz
