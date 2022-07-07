@@ -44,6 +44,8 @@ sites:
     url: https://search.ethibox.fr
   - name: search.jpope.org
     url: https://search.jpope.org
+  - name: search.kiwitalk.de
+    url: https://search.kiwitalk.de
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.neet.works
