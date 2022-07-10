@@ -158,6 +158,8 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searx.tyil.nl
     url: https://searx.tyil.nl
+  - name: searx.vanwa.tech
+    url: https://searx.vanwa.tech
   - name: searx.vimproved.me
     url: https://searx.vimproved.me
   - name: searx.webheberg.info
