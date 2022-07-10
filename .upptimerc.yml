@@ -42,8 +42,6 @@ sites:
     url: https://search.disroot.org
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
-  - name: search.jpope.org
-    url: https://search.jpope.org
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
   - name: search.mdosch.de
@@ -100,8 +98,6 @@ sites:
     url: https://searx.gnous.eu
   - name: searx.gnu.style
     url: https://searx.gnu.style
-  - name: searx.josie.lol
-    url: https://searx.josie.lol
   - name: searx.kujonello.cf
     url: https://searx.kujonello.cf
   - name: searx.loafland.xyz
