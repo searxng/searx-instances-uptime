@@ -44,6 +44,8 @@ sites:
     url: https://search.disroot.org
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
+  - name: search.gcomm.ch
+    url: https://search.gcomm.ch
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
   - name: search.mdosch.de
