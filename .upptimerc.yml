@@ -26,6 +26,8 @@ sites:
     url: https://opnxng.com
   - name: paulgo.io
     url: https://paulgo.io
+  - name: private-searx.ml
+    url: https://private-searx.ml
   - name: privatus.live
     url: https://privatus.live
   - name: s.frlt.one
