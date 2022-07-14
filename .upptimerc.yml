@@ -58,6 +58,8 @@ sites:
     url: https://search.ononoki.org
   - name: search.privacyguides.net
     url: https://search.privacyguides.net
+  - name: search.projectsegfau.lt
+    url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
   - name: search.sapti.me
