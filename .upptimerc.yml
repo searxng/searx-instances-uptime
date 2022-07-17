@@ -22,8 +22,6 @@ sites:
     url: https://jsearch.pw
   - name: northboot.xyz
     url: https://northboot.xyz
-  - name: notgoogle.win
-    url: https://notgoogle.win
   - name: opnxng.com
     url: https://opnxng.com
   - name: paulgo.io
@@ -108,8 +106,6 @@ sites:
     url: https://searx.gnous.eu
   - name: searx.gnu.style
     url: https://searx.gnu.style
-  - name: searx.kujonello.cf
-    url: https://searx.kujonello.cf
   - name: searx.loafland.xyz
     url: https://searx.loafland.xyz
   - name: searx.mastodontech.de
