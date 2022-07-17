@@ -16,6 +16,8 @@ sites:
     url: https://etsi.me
   - name: icanfindit.online
     url: https://icanfindit.online
+  - name: jackgoss.xyz
+    url: https://jackgoss.xyz
   - name: jsearch.pw
     url: https://jsearch.pw
   - name: northboot.xyz
