@@ -136,6 +136,8 @@ sites:
     url: https://searx.pwoss.org
   - name: searx.rasp.fr
     url: https://searx.rasp.fr
+  - name: searx.rimkus.it
+    url: https://searx.rimkus.it
   - name: searx.ru
     url: https://searx.ru
   - name: searx.run
