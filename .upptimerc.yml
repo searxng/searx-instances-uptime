@@ -36,6 +36,8 @@ sites:
     url: https://s.frlt.one
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net
+  - name: search.affusio.com
+    url: https://search.affusio.com
   - name: search.ashs.club
     url: https://search.ashs.club
   - name: search.bingowaves.xyz
