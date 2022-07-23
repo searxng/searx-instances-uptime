@@ -78,6 +78,8 @@ sites:
     url: https://search.trom.tf
   - name: search.unlocked.link
     url: https://search.unlocked.link
+  - name: search.vidhukant.xyz
+    url: https://search.vidhukant.xyz
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.be
