@@ -28,8 +28,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: private-searx.ml
-    url: https://private-searx.ml
   - name: privatus.live
     url: https://privatus.live
   - name: s.frlt.one
