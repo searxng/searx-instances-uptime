@@ -184,6 +184,8 @@ sites:
     url: https://searxng.zackptg5.com
   - name: serx.ml
     url: https://serx.ml
+  - name: sh0.it
+    url: https://sh0.it
   - name: spot.ecloud.global
     url: https://spot.ecloud.global
   - name: srx.cosmohub.io
