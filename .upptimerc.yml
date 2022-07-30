@@ -168,8 +168,6 @@ sites:
     url: https://searx.webheberg.info
   - name: searx.xyz
     url: https://searx.xyz
-  - name: searx.youshitsune.me
-    url: https://searx.youshitsune.me
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
   - name: searx.zcyph.cc
