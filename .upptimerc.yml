@@ -34,6 +34,8 @@ sites:
     url: https://s.zhaocloud.net
   - name: saber.tk
     url: https://saber.tk
+  - name: search.0relay.com
+    url: https://search.0relay.com
   - name: search.affusio.com
     url: https://search.affusio.com
   - name: search.ashs.club
