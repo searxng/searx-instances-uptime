@@ -1,7 +1,7 @@
 url: https://searx.rimkus.it
-status: up
-code: 200
-responseTime: 1411
-lastUpdated: 2022-08-01T23:17:53.649Z
+status: down
+code: 502
+responseTime: 1063
+lastUpdated: 2022-08-02T07:50:08.869Z
 startTime: Wed Jul 20 2022 13:07:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
