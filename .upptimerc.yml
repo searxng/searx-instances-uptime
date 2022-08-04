@@ -134,8 +134,6 @@ sites:
     url: https://searx.priv.pw
   - name: searx.prvcy.eu
     url: https://searx.prvcy.eu
-  - name: searx.rasp.fr
-    url: https://searx.rasp.fr
   - name: searx.rimkus.it
     url: https://searx.rimkus.it
   - name: searx.ru
