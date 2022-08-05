@@ -110,6 +110,8 @@ sites:
     url: https://searx.gnous.eu
   - name: searx.gnu.style
     url: https://searx.gnu.style
+  - name: searx.kujonello.cf
+    url: https://searx.kujonello.cf
   - name: searx.mastodontech.de
     url: https://searx.mastodontech.de
   - name: searx.mha.fi
