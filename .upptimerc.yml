@@ -206,6 +206,8 @@ sites:
     url: https://wtf.roflcopter.fr/searx
   - name: www.gruble.de
     url: https://www.gruble.de
+  - name: www.higgssearch.com
+    url: https://www.higgssearch.com
   - name: www.webrats.xyz
     url: https://www.webrats.xyz
   - name: xcxc.ml
