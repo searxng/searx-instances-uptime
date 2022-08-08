@@ -1,7 +1,7 @@
 url: https://searx.vanwa.tech
-status: up
-code: 200
-responseTime: 168
-lastUpdated: 2022-08-07T23:13:44.808Z
+status: down
+code: 502
+responseTime: 158
+lastUpdated: 2022-08-08T11:37:59.237Z
 startTime: Sun Jul 10 2022 05:29:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
