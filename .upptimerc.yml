@@ -38,10 +38,6 @@ sites:
     url: https://search.0relay.com
   - name: search.affusio.com
     url: https://search.affusio.com
-  - name: search.ashs.club
-    url: https://search.ashs.club
-  - name: search.bingowaves.xyz
-    url: https://search.bingowaves.xyz
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.chemicals-in-the-water.eu
