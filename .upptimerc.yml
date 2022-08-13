@@ -78,6 +78,8 @@ sites:
     url: https://search.vidhukant.xyz
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
+  - name: searx.baczek.me
+    url: https://searx.baczek.me
   - name: searx.be
     url: https://searx.be
   - name: searx.becomesovran.com
