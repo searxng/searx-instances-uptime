@@ -4,6 +4,9 @@ on:
   schedule:
     - cron:  '0 * * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - ".upptimerc-custom.yml"
 
 jobs:
   build:
@@ -31,6 +34,7 @@ jobs:
               domain=$(echo "$address" | awk -F[/:] '{print $4}')
               domain=$domain address=$address yq '.sites += {"name": env(domain), "url": env(address)}' -i .upptimerc.yml
           done < <(yq e 'to_entries | .[] | .key' searx-instances/searxinstances/instances.yml | grep -v onion | grep -v i2p)
+          yq eval-all -i 'select(fileIndex == 0) *+ select(fileIndex == 1)' .upptimerc.yml .upptimerc-custom.yml
           if [ -n "$(git diff --exit-code)" ]; then
             git config user.name "SearXNG"
             git config user.email "contact@searxng.org"
