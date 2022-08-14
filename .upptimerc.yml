@@ -14,8 +14,6 @@ sites:
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
-  - name: icanfindit.online
-    url: https://icanfindit.online
   - name: jackgoss.xyz
     url: https://jackgoss.xyz
   - name: jsearch.pw
@@ -216,6 +214,8 @@ sites:
     url: https://xcxc.ml
   - name: xo.wtf
     url: https://xo.wtf
+  - name: icanfindit.online
+    url: https://icanfindit.online
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
