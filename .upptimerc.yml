@@ -214,6 +214,8 @@ sites:
     url: https://xcxc.ml
   - name: xo.wtf
     url: https://xo.wtf
+  - name: searx.neocities.org
+    url: https://searx.neocities.org
   - name: icanfindit.online
     url: https://icanfindit.online
 status-website:
