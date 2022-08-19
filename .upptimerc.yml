@@ -4,8 +4,6 @@ repo: searx-instances-uptime # The name of this repository
 sites:
   - name: searx.space
     url: https://searx.space
-  - name: anon.sx
-    url: https://anon.sx
   - name: darmarit.org
     url: https://darmarit.org/searx
   - name: de.xcxc.ml
