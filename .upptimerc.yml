@@ -60,6 +60,8 @@ sites:
     url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
+  - name: search.rhscze.cf
+    url: https://search.rhscze.cf
   - name: search.sapti.me
     url: https://search.sapti.me
   - name: search.snopyta.org
@@ -196,8 +198,6 @@ sites:
     url: https://suche.tromdienste.de
   - name: suche.uferwerk.org
     url: https://suche.uferwerk.org
-  - name: swag.pw
-    url: https://swag.pw
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: timdor.noip.me
