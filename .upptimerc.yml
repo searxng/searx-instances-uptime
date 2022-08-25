@@ -18,6 +18,8 @@ sites:
     url: https://jackgoss.xyz
   - name: jsearch.pw
     url: https://jsearch.pw
+  - name: metasearch.nl
+    url: https://metasearch.nl
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: opnxng.com
@@ -64,6 +66,8 @@ sites:
     url: https://search.rabbit-company.com
   - name: search.rhscze.cf
     url: https://search.rhscze.cf
+  - name: search.rowie.at
+    url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
   - name: search.snopyta.org
