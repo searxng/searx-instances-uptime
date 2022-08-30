@@ -36,8 +36,6 @@ sites:
     url: https://s.zhaocloud.net
   - name: saber.tk
     url: https://saber.tk
-  - name: sear.r-ay.co
-    url: https://sear.r-ay.co
   - name: search.0relay.com
     url: https://search.0relay.com
   - name: search.affusio.com
@@ -186,8 +184,6 @@ sites:
     url: https://searxng.tordenskjold.de
   - name: searxng.zackptg5.com
     url: https://searxng.zackptg5.com
-  - name: searxvm.com
-    url: https://searxvm.com
   - name: serx.ml
     url: https://serx.ml
   - name: sh0.it
