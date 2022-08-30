@@ -180,6 +180,8 @@ sites:
     url: https://searxng.au/searx
   - name: searxng.ir
     url: https://searxng.ir
+  - name: searxng.nicfab.it
+    url: https://searxng.nicfab.it
   - name: searxng.tordenskjold.de
     url: https://searxng.tordenskjold.de
   - name: searxng.zackptg5.com
