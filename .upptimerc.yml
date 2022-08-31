@@ -44,6 +44,8 @@ sites:
     url: https://search.bus-hit.me
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu
+  - name: search.cronobox.one
+    url: https://search.cronobox.one
   - name: search.disroot.org
     url: https://search.disroot.org
   - name: search.ethibox.fr
