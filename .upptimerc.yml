@@ -22,6 +22,8 @@ sites:
     url: https://metasearch.nl
   - name: northboot.xyz
     url: https://northboot.xyz
+  - name: notsearch.uk
+    url: https://notsearch.uk
   - name: opnxng.com
     url: https://opnxng.com
   - name: paulgo.io
