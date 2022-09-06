@@ -76,6 +76,8 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
+  - name: search.serginho.dev
+    url: https://search.serginho.dev
   - name: search.snopyta.org
     url: https://search.snopyta.org
   - name: search.stinpriza.org
