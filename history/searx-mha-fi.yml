@@ -1,7 +1,7 @@
 url: https://searx.mha.fi
-status: down
-code: 502
-responseTime: 588
-lastUpdated: 2022-09-12T23:16:35.211Z
+status: up
+code: 200
+responseTime: 455
+lastUpdated: 2022-09-13T07:48:46.042Z
 startTime: Sat Jun 04 2022 16:22:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
