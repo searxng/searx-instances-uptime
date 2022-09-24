@@ -222,6 +222,8 @@ sites:
     url: https://www.gruble.de
   - name: www.webrats.xyz
     url: https://www.webrats.xyz
+  - name: xcxc.ml
+    url: https://xcxc.ml
   - name: xo.wtf
     url: https://xo.wtf
   - name: searx.neocities.org
