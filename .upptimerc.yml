@@ -52,6 +52,8 @@ sites:
     url: https://search.cronobox.one
   - name: search.disroot.org
     url: https://search.disroot.org
+  - name: search.drivet.xyz
+    url: https://search.drivet.xyz
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
   - name: search.gcomm.ch
