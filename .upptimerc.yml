@@ -12,8 +12,6 @@ sites:
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
-  - name: icanfindit.online
-    url: https://icanfindit.online
   - name: jackgoss.xyz
     url: https://jackgoss.xyz
   - name: jsearch.pw
@@ -52,8 +50,6 @@ sites:
     url: https://search.cronobox.one
   - name: search.disroot.org
     url: https://search.disroot.org
-  - name: search.drivet.xyz
-    url: https://search.drivet.xyz
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
   - name: search.gcomm.ch
