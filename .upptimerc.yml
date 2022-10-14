@@ -146,6 +146,8 @@ sites:
     url: https://searx.netzspielplatz.de
   - name: searx.nixnet.services
     url: https://searx.nixnet.services
+  - name: searx.oakleycord.dev
+    url: https://searx.oakleycord.dev
   - name: searx.org
     url: https://searx.org
   - name: searx.orion-hub.fr
