@@ -178,6 +178,8 @@ sites:
     url: https://searx.stuehieyr.com
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
+  - name: searx.tuxcloud.net
+    url: https://searx.tuxcloud.net
   - name: searx.tyil.nl
     url: https://searx.tyil.nl
   - name: searx.vanwa.tech
