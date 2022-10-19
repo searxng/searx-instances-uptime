@@ -22,6 +22,8 @@ sites:
     url: https://northboot.xyz
   - name: notsearch.uk
     url: https://notsearch.uk
+  - name: ooglester.com
+    url: https://ooglester.com
   - name: opnxng.com
     url: https://opnxng.com
   - name: paulgo.io
