@@ -74,8 +74,8 @@ sites:
     url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
-  - name: search.rhscze.eu
-    url: https://search.rhscze.eu
+  - name: search.rhscz.eu
+    url: https://search.rhscz.eu
   - name: search.rowie.at
     url: https://search.rowie.at
   - name: search.sapti.me
@@ -212,8 +212,8 @@ sites:
     url: https://sh0.it
   - name: soek.allesbeste.com
     url: https://soek.allesbeste.com
-  - name: spot.ecloud.global
-    url: https://spot.ecloud.global
+  - name: spot.murena.io
+    url: https://spot.murena.io
   - name: srx.cosmohub.io
     url: https://srx.cosmohub.io
   - name: suche.dasnetzundich.de
