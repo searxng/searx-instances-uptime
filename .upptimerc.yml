@@ -56,6 +56,8 @@ sites:
     url: https://search.drivet.xyz
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
+  - name: search.freenetchads.com
+    url: https://search.freenetchads.com
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
@@ -204,8 +206,6 @@ sites:
     url: https://searxng.nicfab.eu
   - name: searxng.zackptg5.com
     url: https://searxng.zackptg5.com
-  - name: searxngsearch.com
-    url: https://searxngsearch.com
   - name: serx.ml
     url: https://serx.ml
   - name: sh0.it
