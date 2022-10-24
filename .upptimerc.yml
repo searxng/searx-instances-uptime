@@ -216,12 +216,8 @@ sites:
     url: https://spot.murena.io
   - name: srx.cosmohub.io
     url: https://srx.cosmohub.io
-  - name: suche.dasnetzundich.de
-    url: https://suche.dasnetzundich.de
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de
-  - name: suche.uferwerk.org
-    url: https://suche.uferwerk.org
   - name: swag.pw
     url: https://swag.pw
   - name: sx.catgirl.cloud
