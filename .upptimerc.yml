@@ -182,8 +182,6 @@ sites:
     url: https://searx.stuehieyr.com
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
-  - name: searx.tuxcloud.net
-    url: https://searx.tuxcloud.net
   - name: searx.tyil.nl
     url: https://searx.tyil.nl
   - name: searx.vanwa.tech
@@ -232,8 +230,6 @@ sites:
     url: https://www.gruble.de
   - name: www.webrats.xyz
     url: https://www.webrats.xyz
-  - name: xcxc.ml
-    url: https://xcxc.ml
   - name: xo.wtf
     url: https://xo.wtf
   - name: searx.neocities.org
