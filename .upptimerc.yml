@@ -196,6 +196,8 @@ sites:
     url: https://searx.zapashcanon.fr
   - name: searx.zcyph.cc
     url: https://searx.zcyph.cc
+  - name: searx.zimro.xyz
+    url: https://searx.zimro.xyz
   - name: searxng.dupa.edu.pl
     url: https://searxng.dupa.edu.pl
   - name: searxng.ir
