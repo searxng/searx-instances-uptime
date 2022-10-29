@@ -154,8 +154,6 @@ sites:
     url: https://searx.nixnet.services
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
-  - name: searx.org
-    url: https://searx.org
   - name: searx.orion-hub.fr
     url: https://searx.orion-hub.fr
   - name: searx.priv.pw
@@ -166,8 +164,6 @@ sites:
     url: https://searx.rimkus.it
   - name: searx.ru
     url: https://searx.ru
-  - name: searx.run
-    url: https://searx.run
   - name: searx.semipvt.com
     url: https://searx.semipvt.com
   - name: searx.sethforprivacy.com
@@ -196,8 +192,6 @@ sites:
     url: https://searx.zapashcanon.fr
   - name: searx.zcyph.cc
     url: https://searx.zcyph.cc
-  - name: searxng.dupa.edu.pl
-    url: https://searxng.dupa.edu.pl
   - name: searxng.ir
     url: https://searxng.ir
   - name: searxng.nicfab.eu
