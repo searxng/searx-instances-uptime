@@ -1,3 +1,5 @@
 sites:
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: search.linuxtavern.org
+    url: https://search.linuxtavern.org
