@@ -3,3 +3,5 @@ sites:
     url: https://searx.neocities.org
   - name: search.linuxtavern.org
     url: https://search.linuxtavern.org
+  - name: searx.tuxcloud.net
+    url: https://searx.tuxcloud.net
