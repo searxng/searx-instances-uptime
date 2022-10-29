@@ -1,7 +1,7 @@
 url: https://searx.tyil.nl
-status: up
-code: 200
-responseTime: 984
-lastUpdated: 2022-10-28T23:17:51.166Z
+status: down
+code: 502
+responseTime: 718
+lastUpdated: 2022-10-29T07:40:38.904Z
 startTime: Sat Jun 04 2022 16:23:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
