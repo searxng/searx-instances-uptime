@@ -186,6 +186,8 @@ sites:
     url: https://searx.webheberg.info
   - name: searx.win
     url: https://searx.win
+  - name: searx.work
+    url: https://searx.work
   - name: searx.xyz
     url: https://searx.xyz
   - name: searx.zapashcanon.fr
@@ -198,8 +200,6 @@ sites:
     url: https://searxng.nicfab.eu
   - name: searxng.zackptg5.com
     url: https://searxng.zackptg5.com
-  - name: serx.ml
-    url: https://serx.ml
   - name: sh0.it
     url: https://sh0.it
   - name: soek.allesbeste.com
