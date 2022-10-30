@@ -162,6 +162,8 @@ sites:
     url: https://searx.prvcy.eu
   - name: searx.rimkus.it
     url: https://searx.rimkus.it
+  - name: searx.roflcopter.fr
+    url: https://searx.roflcopter.fr
   - name: searx.ru
     url: https://searx.ru
   - name: searx.semipvt.com
@@ -218,8 +220,6 @@ sites:
     url: https://timdor.noip.me/searx
   - name: trydex.tk
     url: https://trydex.tk/searxng
-  - name: wtf.roflcopter.fr
-    url: https://wtf.roflcopter.fr/searx
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.webrats.xyz
