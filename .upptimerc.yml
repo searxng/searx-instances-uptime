@@ -62,6 +62,8 @@ sites:
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
+  - name: search.kvj.ovh
+    url: https://search.kvj.ovh
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.mpx.wtf
@@ -134,8 +136,6 @@ sites:
     url: https://searx.gnu.style
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
-  - name: searx.kujonello.cf
-    url: https://searx.kujonello.cf
   - name: searx.mastodontech.de
     url: https://searx.mastodontech.de
   - name: searx.mha.fi
