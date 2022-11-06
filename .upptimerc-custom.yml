@@ -1,5 +1,3 @@
 sites:
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: searx.tuxcloud.net
-    url: https://searx.tuxcloud.net
