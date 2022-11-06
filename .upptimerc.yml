@@ -56,8 +56,6 @@ sites:
     url: https://search.drivet.xyz
   - name: search.ethibox.fr
     url: https://search.ethibox.fr
-  - name: search.freenetchads.com
-    url: https://search.freenetchads.com
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
@@ -92,8 +90,6 @@ sites:
     url: https://search.snopyta.org
   - name: search.stinpriza.org
     url: https://search.stinpriza.org
-  - name: search.teamriverbubbles.com
-    url: https://search.teamriverbubbles.com
   - name: search.trom.tf
     url: https://search.trom.tf
   - name: search.unlocked.link
@@ -196,10 +192,6 @@ sites:
     url: https://searx.xyz
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
-  - name: searx.zcyph.cc
-    url: https://searx.zcyph.cc
-  - name: searxng.ir
-    url: https://searxng.ir
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: searxng.zackptg5.com
