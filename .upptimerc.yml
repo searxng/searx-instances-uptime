@@ -110,6 +110,8 @@ sites:
     url: https://searx.bissisoft.com
   - name: searx.chocoflan.net
     url: https://searx.chocoflan.net
+  - name: searx.delicta.pp.ua
+    url: https://searx.delicta.pp.ua
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
   - name: searx.dresden.network
