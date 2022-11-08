@@ -86,8 +86,6 @@ sites:
     url: https://search.serginho.dev
   - name: search.smnz.de
     url: https://search.smnz.de
-  - name: search.snopyta.org
-    url: https://search.snopyta.org
   - name: search.stinpriza.org
     url: https://search.stinpriza.org
   - name: search.trom.tf
