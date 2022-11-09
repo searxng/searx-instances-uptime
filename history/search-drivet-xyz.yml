@@ -1,7 +1,7 @@
 url: https://search.drivet.xyz
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2022-11-08T23:15:26.103Z
+status: down
+code: 502
+responseTime: 3398
+lastUpdated: 2022-11-09T05:03:30.558Z
 startTime: Sat Oct 08 2022 16:57:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
