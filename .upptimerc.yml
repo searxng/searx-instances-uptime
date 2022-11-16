@@ -30,6 +30,8 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
+  - name: privatesearch.dev
+    url: https://privatesearch.dev
   - name: privatus.live
     url: https://privatus.live
   - name: s.frlt.one
@@ -224,6 +226,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: searx.rasp.fr
+    url: https://searx.rasp.fr
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
