@@ -48,6 +48,8 @@ sites:
     url: https://search.affusio.com
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
+  - name: search.charleseroop.com
+    url: https://search.charleseroop.com
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu
   - name: search.cronobox.one
@@ -218,6 +220,8 @@ sites:
     url: https://timdor.noip.me/searx
   - name: trydex.tk
     url: https://trydex.tk/searxng
+  - name: wicked.guru
+    url: https://wicked.guru
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.webrats.xyz
