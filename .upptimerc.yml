@@ -12,6 +12,8 @@ sites:
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
+  - name: intelwinds.com
+    url: https://intelwinds.com
   - name: jackgoss.xyz
     url: https://jackgoss.xyz
   - name: jsearch.pw
