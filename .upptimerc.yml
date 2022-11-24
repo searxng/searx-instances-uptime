@@ -98,6 +98,8 @@ sites:
     url: https://search.trom.tf
   - name: search.unlocked.link
     url: https://search.unlocked.link
+  - name: search.us.projectsegfau.lt
+    url: https://search.us.projectsegfau.lt
   - name: search.uspersec.com
     url: https://search.uspersec.com
   - name: search.vidhukant.xyz
