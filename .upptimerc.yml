@@ -18,8 +18,6 @@ sites:
     url: https://jackgoss.xyz
   - name: jsearch.pw
     url: https://jsearch.pw
-  - name: metasearch.nl
-    url: https://metasearch.nl
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: notsearch.uk
@@ -226,12 +224,8 @@ sites:
     url: https://timdor.noip.me/searx
   - name: trydex.tk
     url: https://trydex.tk/searxng
-  - name: wicked.guru
-    url: https://wicked.guru
   - name: www.gruble.de
     url: https://www.gruble.de
-  - name: www.webrats.xyz
-    url: https://www.webrats.xyz
   - name: xo.wtf
     url: https://xo.wtf
   - name: searx.neocities.org
