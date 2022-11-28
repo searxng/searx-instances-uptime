@@ -6,8 +6,6 @@ sites:
     url: https://searx.space
   - name: darmarit.org
     url: https://darmarit.org/searx
-  - name: de.xcxc.ml
-    url: https://de.xcxc.ml
   - name: dynabyte.ca
     url: https://dynabyte.ca
   - name: etsi.me
@@ -40,8 +38,6 @@ sites:
     url: https://s.trung.fun
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net
-  - name: saber.tk
-    url: https://saber.tk
   - name: search.0relay.com
     url: https://search.0relay.com
   - name: search.affusio.com
@@ -220,10 +216,6 @@ sites:
     url: https://swag.pw
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: timdor.noip.me
-    url: https://timdor.noip.me/searx
-  - name: trydex.tk
-    url: https://trydex.tk/searxng
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: xo.wtf
