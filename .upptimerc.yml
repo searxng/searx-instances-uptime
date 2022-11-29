@@ -108,6 +108,8 @@ sites:
     url: https://searx.becomesovran.com
   - name: searx.bissisoft.com
     url: https://searx.bissisoft.com
+  - name: searx.catfluori.de
+    url: https://searx.catfluori.de
   - name: searx.chocoflan.net
     url: https://searx.chocoflan.net
   - name: searx.delicta.pp.ua
@@ -116,8 +118,6 @@ sites:
     url: https://searx.divided-by-zero.eu
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.ebnar.xyz
-    url: https://searx.ebnar.xyz
   - name: searx.ericaftereric.top
     url: https://searx.ericaftereric.top
   - name: searx.esmailelbob.xyz
