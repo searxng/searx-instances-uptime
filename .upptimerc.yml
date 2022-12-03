@@ -218,6 +218,8 @@ sites:
     url: https://sx.catgirl.cloud
   - name: www.gruble.de
     url: https://www.gruble.de
+  - name: www.safesearch.center
+    url: https://www.safesearch.center
   - name: xo.wtf
     url: https://xo.wtf
   - name: searx.neocities.org
