@@ -88,6 +88,8 @@ sites:
     url: https://search.smnz.de
   - name: search.stinpriza.org
     url: https://search.stinpriza.org
+  - name: search.suenram.us
+    url: https://search.suenram.us
   - name: search.trom.tf
     url: https://search.trom.tf
   - name: search.unlocked.link
