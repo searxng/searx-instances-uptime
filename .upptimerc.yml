@@ -40,8 +40,12 @@ sites:
     url: https://s.zhaocloud.net
   - name: search.0relay.com
     url: https://search.0relay.com
+  - name: search.0xgingi.com
+    url: https://search.0xgingi.com
   - name: search.affusio.com
     url: https://search.affusio.com
+  - name: search.bloodygang.com
+    url: https://search.bloodygang.com
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.charleseroop.com
