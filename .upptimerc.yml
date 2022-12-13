@@ -4,12 +4,16 @@ repo: searx-instances-uptime # The name of this repository
 sites:
   - name: searx.space
     url: https://searx.space
+  - name: baresearch.org
+    url: https://baresearch.org
   - name: darmarit.org
     url: https://darmarit.org/searx
   - name: dynabyte.ca
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
+  - name: fairsuch.net
+    url: https://fairsuch.net
   - name: intelwinds.com
     url: https://intelwinds.com
   - name: jackgoss.xyz
