@@ -1,7 +1,7 @@
 url: https://search.neet.works
-status: up
-code: 200
-responseTime: 436
-lastUpdated: 2022-12-12T23:12:53.871Z
+status: down
+code: 504
+responseTime: 5226
+lastUpdated: 2022-12-13T04:29:43.095Z
 startTime: Sat Jun 04 2022 16:22:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
