@@ -214,8 +214,6 @@ sites:
     url: https://searxng.nicfab.eu
   - name: sh0.it
     url: https://sh0.it
-  - name: soek.allesbeste.com
-    url: https://soek.allesbeste.com
   - name: spot.murena.io
     url: https://spot.murena.io
   - name: srx.cosmohub.io
