@@ -60,8 +60,6 @@ sites:
     url: https://search.disroot.org
   - name: search.drivet.xyz
     url: https://search.drivet.xyz
-  - name: search.ethibox.fr
-    url: https://search.ethibox.fr
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
