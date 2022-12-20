@@ -202,6 +202,8 @@ sites:
     url: https://searx.zapashcanon.fr
   - name: searxng.au
     url: https://searxng.au
+  - name: searxng.bandarawela.net
+    url: https://searxng.bandarawela.net
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: sh0.it
