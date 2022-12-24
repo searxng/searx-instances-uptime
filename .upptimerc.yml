@@ -12,6 +12,8 @@ sites:
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
+  - name: gsch.eu
+    url: https://gsch.eu
   - name: intelwinds.com
     url: https://intelwinds.com
   - name: jackgoss.xyz
@@ -206,6 +208,8 @@ sites:
     url: https://searxng.au
   - name: searxng.bandarawela.net
     url: https://searxng.bandarawela.net
+  - name: searxng.fingerbib.xyz
+    url: https://searxng.fingerbib.xyz
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: sh0.it
