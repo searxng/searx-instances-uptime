@@ -50,8 +50,6 @@ sites:
     url: https://search.0xgingi.com
   - name: search.affusio.com
     url: https://search.affusio.com
-  - name: search.bloodygang.com
-    url: https://search.bloodygang.com
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.charleseroop.com
@@ -178,8 +176,6 @@ sites:
     url: https://searx.ru
   - name: searx.semipvt.com
     url: https://searx.semipvt.com
-  - name: searx.sethforprivacy.com
-    url: https://searx.sethforprivacy.com
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.slipfox.xyz
