@@ -1,7 +1,7 @@
 url: https://search.uspersec.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-24T05:57:49.845Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2022-12-24T06:24:25.388Z
 startTime: Wed Aug 17 2022 14:06:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
