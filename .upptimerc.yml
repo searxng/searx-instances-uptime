@@ -6,6 +6,8 @@ sites:
     url: https://searx.space
   - name: baresearch.org
     url: https://baresearch.org
+  - name: coppedge.info
+    url: https://coppedge.info
   - name: darmarit.org
     url: https://darmarit.org/searx
   - name: dynabyte.ca
