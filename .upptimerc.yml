@@ -178,6 +178,8 @@ sites:
     url: https://searx.semipvt.com
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.si
+    url: https://searx.si
   - name: searx.slipfox.xyz
     url: https://searx.slipfox.xyz/searx
   - name: searx.sp-codes.de
