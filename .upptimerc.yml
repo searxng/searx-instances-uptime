@@ -148,8 +148,6 @@ sites:
     url: https://searx.mastodontech.de
   - name: searx.mha.fi
     url: https://searx.mha.fi
-  - name: searx.mistli.net
-    url: https://searx.mistli.net
   - name: searx.mxchange.org
     url: https://searx.mxchange.org
   - name: searx.nakhan.net
@@ -192,8 +190,6 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searx.tyil.nl
     url: https://searx.tyil.nl
-  - name: searx.vanwa.tech
-    url: https://searx.vanwa.tech
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
   - name: searx.win
@@ -224,6 +220,8 @@ sites:
     url: https://swag.pw
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
+  - name: sx.fukt.lol
+    url: https://sx.fukt.lol
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: xo.wtf
