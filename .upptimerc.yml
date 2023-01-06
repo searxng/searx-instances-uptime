@@ -224,6 +224,8 @@ sites:
     url: https://sx.fukt.lol
   - name: www.gruble.de
     url: https://www.gruble.de
+  - name: www.jabber-germany.de
+    url: https://www.jabber-germany.de/searx
   - name: xo.wtf
     url: https://xo.wtf
   - name: searx.neocities.org
