@@ -1,7 +1,7 @@
 url: https://searx.zapashcanon.fr
-status: up
-code: 200
-responseTime: 784
-lastUpdated: 2023-01-12T20:54:34.853Z
+status: down
+code: 503
+responseTime: 620
+lastUpdated: 2023-01-12T21:29:07.495Z
 startTime: Sat Jun 04 2022 16:23:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
