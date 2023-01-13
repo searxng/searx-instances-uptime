@@ -1,7 +1,7 @@
 url: https://searx.fmac.xyz
-status: up
-code: 200
-responseTime: 601
-lastUpdated: 2023-01-12T23:13:56.303Z
+status: down
+code: 429
+responseTime: 17749
+lastUpdated: 2023-01-13T20:54:45.779Z
 startTime: Sat Jun 04 2022 16:22:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
