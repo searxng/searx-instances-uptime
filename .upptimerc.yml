@@ -18,8 +18,6 @@ sites:
     url: https://gsch.eu
   - name: intelwinds.com
     url: https://intelwinds.com
-  - name: jackgoss.xyz
-    url: https://jackgoss.xyz
   - name: jsearch.pw
     url: https://jsearch.pw
   - name: northboot.xyz
@@ -60,8 +58,6 @@ sites:
     url: https://search.cronobox.one
   - name: search.disroot.org
     url: https://search.disroot.org
-  - name: search.drivet.xyz
-    url: https://search.drivet.xyz
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
@@ -80,8 +76,6 @@ sites:
     url: https://search.ononoki.org
   - name: search.privacyguides.net
     url: https://search.privacyguides.net
-  - name: search.projectsegfau.lt
-    url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
   - name: search.rhscz.eu
@@ -150,8 +144,6 @@ sites:
     url: https://searx.mha.fi
   - name: searx.mxchange.org
     url: https://searx.mxchange.org
-  - name: searx.nakhan.net
-    url: https://searx.nakhan.net
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.netzspielplatz.de
@@ -208,8 +200,6 @@ sites:
     url: https://searxng.fingerbib.xyz
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
-  - name: sh0.it
-    url: https://sh0.it
   - name: spot.murena.io
     url: https://spot.murena.io
   - name: srx.cosmohub.io
@@ -220,8 +210,6 @@ sites:
     url: https://swag.pw
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: sx.fukt.lol
-    url: https://sx.fukt.lol
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
