@@ -54,6 +54,8 @@ sites:
     url: https://search.charleseroop.com
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu
+  - name: search.cosyinternet.cafe
+    url: https://search.cosyinternet.cafe
   - name: search.cronobox.one
     url: https://search.cronobox.one
   - name: search.disroot.org
@@ -196,6 +198,8 @@ sites:
     url: https://searxng.au
   - name: searxng.bandarawela.net
     url: https://searxng.bandarawela.net
+  - name: searxng.diadz.de
+    url: https://searxng.diadz.de
   - name: searxng.fingerbib.xyz
     url: https://searxng.fingerbib.xyz
   - name: searxng.nicfab.eu
