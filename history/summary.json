@@ -1035,11 +1035,11 @@
     "url": "https://search.serginho.dev",
     "icon": "https://icons.duckduckgo.com/ip3/search.serginho.dev.ico",
     "slug": "search-serginho-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 386,
     "timeDay": 518,
@@ -1047,6 +1047,7 @@
     "timeMonth": 400,
     "timeYear": 386,
     "dailyMinutesDown": {
+      "2023-01-18": 2,
       "2022-12-24": 23
     }
   },
