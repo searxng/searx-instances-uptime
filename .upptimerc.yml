@@ -188,6 +188,8 @@ sites:
     url: https://searx.webheberg.info
   - name: searx.win
     url: https://searx.win
+  - name: searx.work
+    url: https://searx.work
   - name: searx.xyz
     url: https://searx.xyz
   - name: searx.zapashcanon.fr
