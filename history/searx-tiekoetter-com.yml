@@ -1,7 +1,7 @@
 url: https://searx.tiekoetter.com
-status: up
-code: 200
-responseTime: 800
-lastUpdated: 2023-01-19T23:13:52.633Z
+status: down
+code: 502
+responseTime: 492
+lastUpdated: 2023-01-20T19:43:59.176Z
 startTime: Sat Jun 04 2022 16:23:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
