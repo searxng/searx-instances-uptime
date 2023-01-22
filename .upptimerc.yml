@@ -100,8 +100,6 @@ sites:
     url: https://search.unlocked.link
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt
-  - name: search.uspersec.com
-    url: https://search.uspersec.com
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.baczek.me
@@ -176,8 +174,6 @@ sites:
     url: https://searx.slipfox.xyz/searx
   - name: searx.sp-codes.de
     url: https://searx.sp-codes.de
-  - name: searx.stuehieyr.com
-    url: https://searx.stuehieyr.com
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
