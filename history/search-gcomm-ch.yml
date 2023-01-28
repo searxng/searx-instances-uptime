@@ -1,7 +1,7 @@
 url: https://search.gcomm.ch
-status: up
-code: 200
-responseTime: 343
-lastUpdated: 2023-01-27T23:11:20.620Z
+status: down
+code: 503
+responseTime: 464
+lastUpdated: 2023-01-28T09:33:36.721Z
 startTime: Wed Jul 13 2022 04:30:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
