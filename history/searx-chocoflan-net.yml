@@ -1,7 +1,7 @@
 url: https://searx.chocoflan.net
-status: up
-code: 200
-responseTime: 204
-lastUpdated: 2023-01-29T23:12:47.326Z
+status: down
+code: 500
+responseTime: 338
+lastUpdated: 2023-01-29T23:48:16.584Z
 startTime: Wed Jun 22 2022 15:37:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
