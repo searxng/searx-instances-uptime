@@ -1,7 +1,7 @@
 url: https://searx.rasp.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-31T02:33:48.660Z
+status: up
+code: 200
+responseTime: 874
+lastUpdated: 2023-01-31T03:01:10.652Z
 startTime: Wed Nov 16 2022 07:33:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
