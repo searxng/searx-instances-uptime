@@ -14,12 +14,12 @@ sites:
     url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
-  - name: gsch.eu
-    url: https://gsch.eu
   - name: intelwinds.com
     url: https://intelwinds.com
   - name: jsearch.pw
     url: https://jsearch.pw
+  - name: myprivatesrx.us
+    url: https://myprivatesrx.us
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: notsearch.uk
