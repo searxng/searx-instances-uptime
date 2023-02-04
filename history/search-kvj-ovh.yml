@@ -1,7 +1,7 @@
 url: https://search.kvj.ovh
-status: down
-code: 502
-responseTime: 709
-lastUpdated: 2023-02-03T23:11:34.265Z
+status: up
+code: 200
+responseTime: 651
+lastUpdated: 2023-02-04T08:40:08.072Z
 startTime: Sun Oct 30 2022 06:45:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
