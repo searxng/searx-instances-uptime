@@ -210,6 +210,8 @@ sites:
     url: https://swag.pw
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
+  - name: sx.fukt.lol
+    url: https://sx.fukt.lol
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
@@ -218,8 +220,6 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: sx.fukt.lol
-    url: https://sx.fukt.lol
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
