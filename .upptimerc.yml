@@ -204,6 +204,8 @@ sites:
     url: https://spot.murena.io
   - name: srx.cosmohub.io
     url: https://srx.cosmohub.io
+  - name: stalk.antelope.day
+    url: https://stalk.antelope.day
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de
   - name: swag.pw
