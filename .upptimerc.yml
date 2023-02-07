@@ -138,6 +138,8 @@ sites:
     url: https://searx.gnu.style
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
+  - name: searx.kutay.dev
+    url: https://searx.kutay.dev
   - name: searx.mastodontech.de
     url: https://searx.mastodontech.de
   - name: searx.mha.fi
