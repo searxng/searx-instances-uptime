@@ -26,8 +26,6 @@ sites:
     url: https://notsearch.uk
   - name: ooglester.com
     url: https://ooglester.com
-  - name: opnxng.com
-    url: https://opnxng.com
   - name: paulgo.io
     url: https://paulgo.io
   - name: priv.au
@@ -64,8 +62,6 @@ sites:
     url: https://search.gcomm.ch
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
-  - name: search.kvj.ovh
-    url: https://search.kvj.ovh
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
