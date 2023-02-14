@@ -46,6 +46,8 @@ sites:
     url: https://search.0xgingi.com
   - name: search.affusio.com
     url: https://search.affusio.com
+  - name: search.berryez.xyz
+    url: https://search.berryez.xyz
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.charleseroop.com
