@@ -198,6 +198,8 @@ sites:
     url: https://searxng.fingerbib.xyz
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
+  - name: searxng.tordenskjold.de
+    url: https://searxng.tordenskjold.de
   - name: spot.murena.io
     url: https://spot.murena.io
   - name: srx.cosmohub.io
