@@ -124,8 +124,6 @@ sites:
     url: https://searx.ericaftereric.top
   - name: searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz
-  - name: searx.fi
-    url: https://searx.fi
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
   - name: searx.fossencdi.org
@@ -194,8 +192,6 @@ sites:
     url: https://searxng.bandarawela.net
   - name: searxng.diadz.de
     url: https://searxng.diadz.de
-  - name: searxng.fingerbib.xyz
-    url: https://searxng.fingerbib.xyz
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: searxng.tordenskjold.de
