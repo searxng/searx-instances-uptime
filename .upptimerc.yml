@@ -30,8 +30,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: privatesearch.dev
-    url: https://privatesearch.dev
   - name: privatus.live
     url: https://privatus.live
   - name: s.frlt.one
@@ -54,8 +52,6 @@ sites:
     url: https://search.charleseroop.com
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu
-  - name: search.cosyinternet.cafe
-    url: https://search.cosyinternet.cafe
   - name: search.cronobox.one
     url: https://search.cronobox.one
   - name: search.disroot.org
