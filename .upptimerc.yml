@@ -16,8 +16,6 @@ sites:
     url: https://etsi.me
   - name: freesearch.club
     url: https://freesearch.club
-  - name: intelwinds.com
-    url: https://intelwinds.com
   - name: jsearch.pw
     url: https://jsearch.pw
   - name: myprivatesrx.us
@@ -42,8 +40,6 @@ sites:
     url: https://s.trung.fun
   - name: s.zhaocloud.net
     url: https://s.zhaocloud.net
-  - name: search.0relay.com
-    url: https://search.0relay.com
   - name: search.0xgingi.com
     url: https://search.0xgingi.com
   - name: search.affusio.com
@@ -96,8 +92,6 @@ sites:
     url: https://search.suenram.us
   - name: search.trom.tf
     url: https://search.trom.tf
-  - name: search.unlocked.link
-    url: https://search.unlocked.link
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt
   - name: search.zzls.xyz
