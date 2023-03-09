@@ -168,6 +168,8 @@ sites:
     url: https://searx.slipfox.xyz/searx
   - name: searx.sp-codes.de
     url: https://searx.sp-codes.de
+  - name: searx.thefloatinglab.world
+    url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
