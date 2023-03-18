@@ -1,7 +1,7 @@
 url: https://jsearch.pw
-status: up
-code: 200
-responseTime: 116
-lastUpdated: 2023-03-17T23:10:59.887Z
+status: down
+code: 429
+responseTime: 144
+lastUpdated: 2023-03-18T09:14:13.957Z
 startTime: Sat Jun 04 2022 16:22:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
