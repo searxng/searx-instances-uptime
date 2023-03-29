@@ -16,8 +16,6 @@ sites:
     url: https://etsi.me
   - name: freesearch.club
     url: https://freesearch.club
-  - name: jsearch.pw
-    url: https://jsearch.pw
   - name: myprivatesrx.us
     url: https://myprivatesrx.us
   - name: northboot.xyz
@@ -68,8 +66,6 @@ sites:
     url: https://search.listi.me
   - name: search.mdosch.de
     url: https://search.mdosch.de
-  - name: search.mpx.wtf
-    url: https://search.mpx.wtf
   - name: search.neet.works
     url: https://search.neet.works
   - name: search.ononoki.org
@@ -182,8 +178,6 @@ sites:
     url: https://searx.tyil.nl
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
-  - name: searx.win
-    url: https://searx.win
   - name: searx.work
     url: https://searx.work
   - name: searx.xyz
