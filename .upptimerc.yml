@@ -64,6 +64,8 @@ sites:
     url: https://search.kiwitalk.de
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
+  - name: search.listi.me
+    url: https://search.listi.me
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.mpx.wtf
