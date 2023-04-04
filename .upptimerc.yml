@@ -72,8 +72,6 @@ sites:
     url: https://search.ononoki.org
   - name: search.opensrc.one
     url: https://search.opensrc.one
-  - name: search.privacyguides.net
-    url: https://search.privacyguides.net
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
   - name: search.rhscz.eu
