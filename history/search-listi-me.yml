@@ -1,7 +1,7 @@
 url: https://search.listi.me
-status: up
-code: 200
-responseTime: 844
-lastUpdated: 2023-04-03T23:10:48.405Z
+status: down
+code: 502
+responseTime: 743
+lastUpdated: 2023-04-04T21:16:30.311Z
 startTime: Wed Mar 29 2023 10:33:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
