@@ -150,8 +150,6 @@ sites:
     url: https://searx.orion-hub.fr
   - name: searx.prvcy.eu
     url: https://searx.prvcy.eu
-  - name: searx.rasp.fr
-    url: https://searx.rasp.fr
   - name: searx.roflcopter.fr
     url: https://searx.roflcopter.fr
   - name: searx.ru
