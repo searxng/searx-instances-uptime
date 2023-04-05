@@ -22,6 +22,8 @@ sites:
     url: https://northboot.xyz
   - name: notsearch.uk
     url: https://notsearch.uk
+  - name: offtheradar.info
+    url: https://offtheradar.info
   - name: ooglester.com
     url: https://ooglester.com
   - name: opnxng.com
@@ -66,6 +68,8 @@ sites:
     url: https://search.listi.me
   - name: search.mdosch.de
     url: https://search.mdosch.de
+  - name: search.modalogi.com
+    url: https://search.modalogi.com
   - name: search.neet.works
     url: https://search.neet.works
   - name: search.ononoki.org
