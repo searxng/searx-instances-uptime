@@ -60,6 +60,8 @@ sites:
     url: https://search.dojoro.de
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
+  - name: search.in.projectsegfau.lt
+    url: https://search.in.projectsegfau.lt
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
   - name: search.leptons.xyz
