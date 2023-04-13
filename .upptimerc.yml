@@ -76,6 +76,8 @@ sites:
     url: https://search.ononoki.org
   - name: search.opensrc.one
     url: https://search.opensrc.one
+  - name: search.projectsegfau.lt
+    url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
     url: https://search.rabbit-company.com
   - name: search.rhscz.eu
@@ -210,8 +212,6 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: search.projectsegfau.lt
-    url: https://search.projectsegfau.lt
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
