@@ -76,8 +76,6 @@ sites:
     url: https://search.neet.works
   - name: search.ononoki.org
     url: https://search.ononoki.org
-  - name: search.opensrc.one
-    url: https://search.opensrc.one
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
