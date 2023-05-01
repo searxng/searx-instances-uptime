@@ -120,6 +120,8 @@ sites:
     url: https://searx.delicta.pp.ua
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
+  - name: searx.doofpot.nl
+    url: https://searx.doofpot.nl
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.ericaftereric.top
