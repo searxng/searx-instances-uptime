@@ -10,12 +10,8 @@ sites:
     url: https://coppedge.info
   - name: darmarit.org
     url: https://darmarit.org/searx
-  - name: dynabyte.ca
-    url: https://dynabyte.ca
   - name: etsi.me
     url: https://etsi.me
-  - name: freesearch.club
-    url: https://freesearch.club
   - name: myprivatesrx.us
     url: https://myprivatesrx.us
   - name: northboot.xyz
@@ -32,8 +28,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: privatus.live
-    url: https://privatus.live
   - name: s.frlt.one
     url: https://s.frlt.one
   - name: s.trung.fun
@@ -42,14 +36,8 @@ sites:
     url: https://s.zhaocloud.net
   - name: search.0xgingi.com
     url: https://search.0xgingi.com
-  - name: search.affusio.com
-    url: https://search.affusio.com
-  - name: search.berryez.xyz
-    url: https://search.berryez.xyz
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
-  - name: search.charleseroop.com
-    url: https://search.charleseroop.com
   - name: search.chemicals-in-the-water.eu
     url: https://search.chemicals-in-the-water.eu
   - name: search.cronobox.one
@@ -98,8 +86,6 @@ sites:
     url: https://search.smnz.de
   - name: search.stinpriza.org
     url: https://search.stinpriza.org
-  - name: search.suenram.us
-    url: https://search.suenram.us
   - name: search.trom.tf
     url: https://search.trom.tf
   - name: search.us.projectsegfau.lt
@@ -166,8 +152,6 @@ sites:
     url: https://searx.roflcopter.fr
   - name: searx.ru
     url: https://searx.ru
-  - name: searx.semipvt.com
-    url: https://searx.semipvt.com
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.si
@@ -180,20 +164,14 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
-  - name: searx.tyil.nl
-    url: https://searx.tyil.nl
   - name: searx.webheberg.info
     url: https://searx.webheberg.info
   - name: searx.work
     url: https://searx.work
-  - name: searx.xyz
-    url: https://searx.xyz
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
   - name: searxng.au
     url: https://searxng.au
-  - name: searxng.bandarawela.net
-    url: https://searxng.bandarawela.net
   - name: searxng.diadz.de
     url: https://searxng.diadz.de
   - name: searxng.nicfab.eu
@@ -202,8 +180,6 @@ sites:
     url: https://searxng.no-logs.com
   - name: spot.murena.io
     url: https://spot.murena.io
-  - name: srx.cosmohub.io
-    url: https://srx.cosmohub.io
   - name: stalk.antelope.day
     url: https://stalk.antelope.day
   - name: suche.tromdienste.de
