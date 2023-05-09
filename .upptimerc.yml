@@ -106,8 +106,6 @@ sites:
     url: https://searx.chocoflan.net
   - name: searx.cthd.icu
     url: https://searx.cthd.icu
-  - name: searx.delicta.pp.ua
-    url: https://searx.delicta.pp.ua
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
   - name: searx.doofpot.nl
