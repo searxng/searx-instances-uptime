@@ -1,7 +1,7 @@
 url: https://darmarit.org/searx
-status: up
-code: 200
-responseTime: 762
-lastUpdated: 2023-05-17T23:09:42.566Z
+status: down
+code: 429
+responseTime: 925
+lastUpdated: 2023-05-18T16:59:38.859Z
 startTime: Sat Jun 04 2022 16:22:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
