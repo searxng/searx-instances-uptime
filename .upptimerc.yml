@@ -92,6 +92,8 @@ sites:
     url: https://search.trom.tf
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt
+  - name: search.whateveritworks.org
+    url: https://search.whateveritworks.org
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.baczek.me
