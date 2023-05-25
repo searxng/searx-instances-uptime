@@ -1,7 +1,7 @@
 url: https://search.houba.rocks
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2023-05-24T23:10:36.524Z
+status: down
+code: 403
+responseTime: 35
+lastUpdated: 2023-05-25T19:53:08.752Z
 startTime: Wed May 03 2023 16:36:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
