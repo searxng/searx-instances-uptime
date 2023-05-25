@@ -118,8 +118,6 @@ sites:
     url: https://searx.dresden.network
   - name: searx.ericaftereric.top
     url: https://searx.ericaftereric.top
-  - name: searx.esmailelbob.xyz
-    url: https://searx.esmailelbob.xyz
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
   - name: searx.fossencdi.org
