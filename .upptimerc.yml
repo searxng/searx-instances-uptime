@@ -58,6 +58,8 @@ sites:
     url: https://search.inetol.net
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
+  - name: search.laksith.dev
+    url: https://search.laksith.dev
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.listi.me
