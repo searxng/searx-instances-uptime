@@ -50,8 +50,6 @@ sites:
     url: https://search.fascinated.cc
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
-  - name: search.houba.rocks
-    url: https://search.houba.rocks
   - name: search.in.projectsegfau.lt
     url: https://search.in.projectsegfau.lt
   - name: search.inetol.net
