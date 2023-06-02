@@ -126,8 +126,6 @@ sites:
     url: https://searx.fossencdi.org
   - name: searx.gnous.eu
     url: https://searx.gnous.eu
-  - name: searx.gnu.style
-    url: https://searx.gnu.style
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
