@@ -32,8 +32,6 @@ sites:
     url: https://s.frlt.one
   - name: s.trung.fun
     url: https://s.trung.fun
-  - name: s.zhaocloud.net
-    url: https://s.zhaocloud.net
   - name: search.0xgingi.com
     url: https://search.0xgingi.com
   - name: search.bus-hit.me
