@@ -160,14 +160,10 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
-  - name: searx.webheberg.info
-    url: https://searx.webheberg.info
   - name: searx.work
     url: https://searx.work
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
-  - name: searxng.au
-    url: https://searxng.au
   - name: searxng.diadz.de
     url: https://searxng.diadz.de
   - name: searxng.nicfab.eu
