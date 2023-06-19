@@ -1817,9 +1817,9 @@
     "slug": "searx-juancord-xyz",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 495,
     "timeDay": 376,
@@ -1827,7 +1827,7 @@
     "timeMonth": 505,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2023-06-19": 2,
+      "2023-06-19": 7,
       "2023-03-24": 27
     }
   },
@@ -2594,7 +2594,7 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
     "time": 253,
