@@ -40,6 +40,8 @@ sites:
     url: https://search.citw.lgbt
   - name: search.cronobox.one
     url: https://search.cronobox.one
+  - name: search.demoniak.ch
+    url: https://search.demoniak.ch
   - name: search.disroot.org
     url: https://search.disroot.org
   - name: search.dojoro.de
@@ -60,6 +62,8 @@ sites:
     url: https://search.laksith.dev
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
+  - name: search.lightinthedark.space
+    url: https://search.lightinthedark.space
   - name: search.listi.me
     url: https://search.listi.me
   - name: search.mdosch.de
