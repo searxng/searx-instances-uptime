@@ -110,6 +110,8 @@ sites:
     url: https://searx.catfluori.de
   - name: searx.cthd.icu
     url: https://searx.cthd.icu
+  - name: searx.daetalytica.io
+    url: https://searx.daetalytica.io
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
   - name: searx.doofpot.nl
