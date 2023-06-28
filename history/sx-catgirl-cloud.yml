@@ -1,7 +1,7 @@
 url: https://sx.catgirl.cloud
-status: up
-code: 200
-responseTime: 623
-lastUpdated: 2023-06-27T23:13:31.862Z
+status: down
+code: 500
+responseTime: 660
+lastUpdated: 2023-06-28T06:59:11.320Z
 startTime: Sat Jun 04 2022 16:23:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
