@@ -6,8 +6,8 @@ sites:
     url: https://searx.space
   - name: baresearch.org
     url: https://baresearch.org
-  - name: coppedge.info
-    url: https://coppedge.info
+  - name: copp.gg
+    url: https://copp.gg
   - name: darmarit.org
     url: https://darmarit.org/searx
   - name: etsi.me
@@ -176,6 +176,8 @@ sites:
     url: https://searxng.nicfab.eu
   - name: searxng.no-logs.com
     url: https://searxng.no-logs.com
+  - name: searxng.se
+    url: https://searxng.se
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu
   - name: spot.murena.io
