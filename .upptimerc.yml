@@ -16,8 +16,6 @@ sites:
     url: https://myprivatesrx.us
   - name: northboot.xyz
     url: https://northboot.xyz
-  - name: notsearch.uk
-    url: https://notsearch.uk
   - name: offtheradar.info
     url: https://offtheradar.info
   - name: ooglester.com
@@ -124,8 +122,6 @@ sites:
     url: https://searx.fmac.xyz
   - name: searx.fossencdi.org
     url: https://searx.fossencdi.org
-  - name: searx.gnous.eu
-    url: https://searx.gnous.eu
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
@@ -144,8 +140,6 @@ sites:
     url: https://searx.nixnet.services
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
-  - name: searx.orion-hub.fr
-    url: https://searx.orion-hub.fr
   - name: searx.ox2.fr
     url: https://searx.ox2.fr
   - name: searx.prvcy.eu
