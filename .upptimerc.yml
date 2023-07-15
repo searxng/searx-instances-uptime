@@ -32,6 +32,8 @@ sites:
     url: https://s.trung.fun
   - name: search.0xgingi.com
     url: https://search.0xgingi.com
+  - name: search.bowlman.org
+    url: https://search.bowlman.org
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.citw.lgbt
