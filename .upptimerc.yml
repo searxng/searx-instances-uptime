@@ -64,6 +64,8 @@ sites:
     url: https://search.lightinthedark.space
   - name: search.listi.me
     url: https://search.listi.me
+  - name: search.lvkaszus.pl
+    url: https://search.lvkaszus.pl
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.modalogi.com
@@ -190,6 +192,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: searx.jaska.cc
+    url: https://searx.jaska.cc
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
