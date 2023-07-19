@@ -26,8 +26,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: s.frlt.one
-    url: https://s.frlt.one
   - name: s.trung.fun
     url: https://s.trung.fun
   - name: search.0xgingi.com
