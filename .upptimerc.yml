@@ -98,6 +98,8 @@ sites:
     url: https://search.us.projectsegfau.lt
   - name: search.whateveritworks.org
     url: https://search.whateveritworks.org
+  - name: search.xcloud.live
+    url: https://search.xcloud.live
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.baczek.me
