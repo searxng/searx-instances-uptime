@@ -52,8 +52,6 @@ sites:
     url: https://search.im-in.space
   - name: search.in.projectsegfau.lt
     url: https://search.in.projectsegfau.lt
-  - name: search.inetol.net
-    url: https://search.inetol.net
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
   - name: search.laksith.dev
