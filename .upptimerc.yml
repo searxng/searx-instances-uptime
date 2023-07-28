@@ -54,6 +54,8 @@ sites:
     url: https://search.in.projectsegfau.lt
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
+  - name: search.kokomo.cloud
+    url: https://search.kokomo.cloud
   - name: search.laksith.dev
     url: https://search.laksith.dev
   - name: search.leptons.xyz
