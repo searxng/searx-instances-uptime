@@ -156,8 +156,6 @@ sites:
     url: https://searx.sev.monster
   - name: searx.si
     url: https://searx.si
-  - name: searx.sp-codes.de
-    url: https://searx.sp-codes.de
   - name: searx.thefloatinglab.world
     url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
