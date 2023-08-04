@@ -12,8 +12,6 @@ sites:
     url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
-  - name: myprivatesrx.us
-    url: https://myprivatesrx.us
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: offtheradar.info
@@ -164,12 +162,16 @@ sites:
     url: https://searx.work
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
+  - name: searxng.ch
+    url: https://searxng.ch
   - name: searxng.diadz.de
     url: https://searxng.diadz.de
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: searxng.no-logs.com
     url: https://searxng.no-logs.com
+  - name: searxng.online
+    url: https://searxng.online
   - name: searxng.se
     url: https://searxng.se
   - name: searxng.xcxc.eu
