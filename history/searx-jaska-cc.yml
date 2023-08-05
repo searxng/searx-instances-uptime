@@ -1,7 +1,7 @@
 url: https://searx.jaska.cc
-status: up
-code: 200
-responseTime: 692
-lastUpdated: 2023-08-04T23:10:44.242Z
+status: down
+code: 502
+responseTime: 1233
+lastUpdated: 2023-08-05T13:01:22.345Z
 startTime: Sat Jul 15 2023 05:56:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
