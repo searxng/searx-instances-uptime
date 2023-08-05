@@ -142,6 +142,8 @@ sites:
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
     url: https://searx.ox2.fr
+  - name: searx.perennialte.ch
+    url: https://searx.perennialte.ch
   - name: searx.prvcy.eu
     url: https://searx.prvcy.eu
   - name: searx.roflcopter.fr
