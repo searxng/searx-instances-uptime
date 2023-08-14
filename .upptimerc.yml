@@ -164,6 +164,8 @@ sites:
     url: https://searx.work
   - name: searx.zapashcanon.fr
     url: https://searx.zapashcanon.fr
+  - name: searx.zhenyapav.com
+    url: https://searx.zhenyapav.com
   - name: searxng.ch
     url: https://searxng.ch
   - name: searxng.diadz.de
@@ -194,8 +196,6 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: searx.jaska.cc
-    url: https://searx.jaska.cc
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
