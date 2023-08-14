@@ -26,8 +26,6 @@ sites:
     url: https://priv.au
   - name: s.trung.fun
     url: https://s.trung.fun
-  - name: search.0xgingi.com
-    url: https://search.0xgingi.com
   - name: search.bowlman.org
     url: https://search.bowlman.org
   - name: search.bus-hit.me
@@ -154,6 +152,8 @@ sites:
     url: https://searx.sev.monster
   - name: searx.si
     url: https://searx.si
+  - name: searx.techsaviours.org
+    url: https://searx.techsaviours.org
   - name: searx.thefloatinglab.world
     url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
