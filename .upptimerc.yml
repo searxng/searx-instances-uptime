@@ -78,8 +78,6 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
-  - name: search.shininglea.dev
-    url: https://search.shininglea.dev
   - name: search.smnz.de
     url: https://search.smnz.de
   - name: search.stinpriza.org
