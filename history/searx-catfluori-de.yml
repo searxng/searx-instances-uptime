@@ -1,7 +1,7 @@
 url: https://searx.catfluori.de
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2023-08-18T20:25:03.716Z
+status: down
+code: 429
+responseTime: 398
+lastUpdated: 2023-08-18T22:58:27.233Z
 startTime: Tue Nov 29 2022 21:27:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
