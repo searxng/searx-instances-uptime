@@ -56,8 +56,6 @@ sites:
     url: https://search.laksith.dev
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
-  - name: search.lightinthedark.space
-    url: https://search.lightinthedark.space
   - name: search.listi.me
     url: https://search.listi.me
   - name: search.lvkaszus.pl
@@ -92,8 +90,6 @@ sites:
     url: https://search.us.projectsegfau.lt
   - name: search.whateveritworks.org
     url: https://search.whateveritworks.org
-  - name: search.xcloud.live
-    url: https://search.xcloud.live
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.baczek.me
