@@ -50,6 +50,8 @@ sites:
     url: https://search.im-in.space
   - name: search.in.projectsegfau.lt
     url: https://search.in.projectsegfau.lt
+  - name: search.jldr.eu
+    url: https://search.jldr.eu
   - name: search.kiwitalk.de
     url: https://search.kiwitalk.de
   - name: search.kokomo.cloud
@@ -58,16 +60,12 @@ sites:
     url: https://search.laksith.dev
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
-  - name: search.listi.me
-    url: https://search.listi.me
   - name: search.lvkaszus.pl
     url: https://search.lvkaszus.pl
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.modalogi.com
     url: https://search.modalogi.com
-  - name: search.neet.works
-    url: https://search.neet.works
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.ovh
@@ -118,6 +116,8 @@ sites:
     url: https://searx.fmac.xyz
   - name: searx.fossencdi.org
     url: https://searx.fossencdi.org
+  - name: searx.headpat.exchange
+    url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
@@ -166,8 +166,6 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.ch
     url: https://searxng.ch
-  - name: searxng.diadz.de
-    url: https://searxng.diadz.de
   - name: searxng.nicfab.eu
     url: https://searxng.nicfab.eu
   - name: searxng.no-logs.com
