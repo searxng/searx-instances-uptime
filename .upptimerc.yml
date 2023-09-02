@@ -44,6 +44,8 @@ sites:
     url: https://search.dojoro.de
   - name: search.fascinated.cc
     url: https://search.fascinated.cc
+  - name: search.fawkesguy.com
+    url: https://search.fawkesguy.com
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.im-in.space
