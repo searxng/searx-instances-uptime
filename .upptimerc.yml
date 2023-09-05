@@ -84,8 +84,6 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
-  - name: search.stinpriza.org
-    url: https://search.stinpriza.org
   - name: search.trom.tf
     url: https://search.trom.tf
   - name: search.us.projectsegfau.lt
@@ -110,8 +108,6 @@ sites:
     url: https://searx.divided-by-zero.eu
   - name: searx.doofpot.nl
     url: https://searx.doofpot.nl
-  - name: searx.dresden.network
-    url: https://searx.dresden.network
   - name: searx.ericaftereric.top
     url: https://searx.ericaftereric.top
   - name: searx.fmac.xyz
@@ -124,18 +120,12 @@ sites:
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
     url: https://searx.kutay.dev
-  - name: searx.mastodontech.de
-    url: https://searx.mastodontech.de
   - name: searx.mha.fi
     url: https://searx.mha.fi
-  - name: searx.mxchange.org
-    url: https://searx.mxchange.org
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.netzspielplatz.de
     url: https://searx.netzspielplatz.de
-  - name: searx.nixnet.services
-    url: https://searx.nixnet.services
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
@@ -144,10 +134,6 @@ sites:
     url: https://searx.perennialte.ch
   - name: searx.prvcy.eu
     url: https://searx.prvcy.eu
-  - name: searx.roflcopter.fr
-    url: https://searx.roflcopter.fr
-  - name: searx.ru
-    url: https://searx.ru
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.si
@@ -162,8 +148,6 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searx.work
     url: https://searx.work
-  - name: searx.zapashcanon.fr
-    url: https://searx.zapashcanon.fr
   - name: searx.zhenyapav.com
     url: https://searx.zhenyapav.com
   - name: searxng.ch
