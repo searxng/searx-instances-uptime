@@ -156,8 +156,6 @@ sites:
     url: https://searxng.no-logs.com
   - name: searxng.online
     url: https://searxng.online
-  - name: searxng.se
-    url: https://searxng.se
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu
   - name: spot.murena.io
