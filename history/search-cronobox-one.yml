@@ -1,7 +1,7 @@
 url: https://search.cronobox.one
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2023-09-13T23:10:08.522Z
+status: down
+code: 502
+responseTime: 686
+lastUpdated: 2023-09-14T03:36:29.035Z
 startTime: 2022-08-31T06:10:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
