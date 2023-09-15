@@ -4,6 +4,8 @@ repo: searx-instances-uptime # The name of this repository
 sites:
   - name: searx.space
     url: https://searx.space
+  - name: 331221.xyz
+    url: https://331221.xyz
   - name: baresearch.org
     url: https://baresearch.org
   - name: copp.gg
@@ -12,6 +14,8 @@ sites:
     url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
+  - name: fgiggle.com
+    url: https://fgiggle.com
   - name: freesearch.club
     url: https://freesearch.club
   - name: northboot.xyz
