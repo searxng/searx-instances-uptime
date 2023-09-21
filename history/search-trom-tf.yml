@@ -1,7 +1,7 @@
 url: https://search.trom.tf
-status: up
-code: 200
-responseTime: 673
-lastUpdated: 2023-09-20T23:11:02.683Z
+status: down
+code: 502
+responseTime: 820
+lastUpdated: 2023-09-21T15:20:57.794Z
 startTime: 2022-06-04T16:22:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
