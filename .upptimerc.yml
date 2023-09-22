@@ -114,8 +114,6 @@ sites:
     url: https://searx.ericaftereric.top
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
-  - name: searx.fossencdi.org
-    url: https://searx.fossencdi.org
   - name: searx.headpat.exchange
     url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
