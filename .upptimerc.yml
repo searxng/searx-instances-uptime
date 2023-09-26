@@ -84,8 +84,6 @@ sites:
     url: https://search.smnz.de
   - name: search.trom.tf
     url: https://search.trom.tf
-  - name: search.us.projectsegfau.lt
-    url: https://search.us.projectsegfau.lt
   - name: search.whateveritworks.org
     url: https://search.whateveritworks.org
   - name: search.zzls.xyz
