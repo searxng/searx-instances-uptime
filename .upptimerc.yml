@@ -56,8 +56,6 @@ sites:
     url: https://search.im-in.space
   - name: search.in.projectsegfau.lt
     url: https://search.in.projectsegfau.lt
-  - name: search.kokomo.cloud
-    url: https://search.kokomo.cloud
   - name: search.laksith.dev
     url: https://search.laksith.dev
   - name: search.leptons.xyz
