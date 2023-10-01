@@ -52,6 +52,8 @@ sites:
     url: https://search.fawkesguy.com
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
+  - name: search.hbubli.cc
+    url: https://search.hbubli.cc
   - name: search.im-in.space
     url: https://search.im-in.space
   - name: search.in.projectsegfau.lt
@@ -156,8 +158,6 @@ sites:
     url: https://searxng.xcxc.eu
   - name: spot.murena.io
     url: https://spot.murena.io
-  - name: stalk.antelope.day
-    url: https://stalk.antelope.day
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de
   - name: sx.catgirl.cloud
