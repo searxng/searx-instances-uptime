@@ -86,8 +86,6 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
-  - name: search.trom.tf
-    url: https://search.trom.tf
   - name: search.whateveritworks.org
     url: https://search.whateveritworks.org
   - name: search.zzls.xyz
