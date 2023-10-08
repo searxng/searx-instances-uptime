@@ -122,8 +122,6 @@ sites:
     url: https://searx.mha.fi
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
-  - name: searx.netzspielplatz.de
-    url: https://searx.netzspielplatz.de
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
@@ -150,16 +148,12 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.ch
     url: https://searxng.ch
-  - name: searxng.nicfab.eu
-    url: https://searxng.nicfab.eu
   - name: searxng.no-logs.com
     url: https://searxng.no-logs.com
   - name: searxng.online
     url: https://searxng.online
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu
-  - name: spot.murena.io
-    url: https://spot.murena.io
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de
   - name: sx.catgirl.cloud
