@@ -1,7 +1,7 @@
 url: https://search.dojoro.de
-status: up
-code: 200
-responseTime: 1129
-lastUpdated: 2023-10-09T23:10:19.423Z
+status: down
+code: 502
+responseTime: 3634
+lastUpdated: 2023-10-10T07:43:09.922Z
 startTime: 2023-03-05T12:46:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
