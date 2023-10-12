@@ -16,6 +16,8 @@ sites:
     url: https://etsi.me
   - name: fgiggle.com
     url: https://fgiggle.com
+  - name: find.m3wz.su
+    url: https://find.m3wz.su
   - name: freesearch.club
     url: https://freesearch.club
   - name: northboot.xyz
@@ -48,8 +50,6 @@ sites:
     url: https://search.disroot.org
   - name: search.dojoro.de
     url: https://search.dojoro.de
-  - name: search.fascinated.cc
-    url: https://search.fascinated.cc
   - name: search.fawkesguy.com
     url: https://search.fawkesguy.com
   - name: search.gcomm.ch
@@ -104,8 +104,6 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
-  - name: searx.doofpot.nl
-    url: https://searx.doofpot.nl
   - name: searx.ericaftereric.top
     url: https://searx.ericaftereric.top
   - name: searx.fmac.xyz
