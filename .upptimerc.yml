@@ -118,6 +118,8 @@ sites:
     url: https://searx.mha.fi
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
+  - name: searx.nobulart.com
+    url: https://searx.nobulart.com
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
