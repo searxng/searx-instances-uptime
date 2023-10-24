@@ -42,8 +42,6 @@ sites:
     url: https://search.bus-hit.me
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
-  - name: search.cronobox.one
-    url: https://search.cronobox.one
   - name: search.demoniak.ch
     url: https://search.demoniak.ch
   - name: search.disroot.org
