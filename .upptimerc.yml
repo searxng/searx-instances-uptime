@@ -102,8 +102,6 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.divided-by-zero.eu
     url: https://searx.divided-by-zero.eu
-  - name: searx.ericaftereric.top
-    url: https://searx.ericaftereric.top
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
   - name: searx.headpat.exchange
