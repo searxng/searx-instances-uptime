@@ -1,7 +1,7 @@
 url: https://search.hbubli.cc
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 333
-lastUpdated: 2023-11-03T23:10:32.505Z
+lastUpdated: 2023-11-04T19:10:48.107Z
 startTime: 2023-10-01T06:27:46.748Z
 generator: Upptime <https://github.com/upptime/upptime>
