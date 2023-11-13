@@ -36,8 +36,6 @@ sites:
     url: https://priv.au
   - name: s.trung.fun
     url: https://s.trung.fun
-  - name: search.bowlman.org
-    url: https://search.bowlman.org
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.citw.lgbt
@@ -94,8 +92,6 @@ sites:
     url: https://searx.baczek.me
   - name: searx.be
     url: https://searx.be
-  - name: searx.bissisoft.com
-    url: https://searx.bissisoft.com
   - name: searx.catfluori.de
     url: https://searx.catfluori.de
   - name: searx.cthd.icu
