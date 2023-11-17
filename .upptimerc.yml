@@ -34,6 +34,8 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
+  - name: s.mble.dk
+    url: https://s.mble.dk
   - name: s.trung.fun
     url: https://s.trung.fun
   - name: search.bus-hit.me
@@ -146,6 +148,8 @@ sites:
     url: https://searxng.online
   - name: searxng.xcxc.eu
     url: https://searxng.xcxc.eu
+  - name: sex.finaltek.net
+    url: https://sex.finaltek.net
   - name: suche.tromdienste.de
     url: https://suche.tromdienste.de
   - name: sx.catgirl.cloud
