@@ -14,8 +14,6 @@ sites:
     url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
-  - name: fgiggle.com
-    url: https://fgiggle.com
   - name: find.m3wz.su
     url: https://find.m3wz.su
   - name: freesearch.club
@@ -24,8 +22,6 @@ sites:
     url: https://northboot.xyz
   - name: nyc1.sx.ggtyler.dev
     url: https://nyc1.sx.ggtyler.dev
-  - name: offtheradar.info
-    url: https://offtheradar.info
   - name: ooglester.com
     url: https://ooglester.com
   - name: opnxng.com
@@ -130,8 +126,6 @@ sites:
     url: https://searx.si
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org
-  - name: searx.thefloatinglab.world
-    url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
@@ -154,6 +148,8 @@ sites:
     url: https://suche.tromdienste.de
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
+  - name: sx.t-1.org
+    url: https://sx.t-1.org
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
