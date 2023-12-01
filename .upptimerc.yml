@@ -106,8 +106,6 @@ sites:
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
     url: https://searx.kutay.dev
-  - name: searx.mha.fi
-    url: https://searx.mha.fi
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
