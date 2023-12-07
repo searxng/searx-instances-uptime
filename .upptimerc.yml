@@ -36,8 +36,6 @@ sites:
     url: https://s.trung.fun
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
-  - name: search.citw.lgbt
-    url: https://search.citw.lgbt
   - name: search.demoniak.ch
     url: https://search.demoniak.ch
   - name: search.disroot.org
@@ -106,6 +104,8 @@ sites:
     url: https://searx.juancord.xyz
   - name: searx.kutay.dev
     url: https://searx.kutay.dev
+  - name: searx.lunar.icu
+    url: https://searx.lunar.icu
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
