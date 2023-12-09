@@ -198,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/find.m3wz.su.ico",
     "slug": "find-m3wz-su",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.92%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.32%",
     "time": 1082,
     "timeDay": 848,
     "timeWeek": 868,
@@ -844,11 +844,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "79.43%",
+    "uptime": "79.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "79.43%",
+    "uptimeYear": "79.46%",
     "time": 552,
     "timeDay": 313,
     "timeWeek": 412,
@@ -1305,8 +1305,7 @@
       "2023-01-17": 13,
       "2023-01-16": 39,
       "2023-01-15": 18,
-      "2022-12-19": 13,
-      "2022-12-09": 24
+      "2022-12-19": 13
     }
   },
   {
@@ -1480,8 +1479,7 @@
       "2023-03-08": 21,
       "2023-01-31": 13,
       "2023-01-25": 46,
-      "2022-12-10": 859,
-      "2022-12-09": 139
+      "2022-12-10": 859
     }
   },
   {
@@ -1530,7 +1528,7 @@
     "uptime": "96.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "96.80%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "96.60%",
     "time": 627,
     "timeDay": 776,
@@ -1599,8 +1597,7 @@
       "2022-12-18": 22,
       "2022-12-17": 39,
       "2022-12-14": 45,
-      "2022-12-10": 48,
-      "2022-12-09": 52
+      "2022-12-10": 48
     }
   },
   {
@@ -1660,7 +1657,7 @@
     "slug": "searx-fmac-xyz",
     "status": "up",
     "uptime": "97.10%",
-    "uptimeDay": "24.17%",
+    "uptimeDay": "32.32%",
     "uptimeWeek": "85.48%",
     "uptimeMonth": "96.43%",
     "uptimeYear": "97.20%",
@@ -1821,11 +1818,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.13%",
     "uptimeDay": "99.23%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 362,
     "timeDay": 303,
     "timeWeek": 362,
@@ -2201,8 +2198,7 @@
       "2023-01-14": 13,
       "2022-12-12": 54,
       "2022-12-11": 110,
-      "2022-12-10": 609,
-      "2022-12-09": 22
+      "2022-12-10": 609
     }
   },
   {
@@ -2341,11 +2337,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.no-logs.com.ico",
     "slug": "searxng-no-logs-com",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 517,
     "timeDay": 420,
     "timeWeek": 455,
@@ -2443,18 +2439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.tromdienste.de.ico",
     "slug": "suche-tromdienste-de",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.78%",
+    "uptimeDay": "83.25%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.79%",
     "time": 724,
     "timeDay": 5092,
     "timeWeek": 2195,
     "timeMonth": 1226,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-12-08": 123,
+      "2023-12-09": 81,
+      "2023-12-08": 159,
       "2023-12-07": 78,
       "2023-11-30": 41,
       "2023-10-11": 81,
