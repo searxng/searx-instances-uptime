@@ -42,8 +42,6 @@ sites:
     url: https://search.disroot.org
   - name: search.dojoro.de
     url: https://search.dojoro.de
-  - name: search.fawkesguy.com
-    url: https://search.fawkesguy.com
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.hbubli.cc
@@ -84,6 +82,8 @@ sites:
     url: https://search.whateveritworks.org
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
+  - name: searx.ankha.ac
+    url: https://searx.ankha.ac
   - name: searx.baczek.me
     url: https://searx.baczek.me
   - name: searx.be
