@@ -4,8 +4,6 @@ repo: searx-instances-uptime # The name of this repository
 sites:
   - name: searx.space
     url: https://searx.space
-  - name: 331221.xyz
-    url: https://331221.xyz
   - name: baresearch.org
     url: https://baresearch.org
   - name: copp.gg
@@ -14,8 +12,6 @@ sites:
     url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
-  - name: find.m3wz.su
-    url: https://find.m3wz.su
   - name: freesearch.club
     url: https://freesearch.club
   - name: northboot.xyz
@@ -38,10 +34,6 @@ sites:
     url: https://search.bus-hit.me
   - name: search.demoniak.ch
     url: https://search.demoniak.ch
-  - name: search.disroot.org
-    url: https://search.disroot.org
-  - name: search.dojoro.de
-    url: https://search.dojoro.de
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.hbubli.cc
@@ -78,8 +70,6 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
-  - name: search.whateveritworks.org
-    url: https://search.whateveritworks.org
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.ankha.ac
@@ -94,8 +84,6 @@ sites:
     url: https://searx.cthd.icu
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
-  - name: searx.divided-by-zero.eu
-    url: https://searx.divided-by-zero.eu
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
   - name: searx.headpat.exchange
@@ -116,8 +104,6 @@ sites:
     url: https://searx.ox2.fr
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
-  - name: searx.prvcy.eu
-    url: https://searx.prvcy.eu
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.si
@@ -134,16 +120,8 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.ch
     url: https://searxng.ch
-  - name: searxng.no-logs.com
-    url: https://searxng.no-logs.com
-  - name: searxng.online
-    url: https://searxng.online
-  - name: searxng.xcxc.eu
-    url: https://searxng.xcxc.eu
   - name: sex.finaltek.net
     url: https://sex.finaltek.net
-  - name: suche.tromdienste.de
-    url: https://suche.tromdienste.de
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: sx.t-1.org
