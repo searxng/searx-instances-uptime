@@ -56,8 +56,6 @@ sites:
     url: https://search.modalogi.com
   - name: search.ononoki.org
     url: https://search.ononoki.org
-  - name: search.ovh
-    url: https://search.ovh
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt
   - name: search.rabbit-company.com
