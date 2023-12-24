@@ -44,6 +44,8 @@ sites:
     url: https://search.in.projectsegfau.lt
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.itstechtime.com
+    url: https://search.itstechtime.com
   - name: search.laksith.dev
     url: https://search.laksith.dev
   - name: search.leptons.xyz
@@ -118,6 +120,8 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.ch
     url: https://searxng.ch
+  - name: searxng.site
+    url: https://searxng.site
   - name: sex.finaltek.net
     url: https://sex.finaltek.net
   - name: sx.catgirl.cloud
