@@ -729,11 +729,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "85.60%",
+    "uptime": "85.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "85.60%",
+    "uptimeYear": "85.61%",
     "time": 562,
     "timeDay": 439,
     "timeWeek": 463,
@@ -998,7 +998,7 @@
     "uptime": "95.58%",
     "uptimeDay": "97.38%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.57%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "96.54%",
     "time": 1197,
     "timeDay": 5696,
@@ -1480,8 +1480,7 @@
       "2023-01-10": 42,
       "2023-01-08": 15,
       "2023-01-04": 13,
-      "2022-12-31": 41,
-      "2022-12-29": 12
+      "2022-12-31": 41
     }
   },
   {
