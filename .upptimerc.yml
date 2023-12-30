@@ -70,6 +70,8 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
+  - name: search.upinmars.com
+    url: https://search.upinmars.com
   - name: search.zzls.xyz
     url: https://search.zzls.xyz
   - name: searx.ankha.ac
@@ -86,6 +88,8 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.fmac.xyz
     url: https://searx.fmac.xyz
+  - name: searx.fmhy.net
+    url: https://searx.fmhy.net
   - name: searx.headpat.exchange
     url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
