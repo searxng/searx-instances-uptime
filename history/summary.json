@@ -1596,19 +1596,19 @@
     "url": "https://searx.fmhy.net",
     "icon": "https://icons.duckduckgo.com/ip3/searx.fmhy.net.ico",
     "slug": "searx-fmhy-net",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 419,
-    "timeDay": 336,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 440,
+    "timeDay": 420,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-01-01": 2
+      "2024-01-01": 13
     }
   },
   {
