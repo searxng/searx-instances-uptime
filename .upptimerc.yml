@@ -46,16 +46,12 @@ sites:
     url: https://search.inetol.net
   - name: search.itstechtime.com
     url: https://search.itstechtime.com
-  - name: search.laksith.dev
-    url: https://search.laksith.dev
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.lvkaszus.pl
     url: https://search.lvkaszus.pl
   - name: search.mdosch.de
     url: https://search.mdosch.de
-  - name: search.modalogi.com
-    url: https://search.modalogi.com
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.projectsegfau.lt
@@ -114,8 +110,6 @@ sites:
     url: https://searx.si
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org
-  - name: searx.tiekoetter.com
-    url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
   - name: searx.work
