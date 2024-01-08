@@ -78,7 +78,7 @@
     "slug": "darmarit-org",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "62.94%",
+    "uptimeDay": "70.38%",
     "uptimeWeek": "80.13%",
     "uptimeMonth": "94.34%",
     "uptimeYear": "99.52%",
@@ -739,11 +739,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "87.49%",
+    "uptimeYear": "87.50%",
     "time": 557,
     "timeDay": 662,
     "timeWeek": 513,
@@ -1077,8 +1077,7 @@
       "2023-01-14": 31,
       "2023-01-13": 483,
       "2023-01-11": 975,
-      "2023-01-09": 534,
-      "2023-01-08": 63
+      "2023-01-09": 534
     }
   },
   {
@@ -1514,8 +1513,7 @@
       "2023-01-20": 41,
       "2023-01-15": 13,
       "2023-01-13": 43,
-      "2023-01-10": 42,
-      "2023-01-08": 15
+      "2023-01-10": 42
     }
   },
   {
@@ -1548,7 +1546,7 @@
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.15%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "96.84%",
     "time": 2397,
     "timeDay": 700,
@@ -1954,18 +1952,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.sev.monster.ico",
     "slug": "searx-sev-monster",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.65%",
-    "uptimeMonth": "83.37%",
-    "uptimeYear": "98.05%",
+    "uptimeWeek": "28.58%",
+    "uptimeMonth": "83.12%",
+    "uptimeYear": "98.03%",
     "time": 413,
     "timeDay": 334,
     "timeWeek": 368,
     "timeMonth": 351,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2024-01-07": 1415,
+      "2024-01-08": 82,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
