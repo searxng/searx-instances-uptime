@@ -82,8 +82,6 @@ sites:
     url: https://searx.cthd.icu
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
-  - name: searx.fmac.xyz
-    url: https://searx.fmac.xyz
   - name: searx.fmhy.net
     url: https://searx.fmhy.net
   - name: searx.headpat.exchange
