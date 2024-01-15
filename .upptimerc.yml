@@ -58,8 +58,6 @@ sites:
     url: https://search.ononoki.org
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt
-  - name: search.rabbit-company.com
-    url: https://search.rabbit-company.com
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
   - name: search.rowie.at
