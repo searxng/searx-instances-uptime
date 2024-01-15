@@ -1021,8 +1021,8 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "23.36%",
-    "uptimeMonth": "82.36%",
+    "uptimeWeek": "23.10%",
+    "uptimeMonth": "82.30%",
     "uptimeYear": "98.51%",
     "time": 513,
     "timeDay": 598,
@@ -1030,7 +1030,7 @@
     "timeMonth": 474,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-01-15": 682,
+      "2024-01-15": 708,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -1200,7 +1200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-15": 682,
+      "2024-01-15": 708,
       "2024-01-14": 101
     }
   },
@@ -1541,10 +1541,10 @@
     "url": "https://searx.lunar.icu",
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
-    "status": "up",
+    "status": "down",
     "uptime": "97.72%",
-    "uptimeDay": "81.39%",
-    "uptimeWeek": "92.53%",
+    "uptimeDay": "81.26%",
+    "uptimeWeek": "92.51%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "97.72%",
     "time": 1267,
@@ -1553,7 +1553,7 @@
     "timeMonth": 1393,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2024-01-15": 121,
+      "2024-01-15": 123,
       "2024-01-14": 255,
       "2024-01-13": 282,
       "2024-01-12": 13,
@@ -1780,7 +1780,7 @@
     "status": "up",
     "uptime": "97.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.84%",
+    "uptimeWeek": "44.10%",
     "uptimeMonth": "68.85%",
     "uptimeYear": "96.84%",
     "time": 418,
@@ -2105,18 +2105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sx.t-1.org.ico",
     "slug": "sx-t-1-org",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "87.58%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.68%",
+    "uptimeDay": "85.79%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.68%",
     "time": 515,
     "timeDay": 493,
     "timeWeek": 503,
     "timeMonth": 514,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-01-15": 179
+      "2024-01-15": 205
     }
   },
   {
