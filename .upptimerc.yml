@@ -30,6 +30,8 @@ sites:
     url: https://s.mble.dk
   - name: s.trung.fun
     url: https://s.trung.fun
+  - name: search.broker
+    url: https://search.broker
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.demoniak.ch
@@ -68,8 +70,6 @@ sites:
     url: https://search.smnz.de
   - name: search.upinmars.com
     url: https://search.upinmars.com
-  - name: search.nadeko.net
-    url: https://search.nadeko.net
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.baczek.me
@@ -102,6 +102,8 @@ sites:
     url: https://searx.ox2.fr
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
+  - name: searx.rhscz.eu
+    url: https://searx.rhscz.eu
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.si
@@ -122,8 +124,6 @@ sites:
     url: https://sex.finaltek.net
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: sx.t-1.org
-    url: https://sx.t-1.org
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
