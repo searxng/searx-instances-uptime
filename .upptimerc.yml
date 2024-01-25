@@ -54,6 +54,8 @@ sites:
     url: https://search.lvkaszus.pl
   - name: search.mdosch.de
     url: https://search.mdosch.de
+  - name: search.nadeko.net
+    url: https://search.nadeko.net
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.projectsegfau.lt
@@ -68,6 +70,8 @@ sites:
     url: https://search.smnz.de
   - name: search.upinmars.com
     url: https://search.upinmars.com
+  - name: searx.aleteoryx.me
+    url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.baczek.me
@@ -80,6 +84,8 @@ sites:
     url: https://searx.cthd.icu
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
+  - name: searx.ee
+    url: https://searx.ee
   - name: searx.fmhy.net
     url: https://searx.fmhy.net
   - name: searx.headpat.exchange
