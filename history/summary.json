@@ -259,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nyc1.sx.ggtyler.dev.ico",
     "slug": "nyc1-sx-ggtyler-dev",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 387,
     "timeDay": 973,
     "timeWeek": 442,
@@ -326,9 +326,9 @@
     "status": "up",
     "uptime": "97.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.98%",
+    "uptimeWeek": "96.20%",
     "uptimeMonth": "97.09%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.36%",
     "time": 1211,
     "timeDay": 655,
     "timeWeek": 718,
@@ -375,8 +375,7 @@
       "2023-02-21": 38,
       "2023-02-04": 25,
       "2023-02-01": 14,
-      "2023-01-30": 103,
-      "2023-01-29": 360
+      "2023-01-30": 103
     }
   },
   {
@@ -504,8 +503,7 @@
       "2023-03-18": 201,
       "2023-03-17": 373,
       "2023-03-15": 80,
-      "2023-02-05": 69,
-      "2023-01-29": 12
+      "2023-02-05": 69
     }
   },
   {
@@ -514,11 +512,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.broker.ico",
     "slug": "search-broker",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "97.21%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
     "time": 627,
     "timeDay": 567,
     "timeWeek": 653,
@@ -551,8 +549,7 @@
       "2023-12-05": 13,
       "2023-10-21": 54,
       "2023-10-18": 77,
-      "2023-05-27": 13,
-      "2023-01-29": 18
+      "2023-05-27": 13
     }
   },
   {
@@ -687,7 +684,7 @@
     "slug": "search-in-projectsegfau-lt",
     "status": "up",
     "uptime": "96.81%",
-    "uptimeDay": "73.12%",
+    "uptimeDay": "80.75%",
     "uptimeWeek": "94.45%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "96.81%",
@@ -767,11 +764,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.inetol.net.ico",
     "slug": "search-inetol-net",
     "status": "up",
-    "uptime": "90.21%",
+    "uptime": "90.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "90.21%",
+    "uptimeYear": "90.22%",
     "time": 550,
     "timeDay": 512,
     "timeWeek": 536,
@@ -934,11 +931,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.nadeko.net.ico",
     "slug": "search-nadeko-net",
     "status": "up",
-    "uptime": "77.38%",
+    "uptime": "77.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.38%",
-    "uptimeYear": "77.38%",
+    "uptimeMonth": "77.96%",
+    "uptimeYear": "77.96%",
     "time": 428,
     "timeDay": 438,
     "timeWeek": 428,
@@ -2033,12 +2030,12 @@
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.35%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "99.58%",
     "time": 1016,
     "timeDay": 910,
     "timeWeek": 974,
-    "timeMonth": 1013,
+    "timeMonth": 1017,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2024-01-21": 97,
@@ -2141,8 +2138,7 @@
       "2023-05-26": 26,
       "2023-05-25": 13,
       "2023-05-24": 164,
-      "2023-05-16": 99,
-      "2023-01-29": 17
+      "2023-05-16": 99
     }
   },
   {
