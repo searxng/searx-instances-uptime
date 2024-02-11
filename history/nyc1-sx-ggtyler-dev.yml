@@ -1,7 +1,7 @@
 url: https://nyc1.sx.ggtyler.dev
-status: up
-code: 200
-responseTime: 506
-lastUpdated: 2024-02-10T23:10:30.008Z
+status: down
+code: 502
+responseTime: 243
+lastUpdated: 2024-02-11T22:24:02.397Z
 startTime: 2023-10-02T13:20:23.354Z
 generator: Upptime <https://github.com/upptime/upptime>
