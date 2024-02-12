@@ -2256,19 +2256,19 @@
     "url": "https://twinkpad.pl",
     "icon": "https://icons.duckduckgo.com/ip3/twinkpad.pl.ico",
     "slug": "twinkpad-pl",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-02-12": 3
+      "2024-02-12": 13
     }
   },
   {
