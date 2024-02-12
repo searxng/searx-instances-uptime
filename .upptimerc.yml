@@ -56,6 +56,8 @@ sites:
     url: https://search.mdosch.de
   - name: search.nadeko.net
     url: https://search.nadeko.net
+  - name: search.noob.quest
+    url: https://search.noob.quest
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.projectsegfau.lt
@@ -74,6 +76,8 @@ sites:
     url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
+  - name: searx.ari.lt
+    url: https://searx.ari.lt
   - name: searx.baczek.me
     url: https://searx.baczek.me
   - name: searx.be
@@ -128,6 +132,10 @@ sites:
     url: https://sex.finaltek.net
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
+  - name: sx.thatxtreme.dev
+    url: https://sx.thatxtreme.dev
+  - name: twinkpad.pl
+    url: https://twinkpad.pl
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
