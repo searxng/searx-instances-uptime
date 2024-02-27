@@ -56,8 +56,6 @@ sites:
     url: https://search.mdosch.de
   - name: search.nadeko.net
     url: https://search.nadeko.net
-  - name: search.noob.quest
-    url: https://search.noob.quest
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.privacyredirect.com
