@@ -46,8 +46,6 @@ sites:
     url: https://search.in.projectsegfau.lt
   - name: search.inetol.net
     url: https://search.inetol.net
-  - name: search.itstechtime.com
-    url: https://search.itstechtime.com
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
