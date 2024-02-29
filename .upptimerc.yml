@@ -50,8 +50,6 @@ sites:
     url: https://search.itstechtime.com
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
-  - name: search.lvkaszus.pl
-    url: https://search.lvkaszus.pl
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.nadeko.net
@@ -90,8 +88,6 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.ee
     url: https://searx.ee
-  - name: searx.fmhy.net
-    url: https://searx.fmhy.net
   - name: searx.headpat.exchange
     url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
