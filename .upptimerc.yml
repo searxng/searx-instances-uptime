@@ -34,6 +34,8 @@ sites:
     url: https://search.broker
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
+  - name: search.colbster937.dev
+    url: https://search.colbster937.dev
   - name: search.datura.network
     url: https://search.datura.network
   - name: search.demoniak.ch
@@ -84,12 +86,12 @@ sites:
     url: https://searx.be
   - name: searx.catfluori.de
     url: https://searx.catfluori.de
-  - name: searx.cthd.icu
-    url: https://searx.cthd.icu
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
   - name: searx.ee
     url: https://searx.ee
+  - name: searx.foss.family
+    url: https://searx.foss.family
   - name: searx.headpat.exchange
     url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
@@ -128,6 +130,8 @@ sites:
     url: https://searxng.ca
   - name: searxng.ch
     url: https://searxng.ch
+  - name: searxng.online
+    url: https://searxng.online
   - name: searxng.site
     url: https://searxng.site
   - name: sex.finaltek.net
@@ -146,6 +150,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: searx.dresden.network
+    url: https://searx.dresden.network
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
