@@ -1,7 +1,7 @@
 url: https://searxng.brihx.fr
-status: up
-code: 200
-responseTime: 481
-lastUpdated: 2024-03-18T23:12:03.400Z
+status: down
+code: 502
+responseTime: 3525
+lastUpdated: 2024-03-19T14:00:26.974Z
 startTime: 2024-03-01T07:22:09.056Z
 generator: Upptime <https://github.com/upptime/upptime>
