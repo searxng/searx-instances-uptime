@@ -30,8 +30,6 @@ sites:
     url: https://s.mble.dk
   - name: s.trung.fun
     url: https://s.trung.fun
-  - name: search.broker
-    url: https://search.broker
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.colbster937.dev
@@ -72,8 +70,6 @@ sites:
     url: https://search.smnz.de
   - name: search.starless.one
     url: https://search.starless.one
-  - name: search.upinmars.com
-    url: https://search.upinmars.com
   - name: searx.aleteoryx.me
     url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
@@ -96,8 +92,6 @@ sites:
     url: https://searx.headpat.exchange
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
-  - name: searx.kutay.dev
-    url: https://searx.kutay.dev
   - name: searx.lunar.icu
     url: https://searx.lunar.icu
   - name: searx.namejeff.xyz
