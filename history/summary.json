@@ -206,8 +206,7 @@
       "2023-04-11": 21,
       "2023-04-05": 13,
       "2023-03-31": 72,
-      "2023-03-24": 13,
-      "2023-03-23": 13
+      "2023-03-24": 13
     }
   },
   {
@@ -740,7 +739,7 @@
     "slug": "search-in-projectsegfau-lt",
     "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "94.66%",
+    "uptimeDay": "95.09%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "94.00%",
     "uptimeYear": "97.05%",
@@ -1007,19 +1006,19 @@
     "url": "https://search.projectsegfau.lt",
     "icon": "https://icons.duckduckgo.com/ip3/search.projectsegfau.lt.ico",
     "slug": "search-projectsegfau-lt",
-    "status": "down",
+    "status": "up",
     "uptime": "96.95%",
-    "uptimeDay": "94.55%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "97.86%",
     "time": 1203,
-    "timeDay": 547,
-    "timeWeek": 549,
-    "timeMonth": 555,
-    "timeYear": 1214,
+    "timeDay": 607,
+    "timeWeek": 567,
+    "timeMonth": 561,
+    "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-03-21": 74,
+      "2024-03-21": 85,
       "2024-03-20": 4,
       "2024-03-16": 17,
       "2024-02-24": 14,
@@ -1561,18 +1560,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.lunar.icu.ico",
     "slug": "searx-lunar-icu",
     "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "70.20%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.17%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "98.17%",
     "time": 1019,
     "timeDay": 0,
     "timeWeek": 392,
     "timeMonth": 393,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2024-03-21": 429,
+      "2024-03-22": 2,
+      "2024-03-21": 439,
       "2024-03-16": 21,
       "2024-03-02": 405,
       "2024-02-29": 223,
@@ -1726,8 +1726,7 @@
       "2023-07-19": 105,
       "2023-06-26": 13,
       "2023-04-22": 32,
-      "2023-03-24": 114,
-      "2023-03-23": 11
+      "2023-03-24": 114
     }
   },
   {
@@ -2010,8 +2009,7 @@
       "2023-04-04": 178,
       "2023-04-03": 16,
       "2023-03-27": 25,
-      "2023-03-24": 34,
-      "2023-03-23": 308
+      "2023-03-24": 34
     }
   },
   {
