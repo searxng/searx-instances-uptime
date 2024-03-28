@@ -88,6 +88,8 @@ sites:
     url: https://searx.catfluori.de
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
+  - name: searx.dresden.network
+    url: https://searx.dresden.network
   - name: searx.ee
     url: https://searx.ee
   - name: searx.foss.family
@@ -142,6 +144,8 @@ sites:
     url: https://sxng.violets-purgatory.dev
   - name: twinkpad.pl
     url: https://twinkpad.pl
+  - name: vanderwilhelm.me
+    url: https://vanderwilhelm.me
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
