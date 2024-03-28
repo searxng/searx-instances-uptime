@@ -38,6 +38,8 @@ sites:
     url: https://search.datura.network
   - name: search.demoniak.ch
     url: https://search.demoniak.ch
+  - name: search.einfachzocken.eu
+    url: https://search.einfachzocken.eu
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.hbubli.cc
@@ -54,6 +56,8 @@ sites:
     url: https://search.mdosch.de
   - name: search.nadeko.net
     url: https://search.nadeko.net
+  - name: search.ngn.tf
+    url: https://search.ngn.tf
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.privacyredirect.com
@@ -134,6 +138,8 @@ sites:
     url: https://sx.catgirl.cloud
   - name: sx.thatxtreme.dev
     url: https://sx.thatxtreme.dev
+  - name: sxng.violets-purgatory.dev
+    url: https://sxng.violets-purgatory.dev
   - name: twinkpad.pl
     url: https://twinkpad.pl
   - name: www.gruble.de
@@ -144,8 +150,6 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: searx.dresden.network
-    url: https://searx.dresden.network
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
