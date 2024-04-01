@@ -1034,19 +1034,19 @@
     "url": "https://search.privacyredirect.com",
     "icon": "https://icons.duckduckgo.com/ip3/search.privacyredirect.com.ico",
     "slug": "search-privacyredirect-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 508,
-    "timeWeek": 474,
-    "timeMonth": 488,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 483,
+    "timeDay": 471,
+    "timeWeek": 469,
+    "timeMonth": 486,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2024-04-01": 1
+      "2024-04-01": 13
     }
   },
   {
