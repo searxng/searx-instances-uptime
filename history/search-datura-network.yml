@@ -1,7 +1,7 @@
 url: https://search.datura.network
-status: up
-code: 200
-responseTime: 4814
-lastUpdated: 2024-04-17T06:53:24.039Z
+status: down
+code: 502
+responseTime: 4740
+lastUpdated: 2024-04-17T22:14:59.996Z
 startTime: 2024-03-01T07:21:16.064Z
 generator: Upptime <https://github.com/upptime/upptime>
