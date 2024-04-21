@@ -1632,19 +1632,19 @@
     "url": "https://searx.foss.family",
     "icon": "https://icons.duckduckgo.com/ip3/searx.foss.family.ico",
     "slug": "searx-foss-family",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "87.10%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.65%",
-    "time": 653,
-    "timeDay": 620,
-    "timeWeek": 672,
-    "timeMonth": 660,
-    "timeYear": 653,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.63%",
+    "time": 649,
+    "timeDay": 586,
+    "timeWeek": 655,
+    "timeMonth": 654,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2024-04-21": 186
+      "2024-04-21": 197
     }
   },
   {
