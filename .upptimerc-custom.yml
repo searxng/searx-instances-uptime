@@ -1,3 +1,5 @@
 sites:
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: search.us.projectsegfau.lt
+    url: https://search.us.projectsegfau.lt
