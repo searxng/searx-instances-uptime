@@ -12,6 +12,8 @@ sites:
     url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
+  - name: fairsuch.net
+    url: https://fairsuch.net
   - name: freesearch.club
     url: https://freesearch.club
   - name: northboot.xyz
@@ -32,6 +34,8 @@ sites:
     url: https://s.trung.fun
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
+  - name: search.citw.lgbt
+    url: https://search.citw.lgbt
   - name: search.darkness.services
     url: https://search.darkness.services
   - name: search.datura.network
@@ -64,6 +68,8 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt
+  - name: search.reallyaweso.me
+    url: https://search.reallyaweso.me
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
   - name: search.rowie.at
@@ -96,6 +102,8 @@ sites:
     url: https://searx.foss.family
   - name: searx.headpat.exchange
     url: https://searx.headpat.exchange
+  - name: searx.hu
+    url: https://searx.hu
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.lunar.icu
@@ -154,6 +162,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: search.us.projectsegfau.lt
+    url: https://search.us.projectsegfau.lt
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
