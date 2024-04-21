@@ -52,6 +52,8 @@ sites:
     url: https://search.im-in.space
   - name: search.in.projectsegfau.lt
     url: https://search.in.projectsegfau.lt
+  - name: search.incogniweb.net
+    url: https://search.incogniweb.net
   - name: search.inetol.net
     url: https://search.inetol.net
   - name: search.leptons.xyz
@@ -60,6 +62,8 @@ sites:
     url: https://search.mdosch.de
   - name: search.nadeko.net
     url: https://search.nadeko.net
+  - name: search.nerdvpn.de
+    url: https://search.nerdvpn.de
   - name: search.ngn.tf
     url: https://search.ngn.tf
   - name: search.ononoki.org
@@ -92,12 +96,12 @@ sites:
     url: https://searx.be
   - name: searx.catfluori.de
     url: https://searx.catfluori.de
+  - name: searx.colbster937.dev
+    url: https://searx.colbster937.dev
   - name: searx.daetalytica.io
     url: https://searx.daetalytica.io
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.ee
-    url: https://searx.ee
   - name: searx.foss.family
     url: https://searx.foss.family
   - name: searx.headpat.exchange
