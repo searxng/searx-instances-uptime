@@ -56,6 +56,8 @@ sites:
     url: https://search.incogniweb.net
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.ldne.xyz
+    url: https://search.ldne.xyz
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
@@ -146,6 +148,8 @@ sites:
     url: https://searxng.ca
   - name: searxng.ch
     url: https://searxng.ch
+  - name: searxng.cryptocalcu.top
+    url: https://searxng.cryptocalcu.top
   - name: searxng.online
     url: https://searxng.online
   - name: searxng.site
