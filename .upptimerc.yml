@@ -84,6 +84,8 @@ sites:
     url: https://search.smnz.de
   - name: search.starless.one
     url: https://search.starless.one
+  - name: search.us.projectsegfau.lt
+    url: https://search.us.projectsegfau.lt
   - name: searx.aleteoryx.me
     url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
@@ -102,6 +104,8 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.dresden.network
     url: https://searx.dresden.network
+  - name: searx.electroncash.de
+    url: https://searx.electroncash.de
   - name: searx.foss.family
     url: https://searx.foss.family
   - name: searx.headpat.exchange
@@ -166,6 +170,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: search.kvj.ovh
+    url: https://search.kvj.ovh
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
