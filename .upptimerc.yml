@@ -132,8 +132,6 @@ sites:
     url: https://searx.rhscz.eu
   - name: searx.sev.monster
     url: https://searx.sev.monster
-  - name: searx.si
-    url: https://searx.si
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org
   - name: searx.tuxcloud.net
@@ -162,8 +160,6 @@ sites:
     url: https://sx.thatxtreme.dev
   - name: sxng.violets-purgatory.dev
     url: https://sxng.violets-purgatory.dev
-  - name: twinkpad.pl
-    url: https://twinkpad.pl
   - name: vanderwilhelm.me
     url: https://vanderwilhelm.me
   - name: www.gruble.de
