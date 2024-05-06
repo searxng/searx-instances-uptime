@@ -84,8 +84,6 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
-  - name: search.starless.one
-    url: https://search.starless.one
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt
   - name: searx.aleteoryx.me
@@ -106,12 +104,8 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.electroncash.de
-    url: https://searx.electroncash.de
   - name: searx.foss.family
     url: https://searx.foss.family
-  - name: searx.headpat.exchange
-    url: https://searx.headpat.exchange
   - name: searx.hu
     url: https://searx.hu
   - name: searx.juancord.xyz
