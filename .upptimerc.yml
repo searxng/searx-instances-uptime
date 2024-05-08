@@ -54,6 +54,8 @@ sites:
     url: https://search.in.projectsegfau.lt
   - name: search.incogniweb.net
     url: https://search.incogniweb.net
+  - name: search.indst.eu
+    url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
   - name: search.ldne.xyz
@@ -164,8 +166,6 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: search.kvj.ovh
-    url: https://search.kvj.ovh
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
