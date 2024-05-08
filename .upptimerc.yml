@@ -34,6 +34,8 @@ sites:
     url: https://s.trung.fun
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
+  - name: search.charliewhiskey.net
+    url: https://search.charliewhiskey.net
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
   - name: search.darkness.services
