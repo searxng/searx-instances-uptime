@@ -44,6 +44,8 @@ sites:
     url: https://search.datura.network
   - name: search.demoniak.ch
     url: https://search.demoniak.ch
+  - name: search.dotone.nl
+    url: https://search.dotone.nl
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.gcomm.ch
@@ -170,6 +172,8 @@ sites:
     url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: searx.electroncash.de
+    url: https://searx.electroncash.de
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
