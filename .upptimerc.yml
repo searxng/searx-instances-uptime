@@ -14,8 +14,6 @@ sites:
     url: https://etsi.me
   - name: fairsuch.net
     url: https://fairsuch.net
-  - name: freesearch.club
-    url: https://freesearch.club
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: nyc1.sx.ggtyler.dev
@@ -62,8 +60,6 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
-  - name: search.ldne.xyz
-    url: https://search.ldne.xyz
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
@@ -146,8 +142,6 @@ sites:
     url: https://searxng.ca
   - name: searxng.ch
     url: https://searxng.ch
-  - name: searxng.cryptocalcu.top
-    url: https://searxng.cryptocalcu.top
   - name: searxng.online
     url: https://searxng.online
   - name: searxng.site
