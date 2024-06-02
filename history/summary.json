@@ -449,8 +449,7 @@
       "2023-07-19": 443,
       "2023-07-14": 119,
       "2023-07-08": 252,
-      "2023-07-07": 198,
-      "2023-06-03": 26
+      "2023-07-07": 198
     }
   },
   {
@@ -625,11 +624,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.datura.network.ico",
     "slug": "search-datura-network",
     "status": "up",
-    "uptime": "96.85%",
+    "uptime": "96.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "96.85%",
+    "uptimeYear": "96.86%",
     "time": 1470,
     "timeDay": 4093,
     "timeWeek": 2240,
@@ -1858,7 +1857,7 @@
     "slug": "searx-lunar-icu",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "58.93%",
+    "uptimeDay": "59.74%",
     "uptimeWeek": "91.42%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "98.39%",
@@ -2035,10 +2034,10 @@
     "url": "https://searx.ox2.fr",
     "icon": "https://icons.duckduckgo.com/ip3/searx.ox2.fr.ico",
     "slug": "searx-ox2-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "98.62%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.75%",
     "time": 794,
@@ -2047,6 +2046,7 @@
     "timeMonth": 1332,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2024-06-02": 2,
       "2024-06-01": 88,
       "2024-05-31": 14,
       "2024-05-29": 38,
@@ -2174,8 +2174,7 @@
       "2023-08-19": 13,
       "2023-06-17": 231,
       "2023-06-14": 23,
-      "2023-06-11": 134,
-      "2023-06-03": 14
+      "2023-06-11": 134
     }
   },
   {
@@ -2713,7 +2712,7 @@
     "uptime": "79.81%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "83.81%",
+    "uptimeMonth": "83.84%",
     "uptimeYear": "79.81%",
     "time": 856,
     "timeDay": 693,
