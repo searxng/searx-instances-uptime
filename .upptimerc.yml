@@ -76,8 +76,6 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.projectsegfau.lt
     url: https://search.projectsegfau.lt
-  - name: search.reallyaweso.me
-    url: https://search.reallyaweso.me
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
   - name: search.rowie.at
@@ -130,6 +128,8 @@ sites:
     url: https://searx.sev.monster
   - name: searx.techsaviours.org
     url: https://searx.techsaviours.org
+  - name: searx.tiekoetter.com
+    url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
   - name: searx.work
@@ -146,8 +146,6 @@ sites:
     url: https://searxng.online
   - name: searxng.site
     url: https://searxng.site
-  - name: sex.finaltek.net
-    url: https://sex.finaltek.net
   - name: skyrimhater.com
     url: https://skyrimhater.com
   - name: sx.catgirl.cloud
