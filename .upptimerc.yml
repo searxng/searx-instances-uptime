@@ -60,6 +60,8 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.ldne.xyz
+    url: https://search.ldne.xyz
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
@@ -116,6 +118,8 @@ sites:
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
     url: https://searx.nobulart.com
+  - name: searx.numeriquement.fr
+    url: https://searx.numeriquement.fr
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
@@ -144,6 +148,8 @@ sites:
     url: https://searxng.ch
   - name: searxng.online
     url: https://searxng.online
+  - name: searxng.shreven.org
+    url: https://searxng.shreven.org
   - name: searxng.site
     url: https://searxng.site
   - name: skyrimhater.com
