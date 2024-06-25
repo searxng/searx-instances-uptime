@@ -106,6 +106,8 @@ sites:
     url: https://searx.daetalytica.io
   - name: searx.dresden.network
     url: https://searx.dresden.network
+  - name: searx.electroncash.de
+    url: https://searx.electroncash.de
   - name: searx.foss.family
     url: https://searx.foss.family
   - name: searx.hu
@@ -128,6 +130,8 @@ sites:
     url: https://searx.perennialte.ch
   - name: searx.rhscz.eu
     url: https://searx.rhscz.eu
+  - name: searx.ro
+    url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
   - name: searx.techsaviours.org
