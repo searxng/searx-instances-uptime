@@ -146,8 +146,6 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.brihx.fr
     url: https://searxng.brihx.fr
-  - name: searxng.ca
-    url: https://searxng.ca
   - name: searxng.ch
     url: https://searxng.ch
   - name: searxng.hweeren.com
