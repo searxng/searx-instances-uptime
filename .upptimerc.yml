@@ -86,6 +86,8 @@ sites:
     url: https://search.sapti.me
   - name: search.smnz.de
     url: https://search.smnz.de
+  - name: search.tommy-tran.com
+    url: https://search.tommy-tran.com
   - name: search.us.projectsegfau.lt
     url: https://search.us.projectsegfau.lt
   - name: searx.aleteoryx.me
