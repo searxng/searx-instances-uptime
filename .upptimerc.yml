@@ -30,6 +30,8 @@ sites:
     url: https://s.mble.dk
   - name: s.trung.fun
     url: https://s.trung.fun
+  - name: search.blitzw.in
+    url: https://search.blitzw.in
   - name: search.bus-hit.me
     url: https://search.bus-hit.me
   - name: search.charliewhiskey.net
@@ -60,8 +62,6 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
-  - name: search.ldne.xyz
-    url: https://search.ldne.xyz
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
@@ -92,8 +92,6 @@ sites:
     url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
-  - name: searx.ari.lt
-    url: https://searx.ari.lt
   - name: searx.baczek.me
     url: https://searx.baczek.me
   - name: searx.be
@@ -162,6 +160,8 @@ sites:
     url: https://sx.catgirl.cloud
   - name: sx.thatxtreme.dev
     url: https://sx.thatxtreme.dev
+  - name: sx.zorby.top
+    url: https://sx.zorby.top
   - name: sxng.violets-purgatory.dev
     url: https://sxng.violets-purgatory.dev
   - name: vanderwilhelm.me
