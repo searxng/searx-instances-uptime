@@ -130,8 +130,6 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
-  - name: searx.techsaviours.org
-    url: https://searx.techsaviours.org
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
