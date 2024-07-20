@@ -195,8 +195,7 @@
       "2023-08-03": 12,
       "2023-08-02": 32,
       "2023-07-29": 13,
-      "2023-07-22": 24,
-      "2023-07-21": 13
+      "2023-07-22": 24
     }
   },
   {
@@ -419,7 +418,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 642,
     "timeDay": 523,
     "timeWeek": 477,
@@ -440,8 +439,7 @@
       "2023-08-09": 95,
       "2023-08-08": 504,
       "2023-08-03": 25,
-      "2023-07-24": 99,
-      "2023-07-21": 72
+      "2023-07-24": 99
     }
   },
   {
@@ -580,7 +578,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "91.10%",
+    "uptimeYear": "91.11%",
     "time": 783,
     "timeDay": 1023,
     "timeWeek": 1447,
@@ -706,12 +704,12 @@
     "uptime": "99.49%",
     "uptimeDay": "99.14%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.49%",
     "time": 710,
     "timeDay": 608,
     "timeWeek": 594,
-    "timeMonth": 617,
+    "timeMonth": 620,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2024-07-19": 12,
@@ -863,7 +861,7 @@
     "status": "up",
     "uptime": "97.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.50%",
+    "uptimeWeek": "60.89%",
     "uptimeMonth": "87.55%",
     "uptimeYear": "96.51%",
     "time": 1369,
@@ -1064,8 +1062,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1145
+      "2023-07-22": 1440
     }
   },
   {
@@ -1125,18 +1122,19 @@
     "url": "https://search.nadeko.net",
     "icon": "https://icons.duckduckgo.com/ip3/search.nadeko.net.ico",
     "slug": "search-nadeko-net",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "69.29%",
-    "uptimeWeek": "92.75%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "69.15%",
+    "uptimeWeek": "92.73%",
     "uptimeMonth": "95.26%",
-    "uptimeYear": "99.12%",
+    "uptimeYear": "99.13%",
     "time": 487,
     "timeDay": 491,
     "timeWeek": 485,
     "timeMonth": 467,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2024-07-20": 2,
       "2024-07-19": 442,
       "2024-07-18": 35,
       "2024-07-17": 47,
@@ -1168,8 +1166,7 @@
       "2024-06-19": 64,
       "2024-06-18": 32,
       "2024-06-16": 28,
-      "2024-06-14": 12,
-      "2024-06-13": 18
+      "2024-06-14": 12
     }
   },
   {
@@ -1259,8 +1256,7 @@
       "2024-02-03": 14,
       "2024-02-01": 184,
       "2023-07-25": 45,
-      "2023-07-22": 69,
-      "2023-07-21": 13
+      "2023-07-22": 69
     }
   },
   {
@@ -1493,18 +1489,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.us.projectsegfau.lt.ico",
     "slug": "search-us-projectsegfau-lt",
     "status": "down",
-    "uptime": "95.42%",
+    "uptime": "95.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "95.42%",
+    "uptimeWeek": "81.19%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "95.39%",
     "time": 603,
     "timeDay": 0,
     "timeWeek": 1280,
     "timeMonth": 716,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-07-19": 1403,
+      "2024-07-20": 2,
+      "2024-07-19": 1440,
       "2024-07-18": 317,
       "2024-07-17": 12,
       "2024-07-16": 89,
@@ -1735,11 +1732,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.electroncash.de.ico",
     "slug": "searx-electroncash-de",
     "status": "up",
-    "uptime": "91.46%",
+    "uptime": "91.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "91.46%",
+    "uptimeYear": "91.47%",
     "time": 1351,
     "timeDay": 843,
     "timeWeek": 762,
@@ -1994,7 +1991,7 @@
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.63%",
+    "uptimeMonth": "97.72%",
     "uptimeYear": "98.14%",
     "time": 236,
     "timeDay": 201,
@@ -2046,8 +2043,7 @@
       "2023-08-03": 42,
       "2023-07-31": 102,
       "2023-07-28": 75,
-      "2023-07-27": 15,
-      "2023-07-21": 18
+      "2023-07-27": 15
     }
   },
   {
