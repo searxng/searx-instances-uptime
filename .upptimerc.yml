@@ -14,6 +14,8 @@ sites:
     url: https://etsi.me
   - name: fairsuch.net
     url: https://fairsuch.net
+  - name: nogoo.me
+    url: https://nogoo.me
   - name: northboot.xyz
     url: https://northboot.xyz
   - name: nyc1.sx.ggtyler.dev
@@ -112,6 +114,8 @@ sites:
     url: https://searx.juancord.xyz
   - name: searx.lunar.icu
     url: https://searx.lunar.icu
+  - name: searx.mv-software.de
+    url: https://searx.mv-software.de
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
@@ -152,6 +156,8 @@ sites:
     url: https://searxng.site
   - name: skyrimhater.com
     url: https://skyrimhater.com
+  - name: sx.ca.zorby.top
+    url: https://sx.ca.zorby.top
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: sx.thatxtreme.dev
