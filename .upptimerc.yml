@@ -54,8 +54,6 @@ sites:
     url: https://search.hbubli.cc
   - name: search.im-in.space
     url: https://search.im-in.space
-  - name: search.in.projectsegfau.lt
-    url: https://search.in.projectsegfau.lt
   - name: search.incogniweb.net
     url: https://search.incogniweb.net
   - name: search.indst.eu
@@ -88,8 +86,6 @@ sites:
     url: https://search.smnz.de
   - name: search.tommy-tran.com
     url: https://search.tommy-tran.com
-  - name: search.us.projectsegfau.lt
-    url: https://search.us.projectsegfau.lt
   - name: searx.aleteoryx.me
     url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
