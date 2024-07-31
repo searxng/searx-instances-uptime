@@ -116,6 +116,8 @@ sites:
     url: https://searx.lunar.icu
   - name: searx.mv-software.de
     url: https://searx.mv-software.de
+  - name: searx.mxchange.org
+    url: https://searx.mxchange.org
   - name: searx.namejeff.xyz
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
@@ -134,6 +136,8 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.thefloatinglab.world
+    url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
@@ -164,10 +168,6 @@ sites:
     url: https://sx.thatxtreme.dev
   - name: sx.zorby.top
     url: https://sx.zorby.top
-  - name: sxng.violets-purgatory.dev
-    url: https://sxng.violets-purgatory.dev
-  - name: vanderwilhelm.me
-    url: https://vanderwilhelm.me
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
