@@ -191,8 +191,7 @@
       "2023-08-18": 13,
       "2023-08-16": 19,
       "2023-08-15": 26,
-      "2023-08-03": 12,
-      "2023-08-02": 32
+      "2023-08-03": 12
     }
   },
   {
@@ -592,7 +591,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.citw.lgbt.ico",
     "slug": "search-citw-lgbt",
     "status": "up",
-    "uptime": "91.33%",
+    "uptime": "91.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
@@ -633,11 +632,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.darkness.services.ico",
     "slug": "search-darkness-services",
     "status": "up",
-    "uptime": "97.23%",
+    "uptime": "97.24%",
     "uptimeDay": "77.00%",
     "uptimeWeek": "87.52%",
-    "uptimeMonth": "92.07%",
-    "uptimeYear": "97.23%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "97.24%",
     "time": 441,
     "timeDay": 331,
     "timeWeek": 593,
@@ -1255,8 +1254,7 @@
       "2023-08-18": 1136,
       "2023-08-17": 67,
       "2023-08-16": 13,
-      "2023-08-14": 14,
-      "2023-08-02": 159
+      "2023-08-14": 14
     }
   },
   {
@@ -1306,8 +1304,7 @@
     "timeYear": 782,
     "dailyMinutesDown": {
       "2024-07-22": 89,
-      "2023-08-28": 14,
-      "2023-08-02": 39
+      "2023-08-28": 14
     }
   },
   {
@@ -1578,11 +1575,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.electroncash.de.ico",
     "slug": "searx-electroncash-de",
     "status": "up",
-    "uptime": "92.53%",
+    "uptime": "92.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "92.53%",
+    "uptimeYear": "92.54%",
     "time": 1221,
     "timeDay": 637,
     "timeWeek": 718,
@@ -1778,7 +1775,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.28%",
+    "uptimeYear": "97.69%",
     "time": 797,
     "timeDay": 822,
     "timeWeek": 822,
@@ -1855,11 +1852,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.numeriquement.fr.ico",
     "slug": "searx-numeriquement-fr",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 770,
     "timeDay": 461,
     "timeWeek": 1884,
@@ -2109,7 +2106,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "97.38%",
     "time": 621,
     "timeDay": 669,
     "timeWeek": 669,
@@ -2125,7 +2122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.tiekoetter.com.ico",
     "slug": "searx-tiekoetter-com",
     "status": "up",
-    "uptime": "94.01%",
+    "uptime": "94.02%",
     "uptimeDay": "94.57%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
