@@ -1,7 +1,7 @@
 url: https://search.ngn.tf
-status: up
-code: 200
-responseTime: 821
-lastUpdated: 2024-08-04T23:13:45.171Z
+status: down
+code: 502
+responseTime: 928
+lastUpdated: 2024-08-05T21:09:02.771Z
 startTime: 2024-03-28T19:26:30.123Z
 generator: Upptime <https://github.com/upptime/upptime>
