@@ -40,8 +40,6 @@ sites:
     url: https://search.charliewhiskey.net
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
-  - name: search.darkness.services
-    url: https://search.darkness.services
   - name: search.datura.network
     url: https://search.datura.network
   - name: search.dotone.nl
