@@ -146,8 +146,6 @@ sites:
     url: https://searxng.ch
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
-  - name: searxng.online
-    url: https://searxng.online
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
