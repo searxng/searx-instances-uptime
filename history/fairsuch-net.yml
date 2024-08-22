@@ -1,7 +1,7 @@
 url: https://fairsuch.net
-status: up
-code: 200
-responseTime: 19523
-lastUpdated: 2024-08-22T11:29:50.078Z
+status: down
+code: 503
+responseTime: 662
+lastUpdated: 2024-08-22T11:41:52.586Z
 startTime: 2024-04-21T09:23:41.648Z
 generator: Upptime <https://github.com/upptime/upptime>
