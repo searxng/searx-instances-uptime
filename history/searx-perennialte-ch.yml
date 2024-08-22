@@ -1,7 +1,7 @@
 url: https://searx.perennialte.ch
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2024-08-21T23:12:54.913Z
+status: down
+code: 503
+responseTime: 642
+lastUpdated: 2024-08-22T04:31:53.561Z
 startTime: 2023-08-05T09:17:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
