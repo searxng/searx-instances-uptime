@@ -1,7 +1,7 @@
 url: https://searx.dresden.network
-status: up
-code: 200
-responseTime: 927
-lastUpdated: 2024-08-27T23:13:36.225Z
+status: down
+code: 502
+responseTime: 1529
+lastUpdated: 2024-08-28T04:27:32.979Z
 startTime: 2024-03-15T17:20:32.716Z
 generator: Upptime <https://github.com/upptime/upptime>
