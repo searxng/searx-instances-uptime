@@ -46,6 +46,8 @@ sites:
     url: https://search.dotone.nl
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
+  - name: search.fredix.xyz
+    url: https://search.fredix.xyz
   - name: search.gcomm.ch
     url: https://search.gcomm.ch
   - name: search.hbubli.cc
@@ -68,6 +70,8 @@ sites:
     url: https://search.nerdvpn.de
   - name: search.ngn.tf
     url: https://search.ngn.tf
+  - name: search.nordh.tech
+    url: https://search.nordh.tech
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.privacyredirect.com
@@ -90,8 +94,6 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.be
     url: https://searx.be
-  - name: searx.catfluori.de
-    url: https://searx.catfluori.de
   - name: searx.colbster937.dev
     url: https://searx.colbster937.dev
   - name: searx.daetalytica.io
@@ -150,6 +152,8 @@ sites:
     url: https://searxng.shreven.org
   - name: searxng.site
     url: https://searxng.site
+  - name: seek.fyi
+    url: https://seek.fyi
   - name: skyrimhater.com
     url: https://skyrimhater.com
   - name: sx.ca.zorby.top
