@@ -1,7 +1,7 @@
 url: https://searx.ankha.ac
-status: up
-code: 200
-responseTime: 255
-lastUpdated: 2024-09-07T23:12:46.752Z
+status: down
+code: 502
+responseTime: 664
+lastUpdated: 2024-09-08T17:01:20.291Z
 startTime: 2023-12-15T14:28:48.191Z
 generator: Upptime <https://github.com/upptime/upptime>
