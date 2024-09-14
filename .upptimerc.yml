@@ -166,6 +166,8 @@ sites:
     url: https://sx.thatxtreme.dev
   - name: sx.zorby.top
     url: https://sx.zorby.top
+  - name: tritest.site
+    url: https://tritest.site
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: www.jabber-germany.de
