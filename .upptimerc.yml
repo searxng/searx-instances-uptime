@@ -38,8 +38,6 @@ sites:
     url: https://search.bus-hit.me
   - name: search.canine.tools
     url: https://search.canine.tools
-  - name: search.charliewhiskey.net
-    url: https://search.charliewhiskey.net
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
   - name: search.datura.network
@@ -48,6 +46,8 @@ sites:
     url: https://search.dotone.nl
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
+  - name: search.fr3ak.xyz
+    url: https://search.fr3ak.xyz
   - name: search.fredix.xyz
     url: https://search.fredix.xyz
   - name: search.gcomm.ch
@@ -150,6 +150,8 @@ sites:
     url: https://searxng.ch
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
+  - name: searxng.linuxchad.win
+    url: https://searxng.linuxchad.win
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
