@@ -32,8 +32,6 @@ sites:
     url: https://priv.au
   - name: s.mble.dk
     url: https://s.mble.dk
-  - name: s.trung.fun
-    url: https://s.trung.fun
   - name: search.blitzw.in
     url: https://search.blitzw.in
   - name: search.bus-hit.me
@@ -42,14 +40,8 @@ sites:
     url: https://search.canine.tools
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
-  - name: search.datura.network
-    url: https://search.datura.network
-  - name: search.dotone.nl
-    url: https://search.dotone.nl
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
-  - name: search.fr3ak.xyz
-    url: https://search.fr3ak.xyz
   - name: search.fredix.xyz
     url: https://search.fredix.xyz
   - name: search.gcomm.ch
@@ -60,8 +52,6 @@ sites:
     url: https://search.hbubli.cc
   - name: search.im-in.space
     url: https://search.im-in.space
-  - name: search.incogniweb.net
-    url: https://search.incogniweb.net
   - name: search.indst.eu
     url: https://search.indst.eu
   - name: search.inetol.net
@@ -90,8 +80,6 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
-  - name: search.smnz.de
-    url: https://search.smnz.de
   - name: search.tommy-tran.com
     url: https://search.tommy-tran.com
   - name: searx.aleteoryx.me
@@ -110,8 +98,6 @@ sites:
     url: https://searx.electroncash.de
   - name: searx.foss.family
     url: https://searx.foss.family
-  - name: searx.hu
-    url: https://searx.hu
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.lunar.icu
@@ -124,8 +110,6 @@ sites:
     url: https://searx.namejeff.xyz
   - name: searx.nobulart.com
     url: https://searx.nobulart.com
-  - name: searx.numeriquement.fr
-    url: https://searx.numeriquement.fr
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
   - name: searx.ox2.fr
@@ -158,28 +142,16 @@ sites:
     url: https://searxng.linuxchad.win
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
-  - name: searxng.site
-    url: https://searxng.site
   - name: seek.fyi
     url: https://seek.fyi
   - name: skyrimhater.com
     url: https://skyrimhater.com
-  - name: sx.ca.zorby.top
-    url: https://sx.ca.zorby.top
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: sx.thatxtreme.dev
     url: https://sx.thatxtreme.dev
-  - name: sx.zorby.top
-    url: https://sx.zorby.top
-  - name: tritest.site
-    url: https://tritest.site
   - name: www.gruble.de
     url: https://www.gruble.de
-  - name: www.jabber-germany.de
-    url: https://www.jabber-germany.de/searx
-  - name: xo.wtf
-    url: https://xo.wtf
   - name: searx.neocities.org
     url: https://searx.neocities.org
 status-website:
