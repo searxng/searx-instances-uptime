@@ -130,8 +130,6 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
-  - name: searx.work
-    url: https://searx.work
   - name: searx.zhenyapav.com
     url: https://searx.zhenyapav.com
   - name: searxng.brihx.fr
