@@ -122,6 +122,8 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.technicalvoid.dev
+    url: https://searx.technicalvoid.dev
   - name: searx.thefloatinglab.world
     url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
@@ -154,6 +156,8 @@ sites:
     url: https://www.gruble.de
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: searxng.site
+    url: https://searxng.site
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
