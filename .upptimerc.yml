@@ -64,8 +64,6 @@ sites:
     url: https://search.nadeko.net
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de
-  - name: search.ngn.tf
-    url: https://search.ngn.tf
   - name: search.nordh.tech
     url: https://search.nordh.tech
   - name: search.ononoki.org
@@ -148,8 +146,6 @@ sites:
     url: https://skyrimhater.com
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: sx.thatxtreme.dev
-    url: https://sx.thatxtreme.dev
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: searx.neocities.org
