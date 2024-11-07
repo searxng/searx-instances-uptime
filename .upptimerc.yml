@@ -100,6 +100,8 @@ sites:
     url: https://searx.juancord.xyz
   - name: searx.lunar.icu
     url: https://searx.lunar.icu
+  - name: searx.mbuf.net
+    url: https://searx.mbuf.net
   - name: searx.mv-software.de
     url: https://searx.mv-software.de
   - name: searx.mxchange.org
