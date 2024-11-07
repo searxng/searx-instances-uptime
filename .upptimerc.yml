@@ -140,6 +140,8 @@ sites:
     url: https://searxng.linuxchad.win
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
+  - name: searxng.site
+    url: https://searxng.site
   - name: seek.fyi
     url: https://seek.fyi
   - name: skyrimhater.com
@@ -150,8 +152,6 @@ sites:
     url: https://www.gruble.de
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: searxng.site
-    url: https://searxng.site
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
