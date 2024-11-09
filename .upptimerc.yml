@@ -88,8 +88,6 @@ sites:
     url: https://searx.be
   - name: searx.colbster937.dev
     url: https://searx.colbster937.dev
-  - name: searx.daetalytica.io
-    url: https://searx.daetalytica.io
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.electroncash.de
