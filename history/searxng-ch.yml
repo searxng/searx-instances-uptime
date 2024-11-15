@@ -1,7 +1,7 @@
 url: https://searxng.ch
-status: up
-code: 200
-responseTime: 456
-lastUpdated: 2024-11-14T23:15:04.958Z
+status: down
+code: 502
+responseTime: 7484
+lastUpdated: 2024-11-15T05:56:14.489Z
 startTime: 2023-08-04T10:21:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
