@@ -80,8 +80,6 @@ sites:
     url: https://search.sapti.me
   - name: search.tommy-tran.com
     url: https://search.tommy-tran.com
-  - name: searx.aleteoryx.me
-    url: https://searx.aleteoryx.me
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.be
