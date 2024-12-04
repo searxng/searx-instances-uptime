@@ -1,7 +1,7 @@
 url: https://opnxng.com
-status: up
-code: 200
-responseTime: 794
-lastUpdated: 2024-12-04T01:00:48.625Z
+status: down
+code: 500
+responseTime: 758
+lastUpdated: 2024-12-04T03:24:54.879Z
 startTime: 2023-02-13T12:44:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
