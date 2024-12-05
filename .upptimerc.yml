@@ -32,6 +32,8 @@ sites:
     url: https://priv.au
   - name: s.mble.dk
     url: https://s.mble.dk
+  - name: search.080609.xyz
+    url: https://search.080609.xyz
   - name: search.blitzw.in
     url: https://search.blitzw.in
   - name: search.bus-hit.me
@@ -134,12 +136,12 @@ sites:
     url: https://searxng.ch
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
-  - name: searxng.linuxchad.win
-    url: https://searxng.linuxchad.win
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
     url: https://searxng.site
+  - name: searxng.world
+    url: https://searxng.world
   - name: seek.fyi
     url: https://seek.fyi
   - name: skyrimhater.com
