@@ -438,18 +438,19 @@
     "url": "https://opnxng.com",
     "icon": "https://icons.duckduckgo.com/ip3/opnxng.com.ico",
     "slug": "opnxng-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.23%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "97.28%",
     "uptimeMonth": "94.92%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 847,
     "timeDay": 604,
-    "timeWeek": 1151,
+    "timeWeek": 1164,
     "timeMonth": 871,
     "timeYear": 852,
     "dailyMinutesDown": {
+      "2024-12-14": 1,
       "2024-12-09": 38,
       "2024-12-08": 15,
       "2024-12-07": 327,
@@ -482,8 +483,7 @@
       "2024-01-22": 459,
       "2024-01-21": 318,
       "2024-01-10": 84,
-      "2024-01-09": 412,
-      "2023-12-23": 18
+      "2024-01-09": 412
     }
   },
   {
