@@ -70,6 +70,8 @@ sites:
     url: https://search.nordh.tech
   - name: search.ononoki.org
     url: https://search.ononoki.org
+  - name: search.plogi.xyz
+    url: https://search.plogi.xyz
   - name: search.privacyredirect.com
     url: https://search.privacyredirect.com
   - name: search.projectsegfau.lt
