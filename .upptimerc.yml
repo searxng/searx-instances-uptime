@@ -88,6 +88,8 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.be
     url: https://searx.be
+  - name: searx.cespedes.fr
+    url: https://searx.cespedes.fr
   - name: searx.colbster937.dev
     url: https://searx.colbster937.dev
   - name: searx.dresden.network
