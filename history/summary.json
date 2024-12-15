@@ -286,12 +286,12 @@
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.89%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.36%",
     "time": 1855,
     "timeDay": 727,
     "timeWeek": 3430,
-    "timeMonth": 3999,
+    "timeMonth": 4067,
     "timeYear": 2107,
     "dailyMinutesDown": {
       "2024-12-11": 11,
@@ -553,12 +553,12 @@
     "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
-    "uptimeMonth": "93.77%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "98.25%",
     "time": 2113,
     "timeDay": 591,
     "timeWeek": 545,
-    "timeMonth": 7620,
+    "timeMonth": 7649,
     "timeYear": 2222,
     "dailyMinutesDown": {
       "2024-12-10": 95,
@@ -919,7 +919,7 @@
     "status": "up",
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.66%",
+    "uptimeWeek": "92.19%",
     "uptimeMonth": "97.14%",
     "uptimeYear": "98.33%",
     "time": 633,
@@ -1468,12 +1468,12 @@
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.49%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.84%",
     "time": 376,
     "timeDay": 326,
     "timeWeek": 431,
-    "timeMonth": 1134,
+    "timeMonth": 456,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2024-12-12": 17,
@@ -1717,8 +1717,7 @@
       "2023-12-24": 25,
       "2023-12-22": 12,
       "2023-12-21": 34,
-      "2023-12-20": 31,
-      "2023-12-16": 26
+      "2023-12-20": 31
     }
   },
   {
@@ -2009,11 +2008,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.rhscz.eu.ico",
     "slug": "searx-rhscz-eu",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 501,
     "timeDay": 671,
     "timeWeek": 523,
@@ -2112,8 +2111,7 @@
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1356,
-      "2023-12-23": 172,
-      "2023-12-16": 12
+      "2023-12-23": 172
     }
   },
   {
