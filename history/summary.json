@@ -48,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/copp.gg.ico",
     "slug": "copp-gg",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "94.20%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.37%",
+    "uptimeDay": "77.72%",
+    "uptimeWeek": "92.94%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "99.08%",
     "time": 1296,
     "timeDay": 3191,
     "timeWeek": 922,
     "timeMonth": 1070,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2024-12-20": 193,
+      "2024-12-21": 104,
+      "2024-12-20": 217,
       "2024-12-19": 12,
       "2024-12-15": 11,
       "2024-12-14": 368,
@@ -122,8 +123,7 @@
       "2024-01-05": 601,
       "2024-01-04": 224,
       "2023-12-24": 25,
-      "2023-12-23": 54,
-      "2023-12-22": 118
+      "2023-12-23": 54
     }
   },
   {
@@ -1000,8 +1000,7 @@
       "2024-03-27": 75,
       "2024-03-24": 13,
       "2024-02-19": 20,
-      "2024-01-05": 12,
-      "2023-12-22": 19
+      "2024-01-05": 12
     }
   },
   {
@@ -1489,11 +1488,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 666,
     "timeDay": 741,
     "timeWeek": 666,
@@ -1763,8 +1762,7 @@
       "2023-12-30": 13,
       "2023-12-26": 14,
       "2023-12-25": 40,
-      "2023-12-24": 25,
-      "2023-12-22": 12
+      "2023-12-24": 25
     }
   },
   {
@@ -1827,7 +1825,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.60%",
-    "uptimeYear": "96.02%",
+    "uptimeYear": "96.03%",
     "time": 958,
     "timeDay": 891,
     "timeWeek": 1033,
@@ -2580,18 +2578,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/skyrimhater.com.ico",
     "slug": "skyrimhater-com",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.24%",
+    "uptimeDay": "90.09%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "99.24%",
     "time": 268,
     "timeDay": 179,
     "timeWeek": 271,
     "timeMonth": 368,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-12-20": 15,
+      "2024-12-21": 107,
+      "2024-12-20": 36,
       "2024-12-15": 33,
       "2024-12-11": 345,
       "2024-12-09": 125,
