@@ -146,6 +146,8 @@ sites:
     url: https://searxng.shreven.org
   - name: searxng.site
     url: https://searxng.site
+  - name: searxng.website
+    url: https://searxng.website
   - name: searxng.world
     url: https://searxng.world
   - name: seek.fyi
