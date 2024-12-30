@@ -40,6 +40,8 @@ sites:
     url: https://search.bus-hit.me
   - name: search.canine.tools
     url: https://search.canine.tools
+  - name: search.catboy.house
+    url: https://search.catboy.house
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
   - name: search.einfachzocken.eu
@@ -152,6 +154,8 @@ sites:
     url: https://skyrimhater.com
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
+  - name: technewsheads.com
+    url: https://technewsheads.com
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: searx.neocities.org
