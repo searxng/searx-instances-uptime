@@ -1,7 +1,7 @@
 url: https://search.plogi.xyz
-status: up
-code: 200
-responseTime: 624
-lastUpdated: 2025-01-11T23:12:50.973Z
+status: down
+code: 502
+responseTime: 620
+lastUpdated: 2025-01-12T15:35:05.686Z
 startTime: 2024-12-15T09:29:28.130Z
 generator: Upptime <https://github.com/upptime/upptime>
