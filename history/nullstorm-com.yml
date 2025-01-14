@@ -1,7 +1,7 @@
 url: https://nullstorm.com
-status: up
-code: 200
-responseTime: 132
-lastUpdated: 2025-01-13T23:12:46.645Z
+status: down
+code: 500
+responseTime: 311
+lastUpdated: 2025-01-14T11:07:48.889Z
 startTime: 2025-01-12T08:27:13.082Z
 generator: Upptime <https://github.com/upptime/upptime>
