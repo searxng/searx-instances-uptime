@@ -20,8 +20,6 @@ sites:
     url: https://nogoo.me
   - name: northboot.xyz
     url: https://northboot.xyz
-  - name: nullstorm.com
-    url: https://nullstorm.com
   - name: nyc1.sx.ggtyler.dev
     url: https://nyc1.sx.ggtyler.dev
   - name: ooglester.com
@@ -72,8 +70,6 @@ sites:
     url: https://search.nordh.tech
   - name: search.ononoki.org
     url: https://search.ononoki.org
-  - name: search.plogi.xyz
-    url: https://search.plogi.xyz
   - name: search.privacyredirect.com
     url: https://search.privacyredirect.com
   - name: search.projectsegfau.lt
