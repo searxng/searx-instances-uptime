@@ -34,6 +34,8 @@ sites:
     url: https://s.mble.dk
   - name: search.080609.xyz
     url: https://search.080609.xyz
+  - name: search.ballardini.de
+    url: https://search.ballardini.de
   - name: search.blitzw.in
     url: https://search.blitzw.in
   - name: search.bus-hit.me
@@ -58,6 +60,8 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.ipv6s.net
+    url: https://search.ipv6s.net
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.mdosch.de
@@ -80,8 +84,8 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
-  - name: search.tommy-tran.com
-    url: https://search.tommy-tran.com
+  - name: search.url4irl.com
+    url: https://search.url4irl.com
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.be
@@ -92,6 +96,8 @@ sites:
     url: https://searx.dresden.network
   - name: searx.electroncash.de
     url: https://searx.electroncash.de
+  - name: searx.foobar.vip
+    url: https://searx.foobar.vip
   - name: searx.foss.family
     url: https://searx.foss.family
   - name: searx.juancord.xyz
@@ -140,8 +146,8 @@ sites:
     url: https://searxng.world
   - name: seek.fyi
     url: https://seek.fyi
-  - name: skyrimhater.com
-    url: https://skyrimhater.com
+  - name: suche.dasnetzundich.de
+    url: https://suche.dasnetzundich.de
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: www.gruble.de
