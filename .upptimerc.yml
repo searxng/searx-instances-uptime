@@ -144,14 +144,10 @@ sites:
     url: https://skyrimhater.com
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: technewsheads.com
-    url: https://technewsheads.com
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: suche.dasnetzundich.de
-    url: https://suche.dasnetzundich.de
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
