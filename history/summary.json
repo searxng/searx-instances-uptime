@@ -227,12 +227,12 @@
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "98.86%",
     "time": 951,
     "timeDay": 444,
     "timeWeek": 776,
-    "timeMonth": 892,
+    "timeMonth": 883,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-01-01": 283,
@@ -539,8 +539,7 @@
       "2024-10-24": 12,
       "2024-10-16": 34,
       "2024-09-13": 13,
-      "2024-06-26": 64,
-      "2024-01-25": 15
+      "2024-06-26": 64
     }
   },
   {
@@ -655,18 +654,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.bus-hit.me.ico",
     "slug": "search-bus-hit-me",
     "status": "down",
-    "uptime": "99.70%",
+    "uptime": "99.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.42%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.27%",
+    "uptimeWeek": "73.03%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "99.24%",
     "time": 394,
     "timeDay": 0,
     "timeWeek": 638,
     "timeMonth": 510,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-01-23": 1403,
+      "2025-01-24": 104,
+      "2025-01-23": 1440,
       "2025-01-22": 1175,
       "2025-01-11": 537,
       "2024-09-04": 658,
@@ -922,8 +922,7 @@
       "2024-02-15": 17,
       "2024-02-08": 358,
       "2024-02-07": 52,
-      "2024-02-01": 8,
-      "2024-01-25": 344
+      "2024-02-01": 8
     }
   },
   {
@@ -1424,7 +1423,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ankha.ac.ico",
     "slug": "searx-ankha-ac",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -1498,11 +1497,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "93.75%",
+    "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.10%",
-    "uptimeYear": "93.75%",
+    "uptimeYear": "93.77%",
     "time": 674,
     "timeDay": 403,
     "timeWeek": 632,
@@ -1559,11 +1558,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.electroncash.de.ico",
     "slug": "searx-electroncash-de",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "95.44%",
+    "uptimeYear": "95.45%",
     "time": 993,
     "timeDay": 814,
     "timeWeek": 855,
@@ -1682,7 +1681,7 @@
     "slug": "searx-juancord-xyz",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "61.79%",
+    "uptimeDay": "71.50%",
     "uptimeWeek": "89.29%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "98.16%",
@@ -1964,8 +1963,7 @@
       "2024-02-27": 38,
       "2024-02-02": 64,
       "2024-01-27": 234,
-      "2024-01-26": 1005,
-      "2024-01-25": 34
+      "2024-01-26": 1005
     }
   },
   {
@@ -2363,11 +2361,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.shreven.org.ico",
     "slug": "searxng-shreven-org",
     "status": "up",
-    "uptime": "97.33%",
+    "uptime": "97.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.33%",
+    "uptimeYear": "97.34%",
     "time": 402,
     "timeDay": 329,
     "timeWeek": 359,
@@ -2480,11 +2478,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/seek.fyi.ico",
     "slug": "seek-fyi",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 319,
     "timeDay": 348,
     "timeWeek": 366,
@@ -2568,8 +2566,7 @@
       "2024-08-21": 37,
       "2024-05-29": 21,
       "2024-05-15": 63,
-      "2024-03-03": 12,
-      "2024-01-25": 11
+      "2024-03-03": 12
     }
   },
   {
@@ -2595,8 +2592,7 @@
       "2024-10-23": 15,
       "2024-07-31": 22,
       "2024-04-13": 12,
-      "2024-01-29": 16,
-      "2024-01-25": 12
+      "2024-01-29": 16
     }
   }
 ]
