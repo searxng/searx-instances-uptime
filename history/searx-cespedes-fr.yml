@@ -1,7 +1,7 @@
 url: https://searx.cespedes.fr
-status: down
-code: 500
-responseTime: 499
-lastUpdated: 2025-01-26T01:49:50.453Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2025-01-26T09:26:31.245Z
 startTime: 2024-12-15T15:25:29.048Z
 generator: Upptime <https://github.com/upptime/upptime>
