@@ -1,7 +1,7 @@
 url: https://kantan.cat
-status: up
-code: 200
-responseTime: 870
-lastUpdated: 2025-01-28T23:12:32.212Z
+status: down
+code: 502
+responseTime: 727
+lastUpdated: 2025-01-29T08:30:05.861Z
 startTime: 2024-10-08T08:37:04.888Z
 generator: Upptime <https://github.com/upptime/upptime>
