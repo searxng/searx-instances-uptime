@@ -38,8 +38,6 @@ sites:
     url: https://search.ballardini.de
   - name: search.blitzw.in
     url: https://search.blitzw.in
-  - name: search.bus-hit.me
-    url: https://search.bus-hit.me
   - name: search.canine.tools
     url: https://search.canine.tools
   - name: search.catboy.house
