@@ -227,7 +227,7 @@
     "slug": "kantan-cat",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "8.53%",
+    "uptimeDay": "16.71%",
     "uptimeWeek": "69.56%",
     "uptimeMonth": "93.00%",
     "uptimeYear": "97.15%",
@@ -604,7 +604,7 @@
     "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.99%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "98.78%",
     "time": 1306,
     "timeDay": 1294,
@@ -623,18 +623,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ballardini.de.ico",
     "slug": "search-ballardini-de",
     "status": "down",
-    "uptime": "90.73%",
+    "uptime": "90.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.93%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "90.73%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "90.08%",
     "time": 746,
     "timeDay": 0,
     "timeWeek": 775,
     "timeMonth": 746,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2025-02-02": 1427,
+      "2025-02-03": 105,
+      "2025-02-02": 1440,
       "2025-02-01": 47,
       "2025-01-28": 45
     }
@@ -1034,11 +1035,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ipv6s.net.ico",
     "slug": "search-ipv6s-net",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 425,
     "timeDay": 556,
     "timeWeek": 452,
@@ -1303,8 +1304,7 @@
       "2024-03-20": 4,
       "2024-03-16": 17,
       "2024-02-24": 14,
-      "2024-02-20": 176,
-      "2024-02-04": 13
+      "2024-02-20": 176
     }
   },
   {
@@ -1335,8 +1335,7 @@
       "2024-06-29": 34,
       "2024-03-17": 35,
       "2024-03-06": 13,
-      "2024-02-28": 13,
-      "2024-02-04": 25
+      "2024-02-28": 13
     }
   },
   {
@@ -1488,11 +1487,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "92.01%",
-    "uptimeYear": "93.49%",
+    "uptimeYear": "93.50%",
     "time": 660,
     "timeDay": 871,
     "timeWeek": 624,
@@ -1552,11 +1551,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.electroncash.de.ico",
     "slug": "searx-electroncash-de",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.61%",
     "time": 989,
     "timeDay": 1171,
     "timeWeek": 897,
@@ -2058,8 +2057,7 @@
       "2024-04-01": 43,
       "2024-03-20": 19,
       "2024-03-12": 13,
-      "2024-02-28": 100,
-      "2024-02-04": 13
+      "2024-02-28": 100
     }
   },
   {
@@ -2502,7 +2500,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "38.78%",
+    "uptime": "39.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
