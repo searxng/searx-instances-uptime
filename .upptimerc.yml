@@ -34,8 +34,6 @@ sites:
     url: https://s.mble.dk
   - name: search.080609.xyz
     url: https://search.080609.xyz
-  - name: search.ballardini.de
-    url: https://search.ballardini.de
   - name: search.blitzw.in
     url: https://search.blitzw.in
   - name: search.canine.tools
