@@ -257,6 +257,24 @@
     }
   },
   {
+    "name": "metacat.online",
+    "url": "https://metacat.online",
+    "icon": "https://icons.duckduckgo.com/ip3/metacat.online.ico",
+    "slug": "metacat-online",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1069,
+    "timeDay": 1069,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "nogoo.me",
     "url": "https://nogoo.me",
     "icon": "https://icons.duckduckgo.com/ip3/nogoo.me.ico",
@@ -551,6 +569,24 @@
     }
   },
   {
+    "name": "s.datuan.dev",
+    "url": "https://s.datuan.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/s.datuan.dev.ico",
+    "slug": "s-datuan-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 807,
+    "timeDay": 807,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "s.mble.dk",
     "url": "https://s.mble.dk",
     "icon": "https://icons.duckduckgo.com/ip3/s.mble.dk.ico",
@@ -616,6 +652,24 @@
       "2025-01-03": 854,
       "2025-01-02": 179
     }
+  },
+  {
+    "name": "search.4040940.xyz",
+    "url": "https://search.4040940.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/search.4040940.xyz.ico",
+    "slug": "search-4040940-xyz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 293,
+    "timeDay": 293,
+    "timeWeek": 293,
+    "timeMonth": 293,
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   },
   {
     "name": "search.blitzw.in",
@@ -1087,8 +1141,8 @@
     "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.74%",
-    "uptimeMonth": "95.31%",
+    "uptimeWeek": "79.46%",
+    "uptimeMonth": "95.24%",
     "uptimeYear": "98.94%",
     "time": 499,
     "timeDay": 0,
@@ -1096,7 +1150,7 @@
     "timeMonth": 465,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-02-05": 298,
+      "2025-02-05": 327,
       "2025-02-04": 1440,
       "2025-02-03": 304,
       "2025-01-14": 14,
@@ -2481,7 +2535,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "44.45%",
+    "uptime": "44.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
