@@ -16,6 +16,8 @@ sites:
     url: https://fairsuch.net
   - name: kantan.cat
     url: https://kantan.cat
+  - name: metacat.online
+    url: https://metacat.online
   - name: nogoo.me
     url: https://nogoo.me
   - name: northboot.xyz
@@ -30,10 +32,14 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
+  - name: s.datuan.dev
+    url: https://s.datuan.dev
   - name: s.mble.dk
     url: https://s.mble.dk
   - name: search.080609.xyz
     url: https://search.080609.xyz
+  - name: search.4040940.xyz
+    url: https://search.4040940.xyz
   - name: search.blitzw.in
     url: https://search.blitzw.in
   - name: search.canine.tools
