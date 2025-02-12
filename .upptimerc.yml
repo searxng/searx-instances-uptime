@@ -116,6 +116,8 @@ sites:
     url: https://searx.namejeff.xyz
   - name: searx.oakleycord.dev
     url: https://searx.oakleycord.dev
+  - name: searx.oloke.xyz
+    url: https://searx.oloke.xyz
   - name: searx.ox2.fr
     url: https://searx.ox2.fr
   - name: searx.perennialte.ch
