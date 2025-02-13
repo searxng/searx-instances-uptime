@@ -172,8 +172,7 @@
       "2024-03-19": 13,
       "2024-03-03": 15,
       "2024-02-21": 13,
-      "2024-02-15": 16,
-      "2024-02-14": 15
+      "2024-02-15": 16
     }
   },
   {
@@ -826,11 +825,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.fredix.xyz.ico",
     "slug": "search-fredix-xyz",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 649,
     "timeDay": 507,
     "timeWeek": 726,
@@ -1132,8 +1131,7 @@
       "2024-09-04": 13,
       "2024-08-22": 795,
       "2024-04-17": 30,
-      "2024-03-02": 397,
-      "2024-02-14": 33
+      "2024-03-02": 397
     }
   },
   {
@@ -1144,7 +1142,7 @@
     "status": "up",
     "uptime": "98.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.63%",
+    "uptimeWeek": "63.73%",
     "uptimeMonth": "84.11%",
     "uptimeYear": "98.01%",
     "time": 506,
@@ -1489,8 +1487,7 @@
       "2024-02-29": 26,
       "2024-02-27": 920,
       "2024-02-26": 410,
-      "2024-02-25": 13,
-      "2024-02-14": 220
+      "2024-02-25": 13
     }
   },
   {
@@ -1524,11 +1521,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.cespedes.fr.ico",
     "slug": "searx-cespedes-fr",
     "status": "up",
-    "uptime": "94.59%",
+    "uptime": "94.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.23%",
-    "uptimeYear": "94.59%",
+    "uptimeYear": "94.60%",
     "time": 649,
     "timeDay": 485,
     "timeWeek": 525,
@@ -1795,8 +1792,7 @@
       "2024-03-21": 439,
       "2024-03-16": 21,
       "2024-03-02": 405,
-      "2024-02-29": 223,
-      "2024-02-14": 13
+      "2024-02-29": 223
     }
   },
   {
@@ -2564,11 +2560,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "54.08%",
+    "uptime": "54.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.75%",
     "uptimeMonth": "95.45%",
-    "uptimeYear": "95.63%",
+    "uptimeYear": "95.64%",
     "time": 849,
     "timeDay": 555,
     "timeWeek": 681,
