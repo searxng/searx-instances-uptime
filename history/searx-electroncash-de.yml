@@ -1,7 +1,7 @@
 url: https://searx.electroncash.de
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-19T18:42:22.163Z
+code: 502
+responseTime: 691
+lastUpdated: 2025-02-19T23:13:45.193Z
 startTime: 2024-04-29T16:17:40.762Z
 generator: Upptime <https://github.com/upptime/upptime>
