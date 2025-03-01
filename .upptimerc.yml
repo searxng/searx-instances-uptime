@@ -48,6 +48,8 @@ sites:
     url: https://search.catboy.house
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
+  - name: search.cloakpanda.com
+    url: https://search.cloakpanda.com
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.fredix.xyz
@@ -86,6 +88,8 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
+  - name: search.tinfoil.ch
+    url: https://search.tinfoil.ch
   - name: search.url4irl.com
     url: https://search.url4irl.com
   - name: searx.ankha.ac
@@ -138,6 +142,8 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.brihx.fr
     url: https://searxng.brihx.fr
+  - name: searxng.f24o.zip
+    url: https://searxng.f24o.zip
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
   - name: searxng.shreven.org
