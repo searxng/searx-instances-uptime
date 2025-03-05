@@ -40,8 +40,6 @@ sites:
     url: https://search.080609.xyz
   - name: search.4040940.xyz
     url: https://search.4040940.xyz
-  - name: search.blitzw.in
-    url: https://search.blitzw.in
   - name: search.canine.tools
     url: https://search.canine.tools
   - name: search.catboy.house
@@ -70,8 +68,6 @@ sites:
     url: https://search.leptons.xyz
   - name: search.mdosch.de
     url: https://search.mdosch.de
-  - name: search.nadeko.net
-    url: https://search.nadeko.net
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de
   - name: search.nordh.tech
@@ -100,8 +96,6 @@ sites:
     url: https://searx.cespedes.fr
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.electroncash.de
-    url: https://searx.electroncash.de
   - name: searx.foobar.vip
     url: https://searx.foobar.vip
   - name: searx.foss.family
