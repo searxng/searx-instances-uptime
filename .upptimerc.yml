@@ -38,8 +38,6 @@ sites:
     url: https://s.mble.dk
   - name: search.080609.xyz
     url: https://search.080609.xyz
-  - name: search.4040940.xyz
-    url: https://search.4040940.xyz
   - name: search.canine.tools
     url: https://search.canine.tools
   - name: search.catboy.house
