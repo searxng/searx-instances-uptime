@@ -132,6 +132,8 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searx.zhenyapav.com
     url: https://searx.zhenyapav.com
+  - name: searxng.biz
+    url: https://searxng.biz
   - name: searxng.brihx.fr
     url: https://searxng.brihx.fr
   - name: searxng.f24o.zip
