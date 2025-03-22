@@ -648,10 +648,10 @@
     "url": "https://search.080609.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/search.080609.xyz.ico",
     "slug": "search-080609-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.76%",
     "time": 1414,
@@ -660,6 +660,7 @@
     "timeMonth": 1574,
     "timeYear": 1414,
     "dailyMinutesDown": {
+      "2025-03-22": 2,
       "2025-03-03": 28,
       "2025-03-02": 23,
       "2025-02-11": 508,
@@ -1318,8 +1319,7 @@
       "2024-05-15": 18,
       "2024-05-04": 19,
       "2024-04-21": 19,
-      "2024-04-02": 36,
-      "2024-03-22": 18
+      "2024-04-02": 36
     }
   },
   {
@@ -1671,7 +1671,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.16%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "97.97%",
     "time": 652,
     "timeDay": 0,
     "timeWeek": 418,
@@ -1711,8 +1711,7 @@
       "2024-06-01": 582,
       "2024-05-31": 282,
       "2024-04-16": 240,
-      "2024-03-26": 13,
-      "2024-03-22": 231
+      "2024-03-26": 13
     }
   },
   {
@@ -2546,11 +2545,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "77.91%",
+    "uptime": "77.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.09%",
     "time": 815,
     "timeDay": 0,
     "timeWeek": 627,
