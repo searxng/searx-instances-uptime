@@ -548,9 +548,9 @@
     "slug": "priv-au",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "58.37%",
-    "uptimeWeek": "94.05%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "57.53%",
+    "uptimeWeek": "93.93%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "99.69%",
     "time": 585,
     "timeDay": 106,
@@ -558,7 +558,7 @@
     "timeMonth": 268,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-03-27": 172,
+      "2025-03-27": 184,
       "2025-03-26": 428,
       "2025-03-10": 35,
       "2025-02-01": 19,
@@ -1413,18 +1413,20 @@
     "url": "https://search.tinfoil.ch",
     "icon": "https://icons.duckduckgo.com/ip3/search.tinfoil.ch.ico",
     "slug": "search-tinfoil-ch",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 822,
     "timeDay": 0,
     "timeWeek": 634,
     "timeMonth": 822,
     "timeYear": 822,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-27": 2
+    }
   },
   {
     "name": "search.url4irl.com",
@@ -1685,7 +1687,7 @@
     "time": 645,
     "timeDay": 0,
     "timeWeek": 435,
-    "timeMonth": 471,
+    "timeMonth": 473,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-03-01": 657,
