@@ -64,8 +64,8 @@ sites:
     url: https://search.ipv6s.net
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
-  - name: search.librenode.net
-    url: https://search.librenode.net
+  - name: search.librenode.com
+    url: https://search.librenode.com
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.mrblake.cc
@@ -138,6 +138,8 @@ sites:
     url: https://searxng.biz
   - name: searxng.brihx.fr
     url: https://searxng.brihx.fr
+  - name: searxng.deliberate.world
+    url: https://searxng.deliberate.world
   - name: searxng.f24o.zip
     url: https://searxng.f24o.zip
   - name: searxng.hweeren.com
