@@ -82,8 +82,6 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
-  - name: search.tinfoil.ch
-    url: https://search.tinfoil.ch
   - name: search.url4irl.com
     url: https://search.url4irl.com
   - name: searx.ankha.ac
