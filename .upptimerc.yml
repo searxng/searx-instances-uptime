@@ -74,6 +74,8 @@ sites:
     url: https://search.nerdvpn.de
   - name: search.nordh.tech
     url: https://search.nordh.tech
+  - name: search.ohaa.xyz
+    url: https://search.ohaa.xyz
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.privacyredirect.com
@@ -92,8 +94,6 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.be
     url: https://searx.be
-  - name: searx.cespedes.fr
-    url: https://searx.cespedes.fr
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.foobar.vip
@@ -106,8 +106,6 @@ sites:
     url: https://searx.lunar.icu
   - name: searx.mbuf.net
     url: https://searx.mbuf.net
-  - name: searx.mv-software.de
-    url: https://searx.mv-software.de
   - name: searx.mxchange.org
     url: https://searx.mxchange.org
   - name: searx.namejeff.xyz
@@ -118,6 +116,8 @@ sites:
     url: https://searx.oloke.xyz
   - name: searx.ox2.fr
     url: https://searx.ox2.fr
+  - name: searx.party
+    url: https://searx.party
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
   - name: searx.rhscz.eu
