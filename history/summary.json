@@ -1774,18 +1774,19 @@
     "url": "https://searx.mxchange.org",
     "icon": "https://icons.duckduckgo.com/ip3/searx.mxchange.org.ico",
     "slug": "searx-mxchange-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "94.88%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "94.69%",
     "uptimeYear": "99.42%",
-    "time": 1023,
+    "time": 1024,
     "timeDay": 1153,
     "timeWeek": 1068,
     "timeMonth": 1094,
     "timeYear": 1071,
     "dailyMinutesDown": {
+      "2025-05-05": 2,
       "2025-05-04": 24,
       "2025-05-03": 142,
       "2025-05-02": 211,
@@ -1812,7 +1813,7 @@
       "2025-04-10": 130,
       "2025-04-09": 81,
       "2025-04-08": 40,
-      "2025-04-07": 24
+      "2025-04-07": 12
     }
   },
   {
@@ -1850,8 +1851,8 @@
     "status": "down",
     "uptime": "98.39%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.72%",
-    "uptimeMonth": "93.49%",
+    "uptimeWeek": "71.53%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "97.76%",
     "time": 227,
     "timeDay": 304,
@@ -1859,7 +1860,7 @@
     "timeMonth": 205,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-05-05": 652,
+      "2025-05-05": 672,
       "2025-05-04": 1187,
       "2025-05-02": 1012,
       "2025-03-16": 17,
