@@ -36,6 +36,8 @@ sites:
     url: https://s.mble.dk
   - name: search.080609.xyz
     url: https://search.080609.xyz
+  - name: search.404.fo
+    url: https://search.404.fo
   - name: search.canine.tools
     url: https://search.canine.tools
   - name: search.catboy.house
@@ -72,6 +74,8 @@ sites:
     url: https://search.nerdvpn.de
   - name: search.nordh.tech
     url: https://search.nordh.tech
+  - name: search.oh64.moe
+    url: https://search.oh64.moe
   - name: search.ohaa.xyz
     url: https://search.ohaa.xyz
   - name: search.ononoki.org
