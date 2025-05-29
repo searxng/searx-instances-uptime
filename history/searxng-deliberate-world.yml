@@ -1,7 +1,7 @@
 url: https://searxng.deliberate.world
-status: down
-code: 502
-responseTime: 552
-lastUpdated: 2025-05-29T13:23:07.819Z
+status: up
+code: 200
+responseTime: 408
+lastUpdated: 2025-05-29T13:47:10.186Z
 startTime: 2025-04-08T22:22:19.835Z
 generator: Upptime <https://github.com/upptime/upptime>
