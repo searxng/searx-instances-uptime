@@ -94,8 +94,6 @@ sites:
     url: https://search.url4irl.com
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
-  - name: searx.be
-    url: https://searx.be
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.foobar.vip
