@@ -126,6 +126,8 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.stream
+    url: https://searx.stream
   - name: searx.thefloatinglab.world
     url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
