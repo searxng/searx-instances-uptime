@@ -150,8 +150,6 @@ sites:
     url: https://searxng.site
   - name: searxng.website
     url: https://searxng.website
-  - name: searxng.world
-    url: https://searxng.world
   - name: seek.fyi
     url: https://seek.fyi
   - name: suche.dasnetzundich.de
