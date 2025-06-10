@@ -44,8 +44,6 @@ sites:
     url: https://search.catboy.house
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
-  - name: search.cloakpanda.com
-    url: https://search.cloakpanda.com
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.fredix.xyz
