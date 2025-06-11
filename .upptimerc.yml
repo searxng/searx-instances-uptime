@@ -68,8 +68,6 @@ sites:
     url: https://search.librenode.com
   - name: search.mdosch.de
     url: https://search.mdosch.de
-  - name: search.mrblake.cc
-    url: https://search.mrblake.cc
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de
   - name: search.nordh.tech
