@@ -94,6 +94,8 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.dresden.network
     url: https://searx.dresden.network
+  - name: search.federicociro.com
+    url: https://search.federicociro.com
   - name: searx.foobar.vip
     url: https://searx.foobar.vip
   - name: searx.foss.family
