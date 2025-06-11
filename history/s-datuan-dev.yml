@@ -1,7 +1,7 @@
 url: https://s.datuan.dev
-status: up
-code: 200
-responseTime: 803
-lastUpdated: 2025-06-09T23:15:18.006Z
+status: down
+code: 500
+responseTime: 835
+lastUpdated: 2025-06-11T22:19:29.564Z
 startTime: 2025-02-05T05:24:00.290Z
 generator: Upptime <https://github.com/upptime/upptime>
