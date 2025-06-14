@@ -14,6 +14,8 @@ sites:
     url: https://etsi.me
   - name: fairsuch.net
     url: https://fairsuch.net
+  - name: find.xenorio.xyz
+    url: https://find.xenorio.xyz
   - name: kantan.cat
     url: https://kantan.cat
   - name: metacat.online
