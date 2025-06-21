@@ -64,7 +64,7 @@
     "timeDay": 304,
     "timeWeek": 256,
     "timeMonth": 353,
-    "timeYear": 1255,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2025-06-01": 12,
       "2025-05-30": 97,
@@ -200,8 +200,7 @@
       "2024-08-04": 13,
       "2024-08-02": 52,
       "2024-08-01": 97,
-      "2024-07-31": 92,
-      "2024-06-21": 60
+      "2024-07-31": 92
     }
   },
   {
@@ -306,15 +305,16 @@
     "uptime": "97.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.57%",
-    "uptimeYear": "93.43%",
+    "uptimeMonth": "29.29%",
+    "uptimeYear": "93.40%",
     "time": 3738,
     "timeDay": 1095,
     "timeWeek": 905,
     "timeMonth": 13373,
     "timeYear": 4138,
     "dailyMinutesDown": {
-      "2025-06-20": 1438,
+      "2025-06-21": 123,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -834,8 +834,7 @@
       "2024-07-22": 98,
       "2024-07-13": 182,
       "2024-07-10": 12,
-      "2024-07-09": 401,
-      "2024-06-21": 26
+      "2024-07-09": 401
     }
   },
   {
@@ -975,18 +974,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.gcomm.ch.ico",
     "slug": "search-gcomm-ch",
     "status": "down",
-    "uptime": "96.95%",
+    "uptime": "96.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "28.98%",
-    "uptimeYear": "92.27%",
+    "uptimeYear": "92.25%",
     "time": 483,
     "timeDay": 728,
     "timeWeek": 474,
     "timeMonth": 489,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-06-20": 1439,
+      "2025-06-21": 124,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -1096,7 +1096,7 @@
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.45%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "97.51%",
     "time": 619,
     "timeDay": 799,
@@ -1209,7 +1209,7 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.36%",
     "time": 464,
     "timeDay": 567,
@@ -1472,7 +1472,7 @@
     "uptime": "98.47%",
     "uptimeDay": "92.39%",
     "uptimeWeek": "98.30%",
-    "uptimeMonth": "77.37%",
+    "uptimeMonth": "77.66%",
     "uptimeYear": "97.13%",
     "time": 797,
     "timeDay": 2710,
@@ -1567,7 +1567,7 @@
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.39%",
-    "uptimeMonth": "98.19%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "99.68%",
     "time": 798,
     "timeDay": 1003,
@@ -1638,18 +1638,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ankha.ac.ico",
     "slug": "searx-ankha-ac",
     "status": "down",
-    "uptime": "95.20%",
-    "uptimeDay": "86.69%",
-    "uptimeWeek": "98.10%",
+    "uptime": "95.18%",
+    "uptimeDay": "77.95%",
+    "uptimeWeek": "96.85%",
     "uptimeMonth": "45.13%",
-    "uptimeYear": "93.39%",
+    "uptimeYear": "93.37%",
     "time": 571,
     "timeDay": 688,
     "timeWeek": 648,
     "timeMonth": 592,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-06-20": 192,
+      "2025-06-21": 125,
+      "2025-06-20": 193,
       "2025-06-09": 21,
       "2025-06-06": 783,
       "2025-06-05": 1440,
@@ -1691,8 +1692,7 @@
       "2024-08-09": 23,
       "2024-08-07": 25,
       "2024-07-07": 80,
-      "2024-07-06": 413,
-      "2024-06-21": 23
+      "2024-07-06": 413
     }
   },
   {
@@ -1861,8 +1861,7 @@
       "2024-08-16": 13,
       "2024-07-28": 13,
       "2024-07-17": 23,
-      "2024-07-02": 167,
-      "2024-06-21": 342
+      "2024-07-02": 167
     }
   },
   {
@@ -1992,7 +1991,7 @@
     "slug": "searx-oakleycord-dev",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "88.81%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "93.32%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "97.76%",
@@ -2046,8 +2045,7 @@
       "2024-08-13": 217,
       "2024-06-28": 295,
       "2024-06-27": 362,
-      "2024-06-22": 105,
-      "2024-06-21": 30
+      "2024-06-22": 105
     }
   },
   {
@@ -2080,7 +2078,7 @@
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.42%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "97.09%",
     "time": 806,
     "timeDay": 1003,
@@ -2131,7 +2129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.perennialte.ch.ico",
     "slug": "searx-perennialte-ch",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2406,7 +2404,7 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.04%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "99.17%",
     "time": 970,
     "timeDay": 1183,
@@ -2772,7 +2770,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/suche.dasnetzundich.de.ico",
     "slug": "suche-dasnetzundich-de",
     "status": "up",
-    "uptime": "87.89%",
+    "uptime": "87.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "91.36%",
