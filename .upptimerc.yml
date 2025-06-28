@@ -50,8 +50,6 @@ sites:
     url: https://search.federicociro.com
   - name: search.fredix.xyz
     url: https://search.fredix.xyz
-  - name: search.gcomm.ch
-    url: https://search.gcomm.ch
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
   - name: search.im-in.space
