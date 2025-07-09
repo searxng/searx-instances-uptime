@@ -56,8 +56,6 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
-  - name: search.ipv6s.net
-    url: https://search.ipv6s.net
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.librenode.com
@@ -128,8 +126,6 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.biz
     url: https://searxng.biz
-  - name: searxng.brihx.fr
-    url: https://searxng.brihx.fr
   - name: searxng.deliberate.world
     url: https://searxng.deliberate.world
   - name: searxng.f24o.zip
