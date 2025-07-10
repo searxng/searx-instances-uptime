@@ -48,6 +48,8 @@ sites:
     url: https://search.einfachzocken.eu
   - name: search.federicociro.com
     url: https://search.federicociro.com
+  - name: search.goober.cloud
+    url: https://search.goober.cloud
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
   - name: search.im-in.space
