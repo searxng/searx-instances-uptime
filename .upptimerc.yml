@@ -110,6 +110,8 @@ sites:
     url: https://searx.party
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
+  - name: searx.ppeb.me
+    url: https://searx.ppeb.me
   - name: searx.rhscz.eu
     url: https://searx.rhscz.eu
   - name: searx.ro
