@@ -1,7 +1,7 @@
 url: https://search.oh64.moe
-status: up
-code: 200
-responseTime: 1251
-lastUpdated: 2025-07-25T23:16:50.857Z
+status: down
+code: 502
+responseTime: 888
+lastUpdated: 2025-07-26T10:30:48.125Z
 startTime: 2025-05-24T13:06:19.583Z
 generator: Upptime <https://github.com/upptime/upptime>
