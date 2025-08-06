@@ -42,6 +42,8 @@ sites:
     url: https://search.canine.tools
   - name: search.catboy.house
     url: https://search.catboy.house
+  - name: search.charliewhiskey.net
+    url: https://search.charliewhiskey.net
   - name: search.citw.lgbt
     url: https://search.citw.lgbt
   - name: search.einfachzocken.eu
@@ -58,6 +60,8 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.ipv6s.net
+    url: https://search.ipv6s.net
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
   - name: search.librenode.com
