@@ -74,8 +74,6 @@ sites:
     url: https://search.mdosch.de
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de
-  - name: search.nordh.tech
-    url: https://search.nordh.tech
   - name: search.oh64.moe
     url: https://search.oh64.moe
   - name: search.ohaa.xyz
