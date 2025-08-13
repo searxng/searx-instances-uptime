@@ -1,7 +1,7 @@
 url: https://searx.ppeb.me
-status: up
-code: 200
-responseTime: 557
-lastUpdated: 2025-08-11T23:16:31.053Z
+status: down
+code: 502
+responseTime: 8785
+lastUpdated: 2025-08-13T00:00:37.156Z
 startTime: 2025-07-11T09:42:20.218Z
 generator: Upptime <https://github.com/upptime/upptime>
