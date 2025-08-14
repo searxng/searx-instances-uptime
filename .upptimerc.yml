@@ -42,6 +42,8 @@ sites:
     url: https://search.2b9t.xyz
   - name: search.ashisgreat.xyz
     url: https://search.ashisgreat.xyz
+  - name: search.buddyverse.net
+    url: https://search.buddyverse.net
   - name: search.canine.tools
     url: https://search.canine.tools
   - name: search.catboy.house
