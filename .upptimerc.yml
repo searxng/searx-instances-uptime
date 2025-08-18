@@ -32,8 +32,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: s.datuan.dev
-    url: https://s.datuan.dev
   - name: s.mble.dk
     url: https://s.mble.dk
   - name: search.080609.xyz
@@ -64,12 +62,12 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.ipsys.bf
+    url: https://search.ipsys.bf
   - name: search.ipv6s.net
     url: https://search.ipv6s.net
   - name: search.leptons.xyz
     url: https://search.leptons.xyz
-  - name: search.librenode.com
-    url: https://search.librenode.com
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.nerdvpn.de
