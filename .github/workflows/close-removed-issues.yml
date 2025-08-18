@@ -1,0 +1,116 @@
+name: Close issues for removed instances
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - .upptimerc.yml
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: close-removed-instances
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    name: Close issues for removed instances
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT || github.token }}
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/download/v4.25.2/yq_linux_amd64 -O /usr/bin/yq && \
+          sudo chmod +x /usr/bin/yq
+        shell: bash
+
+      - name: Ensure jq is installed
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y jq
+        shell: bash
+
+      - name: Build current monitored hosts list
+        id: build_hosts
+        run: |
+          set -euo pipefail
+          yq -r '.sites[].url' .upptimerc.yml | awk -F[/:] '{print $4}' | sort -u > allowed_hosts.txt
+          echo "Monitored hosts:" && cat allowed_hosts.txt
+        shell: bash
+
+      - name: Close open issues for removed hosts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
+        run: |
+          set -euo pipefail
+          OWNER_REPO="${GITHUB_REPOSITORY}"
+
+          if [ ! -s allowed_hosts.txt ]; then
+            echo "No monitored hosts parsed from .upptimerc.yml; exiting."
+            exit 0
+          fi
+
+          page=1
+          closed_any=0
+          while true; do
+            resp=$(curl -sS -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${OWNER_REPO}/issues?state=open&per_page=100&page=${page}")
+            count=$(echo "$resp" | jq 'length')
+            if [ "$count" -eq 0 ]; then
+              break
+            fi
+
+            echo "$resp" | jq -c '.[] | select(.pull_request? | not)' | while read -r issue; do
+              title=$(echo "$issue" | jq -r '.title')
+              number=$(echo "$issue" | jq -r '.number')
+              body=$(echo "$issue" | jq -r '.body // ""')
+
+              # Only consider typical Upptime incident issues
+              if ! echo "$title" | grep -Eqi 'is down|degraded'; then
+                continue
+              fi
+
+              domain=$(echo "$title" | sed -n 's/.*\[\([^]]*\)\].*/\1/p' | head -n1)
+              if [ -z "$domain" ]; then
+                domain=$(echo "$body" | sed -n 's/.*URL: https\?:\/\/\([^\/#[:space:]]*\).*/\1/p' | head -n1)
+              fi
+              if [ -z "$domain" ]; then
+                # Try any URL in the body as a last resort
+                domain=$(echo "$body" | grep -Eo 'https?://[^/[:space:]]+' | head -n1 | awk -F[/:] '{print $4}')
+              fi
+
+              if [ -z "$domain" ]; then
+                echo "Issue #$number: could not determine domain from title/body; skipping"
+                continue
+              fi
+
+              if ! grep -Fxq "$domain" allowed_hosts.txt; then
+                echo "Closing issue #$number for removed host $domain"
+                # Add a comment for traceability
+                curl -sS -X POST -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" \
+                  -d "$(jq -nc --arg body "Closing automatically: instance '$domain' is no longer in the monitored list in .upptimerc.yml." '{body: $body}')" \
+                  "https://api.github.com/repos/${OWNER_REPO}/issues/${number}/comments" > /dev/null
+                # Close the issue
+                curl -sS -X PATCH -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" \
+                  -d '{"state": "closed"}' \
+                  "https://api.github.com/repos/${OWNER_REPO}/issues/${number}" > /dev/null
+                closed_any=1
+              else
+                echo "Issue #$number refers to monitored host $domain; leaving open"
+              fi
+            done
+
+            page=$((page+1))
+          done
+
+          if [ "$closed_any" -eq 0 ]; then
+            echo "No issues needed closing."
+          fi
+        shell: bash 
