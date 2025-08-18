@@ -41,7 +41,7 @@ jobs:
         id: build_hosts
         run: |
           set -euo pipefail
-          yq -r '.sites[].url' .upptimerc.yml | awk -F[/:] '{print $4}' | sort -u > allowed_hosts.txt
+          yq e -N '.sites[].url' .upptimerc.yml | awk -F[/:] '{print $4}' | sort -u > allowed_hosts.txt
           echo "Monitored hosts:" && cat allowed_hosts.txt
         shell: bash
 
