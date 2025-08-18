@@ -41,7 +41,10 @@ jobs:
         id: build_hosts
         run: |
           set -euo pipefail
-          yq e -N '.sites[].url' .upptimerc.yml | awk -F[/:] '{print $4}' | sort -u > allowed_hosts.txt
+          yq e -N '.sites[].url' .upptimerc.yml \
+            | awk -F[/:] '{print tolower($4)}' \
+            | sed '/^$/d' \
+            | sort -u > allowed_hosts.txt
           echo "Monitored hosts:" && cat allowed_hosts.txt
         shell: bash
 
@@ -70,34 +73,26 @@ jobs:
             echo "$resp" | jq -c '.[] | select(.pull_request? | not)' | while read -r issue; do
               title=$(echo "$issue" | jq -r '.title')
               number=$(echo "$issue" | jq -r '.number')
-              body=$(echo "$issue" | jq -r '.body // ""')
 
-              # Only consider typical Upptime incident issues
-              if ! echo "$title" | grep -Eqi 'is down|degraded'; then
+              if ! echo "$title" | grep -Eqi 'is down'; then
                 continue
               fi
 
-              domain=$(echo "$title" | sed -n 's/.*\[\([^]]*\)\].*/\1/p' | head -n1)
-              if [ -z "$domain" ]; then
-                domain=$(echo "$body" | sed -n 's/.*URL: https\?:\/\/\([^\/#[:space:]]*\).*/\1/p' | head -n1)
-              fi
-              if [ -z "$domain" ]; then
-                # Try any URL in the body as a last resort
-                domain=$(echo "$body" | grep -Eo 'https?://[^/[:space:]]+' | head -n1 | awk -F[/:] '{print $4}')
-              fi
+              domain=$(printf '%s\n' "$title" \
+                | sed -En 's/^[[:space:]]*([A-Za-z0-9.-]+)[[:space:]]+is[[:space:]]+down.*$/\1/ip' \
+                | head -n1 \
+                | tr '[:upper:]' '[:lower:]')
 
-              if [ -z "$domain" ]; then
-                echo "Issue #$number: could not determine domain from title/body; skipping"
+              if [ -z "$domain" ] || ! printf '%s\n' "$domain" | grep -Eq '^[a-z0-9.-]+\.[a-z0-9.-]+$'; then
+                echo "Issue #$number: could not determine monitored domain from title; skipping"
                 continue
               fi
 
               if ! grep -Fxq "$domain" allowed_hosts.txt; then
                 echo "Closing issue #$number for removed host $domain"
-                # Add a comment for traceability
                 curl -sS -X POST -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" \
                   -d "$(jq -nc --arg body "Closing automatically: instance '$domain' is no longer in the monitored list in .upptimerc.yml." '{body: $body}')" \
                   "https://api.github.com/repos/${OWNER_REPO}/issues/${number}/comments" > /dev/null
-                # Close the issue
                 curl -sS -X PATCH -H "Authorization: Bearer ${GITHUB_TOKEN}" -H "Accept: application/vnd.github+json" \
                   -d '{"state": "closed"}' \
                   "https://api.github.com/repos/${OWNER_REPO}/issues/${number}" > /dev/null
