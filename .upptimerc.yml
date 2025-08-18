@@ -128,8 +128,6 @@ sites:
     url: https://searx.sev.monster
   - name: searx.stream
     url: https://searx.stream
-  - name: searx.thefloatinglab.world
-    url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
@@ -152,8 +150,6 @@ sites:
     url: https://searxng.website
   - name: seek.fyi
     url: https://seek.fyi
-  - name: suche.dasnetzundich.de
-    url: https://suche.dasnetzundich.de
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: www.gruble.de
