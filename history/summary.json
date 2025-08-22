@@ -160,8 +160,7 @@
       "2024-11-23": 19,
       "2024-11-17": 352,
       "2024-11-16": 169,
-      "2024-10-26": 24,
-      "2024-08-22": 12
+      "2024-10-26": 24
     }
   },
   {
@@ -192,8 +191,7 @@
       "2024-10-20": 34,
       "2024-10-18": 111,
       "2024-10-10": 12,
-      "2024-10-08": 12,
-      "2024-08-22": 844
+      "2024-10-08": 12
     }
   },
   {
@@ -594,17 +592,18 @@
     "slug": "priv-au",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "79.06%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "73.05%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "99.46%",
     "time": 609,
     "timeDay": 0,
     "timeWeek": 712,
     "timeMonth": 753,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-08-21": 301,
+      "2025-08-22": 80,
+      "2025-08-21": 308,
       "2025-08-04": 334,
       "2025-07-04": 91,
       "2025-06-17": 32,
@@ -750,11 +749,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.2b9t.xyz.ico",
     "slug": "search-2b9t-xyz",
     "status": "up",
-    "uptime": "94.94%",
+    "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptimeMonth": "94.96%",
+    "uptimeYear": "94.96%",
     "time": 193,
     "timeDay": 278,
     "timeWeek": 192,
@@ -812,7 +811,7 @@
     "uptime": "95.33%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "87.36%",
+    "uptimeMonth": "87.56%",
     "uptimeYear": "95.33%",
     "time": 328,
     "timeDay": 350,
@@ -1012,25 +1011,26 @@
     "url": "https://search.goober.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/search.goober.cloud.ico",
     "slug": "search-goober-cloud",
-    "status": "up",
-    "uptime": "90.44%",
-    "uptimeDay": "36.66%",
-    "uptimeWeek": "42.31%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "90.44%",
+    "status": "down",
+    "uptime": "90.55%",
+    "uptimeDay": "42.57%",
+    "uptimeWeek": "42.88%",
+    "uptimeMonth": "86.86%",
+    "uptimeYear": "90.55%",
     "time": 346,
-    "timeDay": 227,
+    "timeDay": 225,
     "timeWeek": 228,
     "timeMonth": 347,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2025-08-22": 2,
       "2025-08-21": 907,
       "2025-08-20": 948,
       "2025-08-19": 832,
       "2025-08-18": 927,
       "2025-08-17": 752,
       "2025-08-16": 926,
-      "2025-08-15": 524
+      "2025-08-15": 465
     }
   },
   {
@@ -1236,7 +1236,7 @@
     "slug": "search-leptons-xyz",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "45.95%",
+    "uptimeDay": "51.96%",
     "uptimeWeek": "72.53%",
     "uptimeMonth": "91.87%",
     "uptimeYear": "98.75%",
@@ -1283,8 +1283,7 @@
       "2025-02-03": 18,
       "2025-01-28": 12,
       "2024-10-24": 12,
-      "2024-09-04": 13,
-      "2024-08-22": 795
+      "2024-09-04": 13
     }
   },
   {
@@ -1307,8 +1306,7 @@
       "2025-05-23": 12,
       "2025-05-21": 161,
       "2025-03-27": 48,
-      "2024-09-23": 38,
-      "2024-08-22": 121
+      "2024-09-23": 38
     }
   },
   {
@@ -1352,18 +1350,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ohaa.xyz.ico",
     "slug": "search-ohaa-xyz",
     "status": "down",
-    "uptime": "90.89%",
+    "uptime": "90.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.23%",
-    "uptimeMonth": "88.60%",
-    "uptimeYear": "90.89%",
+    "uptimeWeek": "50.37%",
+    "uptimeMonth": "88.40%",
+    "uptimeYear": "90.84%",
     "time": 655,
     "timeDay": 452,
     "timeWeek": 571,
     "timeMonth": 601,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-08-21": 1434,
+      "2025-08-22": 81,
+      "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 602,
@@ -1396,7 +1395,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
-    "uptimeMonth": "79.20%",
+    "uptimeMonth": "79.40%",
     "uptimeYear": "96.30%",
     "time": 315,
     "timeDay": 279,
@@ -1556,8 +1555,7 @@
       "2024-11-22": 22,
       "2024-11-09": 13,
       "2024-09-25": 30,
-      "2024-08-23": 565,
-      "2024-08-22": 1212
+      "2024-08-23": 565
     }
   },
   {
@@ -1848,8 +1846,7 @@
       "2024-08-28": 84,
       "2024-08-27": 633,
       "2024-08-24": 170,
-      "2024-08-23": 1140,
-      "2024-08-22": 1168
+      "2024-08-23": 1140
     }
   },
   {
@@ -2151,8 +2148,7 @@
       "2025-02-27": 10,
       "2024-10-29": 7,
       "2024-09-04": 81,
-      "2024-09-03": 27,
-      "2024-08-22": 50
+      "2024-09-03": 27
     }
   },
   {
@@ -2161,7 +2157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searx.ppeb.me.ico",
     "slug": "searx-ppeb-me",
     "status": "up",
-    "uptime": "88.24%",
+    "uptime": "88.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
@@ -2210,8 +2206,7 @@
       "2024-11-19": 19,
       "2024-10-12": 107,
       "2024-10-11": 14,
-      "2024-08-23": 641,
-      "2024-08-22": 1211
+      "2024-08-23": 641
     }
   },
   {
@@ -2402,8 +2397,7 @@
       "2024-10-05": 19,
       "2024-10-03": 31,
       "2024-09-27": 20,
-      "2024-08-31": 29,
-      "2024-08-22": 249
+      "2024-08-31": 29
     }
   },
   {
@@ -2689,7 +2683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.site.ico",
     "slug": "searxng-site",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "89.58%",
@@ -2741,8 +2735,7 @@
       "2024-10-05": 451,
       "2024-10-03": 13,
       "2024-08-24": 190,
-      "2024-08-23": 1199,
-      "2024-08-22": 1201
+      "2024-08-23": 1199
     }
   },
   {
@@ -2751,11 +2744,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.website.ico",
     "slug": "searxng-website",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "90.87%",
-    "uptimeYear": "94.77%",
+    "uptimeYear": "94.78%",
     "time": 550,
     "timeDay": 362,
     "timeWeek": 536,
