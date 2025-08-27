@@ -48,8 +48,6 @@ sites:
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
     url: https://search.charliewhiskey.net
-  - name: search.citw.lgbt
-    url: https://search.citw.lgbt
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.hbubli.cc
@@ -60,6 +58,8 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.internetsucks.net
+    url: https://search.internetsucks.net
   - name: search.ipsys.bf
     url: https://search.ipsys.bf
   - name: search.ipv6s.net
