@@ -40,6 +40,8 @@ sites:
     url: https://search.2b9t.xyz
   - name: search.ashisgreat.xyz
     url: https://search.ashisgreat.xyz
+  - name: search.bladerunn.in
+    url: https://search.bladerunn.in
   - name: search.buddyverse.net
     url: https://search.buddyverse.net
   - name: search.canine.tools
