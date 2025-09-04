@@ -1,7 +1,7 @@
 url: https://search.canine.tools
-status: up
-code: 200
-responseTime: 392
-lastUpdated: 2025-09-03T23:13:04.667Z
+status: down
+code: 502
+responseTime: 335
+lastUpdated: 2025-09-04T22:41:36.022Z
 startTime: 2024-09-14T06:31:59.409Z
 generator: Upptime <https://github.com/upptime/upptime>
