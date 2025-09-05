@@ -90,6 +90,8 @@ sites:
     url: https://search.sapti.me
   - name: search.system51.co.uk
     url: https://search.system51.co.uk
+  - name: search.undertale.uk
+    url: https://search.undertale.uk
   - name: search.url4irl.com
     url: https://search.url4irl.com
   - name: searx.ankha.ac
