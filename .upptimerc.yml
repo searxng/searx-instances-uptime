@@ -52,6 +52,8 @@ sites:
     url: https://search.charliewhiskey.net
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
+  - name: search.ethibox.fr
+    url: https://search.ethibox.fr
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
   - name: search.im-in.space
