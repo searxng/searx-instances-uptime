@@ -56,6 +56,8 @@ sites:
     url: https://search.ethibox.fr
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
+  - name: search.iguru.gr
+    url: https://search.iguru.gr
   - name: search.im-in.space
     url: https://search.im-in.space
   - name: search.indst.eu
