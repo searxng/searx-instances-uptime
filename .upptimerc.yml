@@ -82,8 +82,6 @@ sites:
     url: https://search.nerdvpn.de
   - name: search.oh64.moe
     url: https://search.oh64.moe
-  - name: search.ohaa.xyz
-    url: https://search.ohaa.xyz
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.perditum.com
