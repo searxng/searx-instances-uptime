@@ -22,8 +22,6 @@ sites:
     url: https://metacat.online
   - name: northboot.xyz
     url: https://northboot.xyz
-  - name: nyc1.sx.ggtyler.dev
-    url: https://nyc1.sx.ggtyler.dev
   - name: o5.gg
     url: https://o5.gg
   - name: ooglester.com
@@ -36,14 +34,10 @@ sites:
     url: https://priv.au
   - name: s.mble.dk
     url: https://s.mble.dk
-  - name: search.080609.xyz
-    url: https://search.080609.xyz
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
   - name: search.anoni.net
     url: https://search.anoni.net
-  - name: search.ashisgreat.xyz
-    url: https://search.ashisgreat.xyz
   - name: search.bladerunn.in
     url: https://search.bladerunn.in
   - name: search.buddyverse.net
