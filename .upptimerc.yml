@@ -146,6 +146,8 @@ sites:
     url: https://searxng.f24o.zip
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
+  - name: searxng.mcgee.red
+    url: https://searxng.mcgee.red
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
