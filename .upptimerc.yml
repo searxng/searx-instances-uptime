@@ -82,8 +82,6 @@ sites:
     url: https://search.perditum.com
   - name: search.privacyredirect.com
     url: https://search.privacyredirect.com
-  - name: search.projectsegfau.lt
-    url: https://search.projectsegfau.lt
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
   - name: search.rowie.at
