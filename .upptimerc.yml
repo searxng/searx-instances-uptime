@@ -72,6 +72,8 @@ sites:
     url: https://search.leptons.xyz
   - name: search.mdosch.de
     url: https://search.mdosch.de
+  - name: search.mycotrip.tech
+    url: https://search.mycotrip.tech
   - name: search.nerdvpn.de
     url: https://search.nerdvpn.de
   - name: search.oh64.moe
