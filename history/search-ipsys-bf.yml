@@ -1,7 +1,7 @@
 url: https://search.ipsys.bf
-status: up
-code: 200
-responseTime: 4628
-lastUpdated: 2025-10-11T23:13:23.465Z
+status: down
+code: 500
+responseTime: 4353
+lastUpdated: 2025-10-12T10:17:59.622Z
 startTime: 2025-08-18T09:35:09.988Z
 generator: Upptime <https://github.com/upptime/upptime>
