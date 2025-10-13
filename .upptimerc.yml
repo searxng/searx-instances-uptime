@@ -42,8 +42,6 @@ sites:
     url: https://search.bladerunn.in
   - name: search.buddyverse.net
     url: https://search.buddyverse.net
-  - name: search.canine.tools
-    url: https://search.canine.tools
   - name: search.catboy.house
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
@@ -144,6 +142,8 @@ sites:
     url: https://searx.zhenyapav.com
   - name: searxng.biz
     url: https://searxng.biz
+  - name: searxng.canine.tools
+    url: https://searxng.canine.tools
   - name: searxng.deliberate.world
     url: https://searxng.deliberate.world
   - name: searxng.f24o.zip
