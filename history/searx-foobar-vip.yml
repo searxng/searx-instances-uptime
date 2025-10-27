@@ -1,7 +1,7 @@
 url: https://searx.foobar.vip
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-10-26T23:15:03.556Z
+status: down
+code: 502
+responseTime: 489
+lastUpdated: 2025-10-27T21:23:16.149Z
 startTime: 2025-01-22T14:34:56.519Z
 generator: Upptime <https://github.com/upptime/upptime>
