@@ -1,7 +1,7 @@
 url: https://searx.party
-status: up
-code: 200
-responseTime: 233
-lastUpdated: 2025-10-29T23:14:15.446Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2025-10-30T04:20:51.762Z
 startTime: 2025-04-30T10:31:29.308Z
 generator: Upptime <https://github.com/upptime/upptime>
