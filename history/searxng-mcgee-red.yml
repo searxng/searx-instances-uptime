@@ -1,7 +1,7 @@
 url: https://searxng.mcgee.red
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-31T07:02:50.271Z
+status: up
+code: 200
+responseTime: 837
+lastUpdated: 2025-10-31T07:29:08.655Z
 startTime: 2025-09-20T11:22:07.078Z
 generator: Upptime <https://github.com/upptime/upptime>
