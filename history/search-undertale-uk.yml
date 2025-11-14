@@ -1,7 +1,7 @@
 url: https://search.undertale.uk
-status: up
-code: 200
-responseTime: 701
-lastUpdated: 2025-11-14T14:52:05.230Z
+status: down
+code: 502
+responseTime: 457
+lastUpdated: 2025-11-14T17:22:20.671Z
 startTime: 2025-09-05T03:26:11.894Z
 generator: Upptime <https://github.com/upptime/upptime>
