@@ -18,10 +18,6 @@ sites:
     url: https://find.xenorio.xyz
   - name: kantan.cat
     url: https://kantan.cat
-  - name: metacat.online
-    url: https://metacat.online
-  - name: northboot.xyz
-    url: https://northboot.xyz
   - name: o5.gg
     url: https://o5.gg
   - name: ooglester.com
@@ -36,8 +32,14 @@ sites:
     url: https://s.mble.dk
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
+  - name: search.a14r.be
+    url: https://search.a14r.be
+  - name: search.abohiccups.com
+    url: https://search.abohiccups.com
   - name: search.anoni.net
     url: https://search.anoni.net
+  - name: search.atl.tools
+    url: https://search.atl.tools
   - name: search.bladerunn.in
     url: https://search.bladerunn.in
   - name: search.buddyverse.net
@@ -46,6 +48,8 @@ sites:
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
     url: https://search.charliewhiskey.net
+  - name: search.darkness.services
+    url: https://search.darkness.services
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.ethibox.fr
@@ -54,8 +58,6 @@ sites:
     url: https://search.femboy.ad
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
-  - name: search.iguru.gr
-    url: https://search.iguru.gr
   - name: search.im-in.space
     url: https://search.im-in.space
   - name: search.indst.eu
@@ -72,18 +74,12 @@ sites:
     url: https://search.leptons.xyz
   - name: search.mdosch.de
     url: https://search.mdosch.de
-  - name: search.mycotrip.tech
-    url: https://search.mycotrip.tech
-  - name: search.nerdvpn.de
-    url: https://search.nerdvpn.de
   - name: search.oh64.moe
     url: https://search.oh64.moe
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.perditum.com
     url: https://search.perditum.com
-  - name: search.pollorebozado.com
-    url: https://search.pollorebozado.com
   - name: search.privacyredirect.com
     url: https://search.privacyredirect.com
   - name: search.rhscz.eu
@@ -92,20 +88,16 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
-  - name: search.system51.co.uk
-    url: https://search.system51.co.uk
   - name: search.undertale.uk
     url: https://search.undertale.uk
+  - name: search.unredacted.org
+    url: https://search.unredacted.org
   - name: search.url4irl.com
     url: https://search.url4irl.com
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.foobar.vip
-    url: https://searx.foobar.vip
-  - name: searx.foss.family
-    url: https://searx.foss.family
   - name: searx.juancord.xyz
     url: https://searx.juancord.xyz
   - name: searx.lunar.icu
@@ -138,20 +130,16 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
-  - name: searx.zhenyapav.com
-    url: https://searx.zhenyapav.com
   - name: searxng.biz
     url: https://searxng.biz
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
-  - name: searxng.deliberate.world
-    url: https://searxng.deliberate.world
+  - name: searxng.cups.moe
+    url: https://searxng.cups.moe
   - name: searxng.f24o.zip
     url: https://searxng.f24o.zip
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
-  - name: searxng.mcgee.red
-    url: https://searxng.mcgee.red
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
