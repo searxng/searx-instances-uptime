@@ -8,8 +8,6 @@ sites:
     url: https://baresearch.org
   - name: copp.gg
     url: https://copp.gg
-  - name: darmarit.org
-    url: https://darmarit.org/searx
   - name: etsi.me
     url: https://etsi.me
   - name: fairsuch.net
