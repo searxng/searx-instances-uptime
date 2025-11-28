@@ -8,6 +8,9 @@ on:
     paths:
       - ".upptimerc-custom.yml"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
