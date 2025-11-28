@@ -8,10 +8,6 @@ on:
     paths:
       - .upptimerc.yml
 
-permissions:
-  contents: read
-  issues: write
-
 concurrency:
   group: close-removed-instances
   cancel-in-progress: false
