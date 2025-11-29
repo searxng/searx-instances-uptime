@@ -134,8 +134,6 @@ sites:
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
     url: https://searxng.cups.moe
-  - name: searxng.f24o.zip
-    url: https://searxng.f24o.zip
   - name: searxng.hweeren.com
     url: https://searxng.hweeren.com
   - name: searxng.shreven.org
