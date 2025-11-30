@@ -1,6 +1,9 @@
 # Change these first
 owner: searxng # Your GitHub organization or username, where this repository lives
 repo: searx-instances-uptime # The name of this repository
+commitMessages:
+  commitAuthorName: "searxng-bot"
+  commitAuthorEmail: "searxng-bot@users.noreply.github.com"
 sites:
   - name: searx.space
     url: https://searx.space
