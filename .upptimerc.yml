@@ -57,6 +57,8 @@ sites:
     url: https://search.ethibox.fr
   - name: search.femboy.ad
     url: https://search.femboy.ad
+  - name: search.freestater.org
+    url: https://search.freestater.org
   - name: search.hbubli.cc
     url: https://search.hbubli.cc
   - name: search.im-in.space
