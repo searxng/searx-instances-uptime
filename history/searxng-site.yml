@@ -1,7 +1,7 @@
 url: https://searxng.site
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2025-12-03T23:16:00.754Z
+status: down
+code: 503
+responseTime: 359
+lastUpdated: 2025-12-04T01:43:22.597Z
 startTime: 2023-12-24T16:23:26.378Z
 generator: Upptime <https://github.com/upptime/upptime>
