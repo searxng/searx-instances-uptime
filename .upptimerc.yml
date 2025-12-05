@@ -13,8 +13,6 @@ sites:
     url: https://copp.gg
   - name: etsi.me
     url: https://etsi.me
-  - name: fairsuch.net
-    url: https://fairsuch.net
   - name: find.xenorio.xyz
     url: https://find.xenorio.xyz
   - name: kantan.cat
@@ -33,8 +31,6 @@ sites:
     url: https://s.mble.dk
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
-  - name: search.a14r.be
-    url: https://search.a14r.be
   - name: search.abohiccups.com
     url: https://search.abohiccups.com
   - name: search.anoni.net
@@ -87,8 +83,6 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
-  - name: search.rowie.at
-    url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
   - name: search.undertale.uk
@@ -101,8 +95,6 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.juancord.xyz
-    url: https://searx.juancord.xyz
   - name: searx.lunar.icu
     url: https://searx.lunar.icu
   - name: searx.mbuf.net
@@ -135,6 +127,8 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searxng.biz
     url: https://searxng.biz
+  - name: searxng.blockblitz.dev
+    url: https://searxng.blockblitz.dev
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
