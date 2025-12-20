@@ -15,6 +15,8 @@ sites:
     url: https://etsi.me
   - name: find.xenorio.xyz
     url: https://find.xenorio.xyz
+  - name: grep.vim.wtf
+    url: https://grep.vim.wtf
   - name: kantan.cat
     url: https://kantan.cat
   - name: o5.gg
@@ -81,6 +83,8 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
+  - name: search.rowie.at
+    url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
   - name: search.undertale.uk
