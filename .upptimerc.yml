@@ -129,8 +129,6 @@ sites:
     url: https://searx.tuxcloud.net
   - name: searxng.biz
     url: https://searxng.biz
-  - name: searxng.blockblitz.dev
-    url: https://searxng.blockblitz.dev
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
