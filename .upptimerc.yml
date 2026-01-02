@@ -97,6 +97,8 @@ sites:
     url: https://search.url4irl.com
   - name: search.wdpserver.com
     url: https://search.wdpserver.com
+  - name: search.zina.dev
+    url: https://search.zina.dev
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
   - name: searx.dresden.network
