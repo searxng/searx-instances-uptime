@@ -37,8 +37,6 @@ sites:
     url: https://search.abohiccups.com
   - name: search.anoni.net
     url: https://search.anoni.net
-  - name: search.atl.tools
-    url: https://search.atl.tools
   - name: search.bladerunn.in
     url: https://search.bladerunn.in
   - name: search.buddyverse.net
