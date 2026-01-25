@@ -39,8 +39,6 @@ sites:
     url: https://search.anoni.net
   - name: search.bladerunn.in
     url: https://search.bladerunn.in
-  - name: search.buddyverse.net
-    url: https://search.buddyverse.net
   - name: search.catboy.house
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
