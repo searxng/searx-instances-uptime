@@ -1,7 +1,7 @@
 url: https://www.gruble.de
-status: up
-code: 200
-responseTime: 780
-lastUpdated: 2026-01-31T23:18:56.512Z
+status: down
+code: 502
+responseTime: 592
+lastUpdated: 2026-02-01T14:00:11.270Z
 startTime: 2022-06-04T16:23:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
