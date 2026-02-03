@@ -1,7 +1,7 @@
 url: https://searx.ro
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2026-02-02T23:24:31.790Z
+status: down
+code: 502
+responseTime: 469
+lastUpdated: 2026-02-03T00:00:11.670Z
 startTime: 2024-06-25T15:31:32.331Z
 generator: Upptime <https://github.com/upptime/upptime>
