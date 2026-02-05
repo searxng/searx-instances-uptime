@@ -147,8 +147,6 @@ sites:
     url: https://www.gruble.de
   - name: searx.neocities.org
     url: https://searx.neocities.org
-  - name: sok.nordh.tech
-    url: https://sok.nordh.tech
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
