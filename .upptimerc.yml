@@ -67,8 +67,6 @@ sites:
     url: https://search.ipsys.bf
   - name: search.ipv6s.net
     url: https://search.ipv6s.net
-  - name: search.leptons.xyz
-    url: https://search.leptons.xyz
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.minus27315.dev
