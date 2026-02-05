@@ -1,3 +1,5 @@
 sites:
   - name: searx.neocities.org
     url: https://searx.neocities.org
+  - name: sok.nordh.tech
+    url: https://sok.nordh.tech
