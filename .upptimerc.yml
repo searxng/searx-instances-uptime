@@ -75,6 +75,8 @@ sites:
     url: https://search.oh64.moe
   - name: search.ononoki.org
     url: https://search.ononoki.org
+  - name: search.pereira.is
+    url: https://search.pereira.is
   - name: search.pi.vps.pw
     url: https://search.pi.vps.pw
   - name: search.privacyredirect.com
