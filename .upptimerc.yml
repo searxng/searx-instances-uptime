@@ -87,6 +87,8 @@ sites:
     url: https://search.rowie.at
   - name: search.sapti.me
     url: https://search.sapti.me
+  - name: search.seddens.net
+    url: https://search.seddens.net
   - name: search.serpensin.com
     url: https://search.serpensin.com
   - name: search.undertale.uk
