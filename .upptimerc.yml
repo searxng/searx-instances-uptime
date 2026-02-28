@@ -139,6 +139,8 @@ sites:
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
     url: https://searxng.cups.moe
+  - name: searxng.deggo.fyi
+    url: https://searxng.deggo.fyi
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
