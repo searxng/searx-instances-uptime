@@ -1,7 +1,7 @@
 url: https://searx.mbuf.net
-status: up
-code: 200
-responseTime: 148
-lastUpdated: 2026-02-27T23:21:16.402Z
+status: down
+code: 500
+responseTime: 577
+lastUpdated: 2026-02-28T17:17:11.186Z
 startTime: 2024-11-07T18:37:33.974Z
 generator: Upptime <https://github.com/upptime/upptime>
