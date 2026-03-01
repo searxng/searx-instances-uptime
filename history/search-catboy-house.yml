@@ -1,7 +1,7 @@
 url: https://search.catboy.house
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2026-02-28T23:17:50.442Z
+status: down
+code: 502
+responseTime: 988
+lastUpdated: 2026-03-01T06:01:44.665Z
 startTime: 2024-12-30T15:30:14.423Z
 generator: Upptime <https://github.com/upptime/upptime>
