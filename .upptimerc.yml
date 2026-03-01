@@ -65,8 +65,6 @@ sites:
     url: https://search.internetsucks.net
   - name: search.ipsys.bf
     url: https://search.ipsys.bf
-  - name: search.ipv6s.net
-    url: https://search.ipv6s.net
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.minus27315.dev
@@ -133,8 +131,6 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
-  - name: searxng.biz
-    url: https://searxng.biz
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
