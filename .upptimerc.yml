@@ -69,8 +69,6 @@ sites:
     url: https://search.mdosch.de
   - name: search.minus27315.dev
     url: https://search.minus27315.dev
-  - name: search.oh64.moe
-    url: https://search.oh64.moe
   - name: search.ononoki.org
     url: https://search.ononoki.org
   - name: search.pereira.is
