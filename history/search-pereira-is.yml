@@ -1,7 +1,7 @@
 url: https://search.pereira.is
-status: up
-code: 200
-responseTime: 643
-lastUpdated: 2026-03-04T23:26:37.526Z
+status: down
+code: 403
+responseTime: 582
+lastUpdated: 2026-03-05T07:27:03.220Z
 startTime: 2026-02-16T10:10:13.834Z
 generator: Upptime <https://github.com/upptime/upptime>
