@@ -91,8 +91,6 @@ sites:
     url: https://search.undertale.uk
   - name: search.unredacted.org
     url: https://search.unredacted.org
-  - name: search.url4irl.com
-    url: https://search.url4irl.com
   - name: search.wdpserver.com
     url: https://search.wdpserver.com
   - name: search.zina.dev
@@ -123,8 +121,6 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
-  - name: searx.stream
-    url: https://searx.stream
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tuxcloud.net
