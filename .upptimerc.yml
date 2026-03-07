@@ -91,6 +91,8 @@ sites:
     url: https://search.undertale.uk
   - name: search.unredacted.org
     url: https://search.unredacted.org
+  - name: search.url4irl.com
+    url: https://search.url4irl.com
   - name: search.wdpserver.com
     url: https://search.wdpserver.com
   - name: search.zina.dev
