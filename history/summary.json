@@ -408,8 +408,7 @@
       "2025-03-29": 13,
       "2025-03-21": 13,
       "2025-03-20": 12,
-      "2025-03-19": 25,
-      "2025-03-11": 17
+      "2025-03-19": 25
     }
   },
   {
@@ -779,19 +778,19 @@
     "url": "https://search.charliewhiskey.net",
     "icon": "https://icons.duckduckgo.com/ip3/search.charliewhiskey.net.ico",
     "slug": "search-charliewhiskey-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "99.44%",
-    "time": 653,
-    "timeDay": 722,
-    "timeWeek": 686,
-    "timeMonth": 700,
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "99.43%",
+    "time": 652,
+    "timeDay": 600,
+    "timeWeek": 667,
+    "timeMonth": 697,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-03-10": 2,
+      "2026-03-10": 15,
       "2026-03-07": 78,
       "2026-03-06": 56,
       "2026-03-05": 12,
@@ -1030,7 +1029,7 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.40%",
+    "uptimeWeek": "93.43%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.02%",
     "time": 613,
@@ -1088,8 +1087,7 @@
       "2025-07-07": 116,
       "2025-07-03": 198,
       "2025-04-28": 13,
-      "2025-03-26": 16,
-      "2025-03-11": 23
+      "2025-03-26": 16
     }
   },
   {
@@ -1396,14 +1394,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.pereira.is.ico",
     "slug": "search-pereira-is",
     "status": "up",
-    "uptime": "87.59%",
-    "uptimeDay": "71.95%",
-    "uptimeWeek": "88.05%",
-    "uptimeMonth": "87.59%",
-    "uptimeYear": "87.59%",
+    "uptime": "87.60%",
+    "uptimeDay": "72.50%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "87.60%",
+    "uptimeYear": "87.60%",
     "time": 729,
-    "timeDay": 713,
-    "timeWeek": 737,
+    "timeDay": 721,
+    "timeWeek": 736,
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {
@@ -1462,7 +1460,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.01%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 600,
     "timeDay": 891,
     "timeWeek": 690,
@@ -1500,8 +1498,7 @@
       "2025-04-03": 40,
       "2025-04-02": 13,
       "2025-03-16": 12,
-      "2025-03-12": 50,
-      "2025-03-11": 291
+      "2025-03-12": 50
     }
   },
   {
@@ -1618,11 +1615,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.seddens.net.ico",
     "slug": "search-seddens-net",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "96.36%",
-    "uptimeYear": "96.36%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
     "time": 884,
     "timeDay": 681,
     "timeWeek": 1008,
@@ -2021,18 +2018,19 @@
     "url": "https://searx.mxchange.org",
     "icon": "https://icons.duckduckgo.com/ip3/searx.mxchange.org.ico",
     "slug": "searx-mxchange-org",
-    "status": "up",
+    "status": "down",
     "uptime": "96.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.60%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "93.61%",
     "time": 1038,
     "timeDay": 1049,
     "timeWeek": 896,
     "timeMonth": 914,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2026-03-11": 3,
       "2026-01-26": 416,
       "2026-01-20": 32,
       "2026-01-08": 1036,
@@ -2111,7 +2109,7 @@
       "2025-05-28": 18,
       "2025-05-27": 174,
       "2025-05-26": 85,
-      "2025-05-25": 42
+      "2025-05-25": 21
     }
   },
   {
@@ -2338,7 +2336,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 535,
     "timeDay": 698,
     "timeWeek": 556,
@@ -2357,8 +2355,7 @@
       "2025-06-05": 27,
       "2025-05-22": 127,
       "2025-05-21": 1313,
-      "2025-04-22": 124,
-      "2025-03-11": 118
+      "2025-04-22": 124
     }
   },
   {
@@ -2525,11 +2522,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.deggo.fyi.ico",
     "slug": "searxng-deggo-fyi",
     "status": "up",
-    "uptime": "74.52%",
+    "uptime": "74.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "62.75%",
-    "uptimeMonth": "74.52%",
-    "uptimeYear": "74.52%",
+    "uptimeMonth": "74.54%",
+    "uptimeYear": "74.54%",
     "time": 669,
     "timeDay": 919,
     "timeWeek": 729,
@@ -2789,7 +2786,7 @@
     "time": 812,
     "timeDay": 703,
     "timeWeek": 659,
-    "timeMonth": 850,
+    "timeMonth": 854,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-03-08": 43,
