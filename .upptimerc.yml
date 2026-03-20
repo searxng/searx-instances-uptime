@@ -103,8 +103,6 @@ sites:
     url: https://searx.ankha.ac
   - name: searx.dresden.network
     url: https://searx.dresden.network
-  - name: searx.lunar.icu
-    url: https://searx.lunar.icu
   - name: searx.mbuf.net
     url: https://searx.mbuf.net
   - name: searx.mxchange.org
