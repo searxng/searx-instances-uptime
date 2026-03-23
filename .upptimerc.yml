@@ -125,6 +125,8 @@ sites:
     url: https://searx.sev.monster
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
+  - name: searx.tsmdt.de
+    url: https://searx.tsmdt.de
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
   - name: searxng.canine.tools
