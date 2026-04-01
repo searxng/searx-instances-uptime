@@ -1,7 +1,7 @@
 url: https://search.rhscz.eu
-status: up
-code: 200
-responseTime: 425
-lastUpdated: 2026-03-31T23:30:55.016Z
+status: down
+code: 503
+responseTime: 357
+lastUpdated: 2026-04-01T07:54:48.957Z
 startTime: 2022-10-24T07:59:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
