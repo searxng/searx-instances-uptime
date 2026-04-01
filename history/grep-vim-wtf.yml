@@ -1,7 +1,7 @@
 url: https://grep.vim.wtf
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2026-03-31T23:30:12.082Z
+status: down
+code: 500
+responseTime: 501
+lastUpdated: 2026-04-01T10:16:30.888Z
 startTime: 2025-12-20T18:49:27.267Z
 generator: Upptime <https://github.com/upptime/upptime>
