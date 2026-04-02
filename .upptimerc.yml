@@ -67,8 +67,6 @@ sites:
     url: https://search.inetol.net
   - name: search.internetsucks.net
     url: https://search.internetsucks.net
-  - name: search.ipsys.bf
-    url: https://search.ipsys.bf
   - name: search.mdosch.de
     url: https://search.mdosch.de
   - name: search.minus27315.dev
