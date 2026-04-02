@@ -13,6 +13,8 @@ sites:
     url: https://copp.gg
   - name: etsi.me
     url: https://etsi.me
+  - name: failsearx.culturanerd.it
+    url: https://failsearx.culturanerd.it
   - name: find.xenorio.xyz
     url: https://find.xenorio.xyz
   - name: grep.vim.wtf
