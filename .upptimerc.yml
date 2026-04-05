@@ -45,8 +45,6 @@ sites:
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
     url: https://search.charliewhiskey.net
-  - name: search.darkness.services
-    url: https://search.darkness.services
   - name: search.datenkrake.ch
     url: https://search.datenkrake.ch
   - name: search.einfachzocken.eu
