@@ -45,6 +45,8 @@ sites:
     url: https://search.catboy.house
   - name: search.charliewhiskey.net
     url: https://search.charliewhiskey.net
+  - name: search.chocolatemoo53.com
+    url: https://search.chocolatemoo53.com
   - name: search.datenkrake.ch
     url: https://search.datenkrake.ch
   - name: search.einfachzocken.eu
@@ -137,6 +139,8 @@ sites:
     url: https://searxng.deggo.fyi
   - name: searxng.fishfvch.com
     url: https://searxng.fishfvch.com
+  - name: searxng.gdebest.net
+    url: https://searxng.gdebest.net
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
