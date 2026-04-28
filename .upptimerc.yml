@@ -31,8 +31,6 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
-  - name: s.mble.dk
-    url: https://s.mble.dk
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
   - name: search.abohiccups.com
