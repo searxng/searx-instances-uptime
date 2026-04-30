@@ -21,8 +21,6 @@ sites:
     url: https://grep.vim.wtf
   - name: kantan.cat
     url: https://kantan.cat
-  - name: o5.gg
-    url: https://o5.gg
   - name: ooglester.com
     url: https://ooglester.com
   - name: opnxng.com
