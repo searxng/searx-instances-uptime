@@ -1,7 +1,7 @@
 url: https://failsearx.culturanerd.it
-status: up
-code: 200
-responseTime: 670
-lastUpdated: 2026-05-08T23:53:07.553Z
+status: down
+code: 502
+responseTime: 509
+lastUpdated: 2026-05-09T10:42:51.618Z
 startTime: 2026-04-02T09:11:41.641Z
 generator: Upptime <https://github.com/upptime/upptime>
