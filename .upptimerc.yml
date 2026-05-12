@@ -41,6 +41,8 @@ sites:
     url: https://search.catboy.house
   - name: search.chocolatemoo53.com
     url: https://search.chocolatemoo53.com
+  - name: search.ctq.ro
+    url: https://search.ctq.ro
   - name: search.datenkrake.ch
     url: https://search.datenkrake.ch
   - name: search.einfachzocken.eu
@@ -109,6 +111,8 @@ sites:
     url: https://searx.party
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
+  - name: searx.rajimayur.me
+    url: https://searx.rajimayur.me
   - name: searx.redgarden.cv
     url: https://searx.redgarden.cv
   - name: searx.rhscz.eu
@@ -123,6 +127,8 @@ sites:
     url: https://searx.tsmdt.de
   - name: searx.tuxcloud.net
     url: https://searx.tuxcloud.net
+  - name: searxng.blablalinux.be
+    url: https://searxng.blablalinux.be
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
@@ -133,6 +139,8 @@ sites:
     url: https://searxng.fishfvch.com
   - name: searxng.gdebest.net
     url: https://searxng.gdebest.net
+  - name: searxng.gr
+    url: https://searxng.gr
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
