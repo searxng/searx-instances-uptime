@@ -105,8 +105,6 @@ sites:
     url: https://searx.namejeff.xyz
   - name: searx.oloke.xyz
     url: https://searx.oloke.xyz
-  - name: searx.ox2.fr
-    url: https://searx.ox2.fr
   - name: searx.party
     url: https://searx.party
   - name: searx.perennialte.ch
