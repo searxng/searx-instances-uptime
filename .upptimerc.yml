@@ -143,6 +143,8 @@ sites:
     url: https://searxng.site
   - name: searxng.website
     url: https://searxng.website
+  - name: searxng.wuemeli.com
+    url: https://searxng.wuemeli.com
   - name: seek.fyi
     url: https://seek.fyi
   - name: sx.catgirl.cloud
