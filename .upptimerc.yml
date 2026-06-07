@@ -43,8 +43,6 @@ sites:
     url: https://search.chocolatemoo53.com
   - name: search.ctq.ro
     url: https://search.ctq.ro
-  - name: search.datenkrake.ch
-    url: https://search.datenkrake.ch
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.ethibox.fr
