@@ -1,7 +1,7 @@
 url: https://search.seddens.net
-status: up
-code: 200
-responseTime: 472
-lastUpdated: 2026-06-15T00:10:13.390Z
+status: down
+code: 502
+responseTime: 648
+lastUpdated: 2026-06-15T18:19:19.477Z
 startTime: 2026-02-25T10:32:40.257Z
 generator: Upptime <https://github.com/upptime/upptime>
