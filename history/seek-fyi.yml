@@ -1,7 +1,7 @@
 url: https://seek.fyi
-status: up
-code: 200
-responseTime: 571
-lastUpdated: 2026-06-16T00:36:35.386Z
+status: down
+code: 502
+responseTime: 51
+lastUpdated: 2026-06-16T07:48:56.200Z
 startTime: 2024-09-05T09:22:29.372Z
 generator: Upptime <https://github.com/upptime/upptime>
