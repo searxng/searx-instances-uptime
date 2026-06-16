@@ -1,7 +1,7 @@
 url: https://searx.redgarden.cv
-status: up
-code: 200
-responseTime: 758
-lastUpdated: 2026-06-16T00:35:03.698Z
+status: down
+code: 502
+responseTime: 325
+lastUpdated: 2026-06-16T12:38:17.746Z
 startTime: 2026-04-09T08:24:46.122Z
 generator: Upptime <https://github.com/upptime/upptime>
