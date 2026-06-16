@@ -1,7 +1,7 @@
 url: https://searxng.gdebest.net
-status: up
-code: 200
-responseTime: 472
-lastUpdated: 2026-06-15T00:10:38.219Z
+status: down
+code: 502
+responseTime: 593
+lastUpdated: 2026-06-16T00:36:29.845Z
 startTime: 2026-04-23T09:51:27.235Z
 generator: Upptime <https://github.com/upptime/upptime>
