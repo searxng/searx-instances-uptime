@@ -61,10 +61,10 @@ sites:
     url: https://search.internetsucks.net
   - name: search.liuzj.net
     url: https://search.liuzj.net
-  - name: search.maliffadlan.dev
-    url: https://search.maliffadlan.dev
   - name: search.mdosch.de
     url: https://search.mdosch.de
+  - name: search.mectov.my.id
+    url: https://search.mectov.my.id
   - name: search.minus27315.dev
     url: https://search.minus27315.dev
   - name: search.ononoki.org
@@ -153,6 +153,8 @@ sites:
     url: https://sx.catgirl.cloud
   - name: www.gruble.de
     url: https://www.gruble.de
+  - name: xka.cz
+    url: https://xka.cz
   - name: searx.neocities.org
     url: https://searx.neocities.org
 status-website:
