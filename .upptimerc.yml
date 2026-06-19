@@ -67,8 +67,6 @@ sites:
     url: https://search.mectov.my.id
   - name: search.minus27315.dev
     url: https://search.minus27315.dev
-  - name: search.ononoki.org
-    url: https://search.ononoki.org
   - name: search.pereira.is
     url: https://search.pereira.is
   - name: search.pi.vps.pw
@@ -77,6 +75,8 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
+  - name: search.root.hr
+    url: https://search.root.hr
   - name: search.rowie.at
     url: https://search.rowie.at
   - name: search.sapti.me
@@ -107,6 +107,8 @@ sites:
     url: https://searx.namejeff.xyz
   - name: searx.oloke.xyz
     url: https://searx.oloke.xyz
+  - name: searx.ononoki.org
+    url: https://searx.ononoki.org
   - name: searx.party
     url: https://searx.party
   - name: searx.perennialte.ch
