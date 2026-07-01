@@ -31,8 +31,6 @@ sites:
     url: https://priv.au
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
-  - name: search.abohiccups.com
-    url: https://search.abohiccups.com
   - name: search.anoni.net
     url: https://search.anoni.net
   - name: search.bladerunn.in
@@ -125,6 +123,8 @@ sites:
     url: https://searx.ro
   - name: searx.sev.monster
     url: https://searx.sev.monster
+  - name: searx.thefloatinglab.world
+    url: https://searx.thefloatinglab.world
   - name: searx.tiekoetter.com
     url: https://searx.tiekoetter.com
   - name: searx.tsmdt.de
@@ -143,6 +143,8 @@ sites:
     url: https://searxng.gdebest.net
   - name: searxng.gr
     url: https://searxng.gr
+  - name: searxng.moonshadow.dev
+    url: https://searxng.moonshadow.dev
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
