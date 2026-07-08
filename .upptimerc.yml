@@ -29,6 +29,8 @@ sites:
     url: https://paulgo.io
   - name: priv.au
     url: https://priv.au
+  - name: sear.lurx.net
+    url: https://sear.lurx.net
   - name: search.2b9t.xyz
     url: https://search.2b9t.xyz
   - name: search.anoni.net
@@ -149,6 +151,8 @@ sites:
     url: https://searxng.shreven.org
   - name: searxng.site
     url: https://searxng.site
+  - name: searxng.tr
+    url: https://searxng.tr
   - name: searxng.website
     url: https://searxng.website
   - name: searxng.wuemeli.com
