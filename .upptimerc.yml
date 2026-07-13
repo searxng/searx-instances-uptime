@@ -131,8 +131,6 @@ sites:
     url: https://searx.tiekoetter.com
   - name: searx.tsmdt.de
     url: https://searx.tsmdt.de
-  - name: searx.tuxcloud.net
-    url: https://searx.tuxcloud.net
   - name: searxng.canine.tools
     url: https://searxng.canine.tools
   - name: searxng.cups.moe
