@@ -43,6 +43,8 @@ sites:
     url: https://search.chocolatemoo53.com
   - name: search.ctq.ro
     url: https://search.ctq.ro
+  - name: search.drayko.xyz
+    url: https://search.drayko.xyz
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.ethibox.fr
@@ -59,6 +61,8 @@ sites:
     url: https://search.inetol.net
   - name: search.internetsucks.net
     url: https://search.internetsucks.net
+  - name: search.jns.net.ar
+    url: https://search.jns.net.ar
   - name: search.liuzj.net
     url: https://search.liuzj.net
   - name: search.lumy.live
@@ -95,6 +99,8 @@ sites:
     url: https://search.url4irl.com
   - name: search.wdpserver.com
     url: https://search.wdpserver.com
+  - name: search.yuri.llc
+    url: https://search.yuri.llc
   - name: search.zina.dev
     url: https://search.zina.dev
   - name: searx.ankha.ac
@@ -147,6 +153,8 @@ sites:
     url: https://searxng.gr
   - name: searxng.moonshadow.dev
     url: https://searxng.moonshadow.dev
+  - name: searxng.paralaxitaentomology.org
+    url: https://searxng.paralaxitaentomology.org
   - name: searxng.shreven.org
     url: https://searxng.shreven.org
   - name: searxng.site
