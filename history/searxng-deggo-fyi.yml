@@ -1,7 +1,7 @@
 url: https://searxng.deggo.fyi
-status: down
-code: 429
-responseTime: 263
-lastUpdated: 2026-07-22T11:43:29.914Z
+status: up
+code: 200
+responseTime: 654
+lastUpdated: 2026-07-22T13:17:50.167Z
 startTime: 2026-02-28T13:29:16.288Z
 generator: Upptime <https://github.com/upptime/upptime>
