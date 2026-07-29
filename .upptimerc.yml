@@ -43,8 +43,6 @@ sites:
     url: https://search.chocolatemoo53.com
   - name: search.ctq.ro
     url: https://search.ctq.ro
-  - name: search.drayko.xyz
-    url: https://search.drayko.xyz
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.ethibox.fr
@@ -105,6 +103,8 @@ sites:
     url: https://search.zina.dev
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
+  - name: searx.drayko.xyz
+    url: https://searx.drayko.xyz
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.linxx.net
@@ -123,8 +123,6 @@ sites:
     url: https://searx.party
   - name: searx.perennialte.ch
     url: https://searx.perennialte.ch
-  - name: searx.rajimayur.me
-    url: https://searx.rajimayur.me
   - name: searx.redgarden.cv
     url: https://searx.redgarden.cv
   - name: searx.rhscz.eu
