@@ -143,6 +143,8 @@ sites:
     url: https://searxng.cups.moe
   - name: searxng.deggo.fyi
     url: https://searxng.deggo.fyi
+  - name: searxng.eshnetwork.space
+    url: https://searxng.eshnetwork.space
   - name: searxng.fishfvch.com
     url: https://searxng.fishfvch.com
   - name: searxng.gdebest.net
