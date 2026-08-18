@@ -9,8 +9,6 @@ sites:
     url: https://searx.space
   - name: baresearch.org
     url: https://baresearch.org
-  - name: copp.gg
-    url: https://copp.gg
   - name: etsi.me
     url: https://etsi.me
   - name: failsearx.culturanerd.it
@@ -59,8 +57,6 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
-  - name: search.internetsucks.net
-    url: https://search.internetsucks.net
   - name: search.jns.net.ar
     url: https://search.jns.net.ar
   - name: search.liuzj.net
@@ -81,12 +77,8 @@ sites:
     url: https://search.privacyredirect.com
   - name: search.rhscz.eu
     url: https://search.rhscz.eu
-  - name: search.root.hr
-    url: https://search.root.hr
   - name: search.rowie.at
     url: https://search.rowie.at
-  - name: search.sapti.me
-    url: https://search.sapti.me
   - name: search.seddens.net
     url: https://search.seddens.net
   - name: search.serpensin.com
@@ -95,16 +87,12 @@ sites:
     url: https://search.undertale.uk
   - name: search.unredacted.org
     url: https://search.unredacted.org
-  - name: search.wdpserver.com
-    url: https://search.wdpserver.com
   - name: search.yuri.llc
     url: https://search.yuri.llc
   - name: search.zina.dev
     url: https://search.zina.dev
   - name: searx.ankha.ac
     url: https://searx.ankha.ac
-  - name: searx.drayko.xyz
-    url: https://searx.drayko.xyz
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.linxx.net
@@ -167,8 +155,6 @@ sites:
     url: https://searxng.website
   - name: searxng.wuemeli.com
     url: https://searxng.wuemeli.com
-  - name: seek.fyi
-    url: https://seek.fyi
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: sx.h4rl3y.xyz
