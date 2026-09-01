@@ -7,6 +7,8 @@ commitMessages:
 sites:
   - name: searx.space
     url: https://searx.space
+  - name: anonsearch.win
+    url: https://anonsearch.win
   - name: baresearch.org
     url: https://baresearch.org
   - name: etsi.me
@@ -83,6 +85,8 @@ sites:
     url: https://search.seddens.net
   - name: search.serpensin.com
     url: https://search.serpensin.com
+  - name: search.spiralab.org
+    url: https://search.spiralab.org
   - name: search.undertale.uk
     url: https://search.undertale.uk
   - name: search.unredacted.org
@@ -159,6 +163,8 @@ sites:
     url: https://sx.catgirl.cloud
   - name: sx.h4rl3y.xyz
     url: https://sx.h4rl3y.xyz
+  - name: sx.xo.st
+    url: https://sx.xo.st
   - name: www.gruble.de
     url: https://www.gruble.de
   - name: xka.cz
