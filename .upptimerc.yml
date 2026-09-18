@@ -69,6 +69,8 @@ sites:
     url: https://search.mdosch.de
   - name: search.mectov.my.id
     url: https://search.mectov.my.id
+  - name: search.meowing.monster
+    url: https://search.meowing.monster
   - name: search.minus27315.dev
     url: https://search.minus27315.dev
   - name: search.pereira.is
@@ -167,6 +169,8 @@ sites:
     url: https://sx.xo.st
   - name: www.gruble.de
     url: https://www.gruble.de
+  - name: www.isci.si
+    url: https://www.isci.si
   - name: xka.cz
     url: https://xka.cz
   - name: searx.neocities.org
