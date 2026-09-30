@@ -1,7 +1,7 @@
 url: https://searxng.moonshadow.dev
-status: up
-code: 200
-responseTime: 642
-lastUpdated: 2026-09-30T02:04:13.431Z
+status: down
+code: 500
+responseTime: 5207
+lastUpdated: 2026-09-30T09:05:07.574Z
 startTime: 2026-07-01T14:03:59.720Z
 generator: Upptime <https://github.com/upptime/upptime>
