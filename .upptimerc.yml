@@ -141,8 +141,6 @@ sites:
     url: https://searxng.deggo.fyi
   - name: searxng.eshnetwork.space
     url: https://searxng.eshnetwork.space
-  - name: searxng.fishfvch.com
-    url: https://searxng.fishfvch.com
   - name: searxng.gdebest.net
     url: https://searxng.gdebest.net
   - name: searxng.gr
@@ -163,8 +161,6 @@ sites:
     url: https://searxng.wuemeli.com
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
-  - name: sx.h4rl3y.xyz
-    url: https://sx.h4rl3y.xyz
   - name: sx.xo.st
     url: https://sx.xo.st
   - name: www.gruble.de
