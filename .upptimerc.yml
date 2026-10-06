@@ -59,6 +59,8 @@ sites:
     url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
+  - name: search.jeremyh.xyz
+    url: https://search.jeremyh.xyz
   - name: search.jns.net.ar
     url: https://search.jns.net.ar
   - name: search.liuzj.net
