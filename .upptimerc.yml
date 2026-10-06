@@ -31,8 +31,6 @@ sites:
     url: https://priv.au
   - name: sear.lurx.net
     url: https://sear.lurx.net
-  - name: search.2b9t.xyz
-    url: https://search.2b9t.xyz
   - name: search.anoni.net
     url: https://search.anoni.net
   - name: search.banke.cloud
@@ -99,8 +97,6 @@ sites:
     url: https://search.yuri.llc
   - name: search.zina.dev
     url: https://search.zina.dev
-  - name: searx.ankha.ac
-    url: https://searx.ankha.ac
   - name: searx.dresden.network
     url: https://searx.dresden.network
   - name: searx.linxx.net
