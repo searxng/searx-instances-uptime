@@ -99,6 +99,8 @@ sites:
     url: https://search.zina.dev
   - name: searx.dresden.network
     url: https://searx.dresden.network
+  - name: searx.githo.st
+    url: https://searx.githo.st
   - name: searx.linxx.net
     url: https://searx.linxx.net
   - name: searx.mbuf.net
