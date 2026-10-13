@@ -53,8 +53,6 @@ sites:
     url: https://search.hbubli.cc
   - name: search.im-in.space
     url: https://search.im-in.space
-  - name: search.indst.eu
-    url: https://search.indst.eu
   - name: search.inetol.net
     url: https://search.inetol.net
   - name: search.jeremyh.xyz
