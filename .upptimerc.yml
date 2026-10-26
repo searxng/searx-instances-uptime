@@ -25,6 +25,8 @@ sites:
     url: https://libresearch.space
   - name: opnxng.com
     url: https://opnxng.com
+  - name: oziway.net
+    url: https://oziway.net
   - name: paulgo.io
     url: https://paulgo.io
   - name: priv.au
@@ -57,8 +59,6 @@ sites:
     url: https://search.inetol.net
   - name: search.jeremyh.xyz
     url: https://search.jeremyh.xyz
-  - name: search.jns.net.ar
-    url: https://search.jns.net.ar
   - name: search.liuzj.net
     url: https://search.liuzj.net
   - name: search.lumy.live
@@ -91,6 +91,8 @@ sites:
     url: https://search.undertale.uk
   - name: search.unredacted.org
     url: https://search.unredacted.org
+  - name: search.utilibre.org
+    url: https://search.utilibre.org
   - name: search.yuri.llc
     url: https://search.yuri.llc
   - name: search.zina.dev
@@ -143,6 +145,8 @@ sites:
     url: https://searxng.gdebest.net
   - name: searxng.gr
     url: https://searxng.gr
+  - name: searxng.jaydenha.uk
+    url: https://searxng.jaydenha.uk
   - name: searxng.moonshadow.dev
     url: https://searxng.moonshadow.dev
   - name: searxng.paralaxitaentomology.org
