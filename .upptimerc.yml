@@ -161,6 +161,8 @@ sites:
     url: https://searxng.website
   - name: searxng.wuemeli.com
     url: https://searxng.wuemeli.com
+  - name: shrt.win
+    url: https://shrt.win
   - name: sx.catgirl.cloud
     url: https://sx.catgirl.cloud
   - name: sx.xo.st
