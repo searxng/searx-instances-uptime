@@ -1,7 +1,7 @@
 url: https://www.isci.si
-status: up
-code: 200
-responseTime: 586
-lastUpdated: 2026-11-14T03:07:36.723Z
+status: down
+code: 502
+responseTime: 411
+lastUpdated: 2026-11-14T08:23:36.052Z
 startTime: 2026-09-18T18:46:37.548Z
 generator: Upptime <https://github.com/upptime/upptime>
