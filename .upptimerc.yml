@@ -11,8 +11,6 @@ sites:
     url: https://anonsearch.win
   - name: baresearch.org
     url: https://baresearch.org
-  - name: etsi.me
-    url: https://etsi.me
   - name: failsearx.culturanerd.it
     url: https://failsearx.culturanerd.it
   - name: find.xenorio.xyz
@@ -45,6 +43,8 @@ sites:
     url: https://search.chocolatemoo53.com
   - name: search.ctq.ro
     url: https://search.ctq.ro
+  - name: search.dnslister.com
+    url: https://search.dnslister.com
   - name: search.einfachzocken.eu
     url: https://search.einfachzocken.eu
   - name: search.ethibox.fr
@@ -63,10 +63,6 @@ sites:
     url: https://search.liuzj.net
   - name: search.lumy.live
     url: https://search.lumy.live
-  - name: search.mdosch.de
-    url: https://search.mdosch.de
-  - name: search.mectov.my.id
-    url: https://search.mectov.my.id
   - name: search.minus27315.dev
     url: https://search.minus27315.dev
   - name: search.mizuki.st
@@ -115,8 +111,6 @@ sites:
     url: https://searx.ononoki.org
   - name: searx.party
     url: https://searx.party
-  - name: searx.perennialte.ch
-    url: https://searx.perennialte.ch
   - name: searx.redgarden.cv
     url: https://searx.redgarden.cv
   - name: searx.rhscz.eu
@@ -143,8 +137,6 @@ sites:
     url: https://searxng.eshnetwork.space
   - name: searxng.gdebest.net
     url: https://searxng.gdebest.net
-  - name: searxng.gr
-    url: https://searxng.gr
   - name: searxng.jaydenha.uk
     url: https://searxng.jaydenha.uk
   - name: searxng.moonshadow.dev
